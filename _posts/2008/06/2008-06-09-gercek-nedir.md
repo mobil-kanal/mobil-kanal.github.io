@@ -1,6 +1,4 @@
 ---
-author: Ömer Serdar Ören
-layout: post
 title: "Gerçek Nedir?"
 date: "2008-06-09"
 categories: 
@@ -11,6 +9,9 @@ tags:
   - "hazine"
   - "yalan"
   - "yazilar"
+cover-img: /assets/img/2008/06/doga-orman-ahsap-ev-deniz-nehir-mavi-gokyuzu-manzara-reality-bing-image-creator-1.jpeg
+thumbnail-img: /assets/img/2008/06/doga-orman-ahsap-ev-deniz-nehir-mavi-gokyuzu-manzara-reality-bing-image-creator-1.jpeg
+share-img: /assets/img/2008/06/doga-orman-ahsap-ev-deniz-nehir-mavi-gokyuzu-manzara-reality-bing-image-creator-1.jpeg
 ---
 
 
