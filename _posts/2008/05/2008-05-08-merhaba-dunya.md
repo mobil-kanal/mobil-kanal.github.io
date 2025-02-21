@@ -1,6 +1,5 @@
 ---
-author: Ömer Serdar Ören
-layout: post
+author: "Ömer Serdar Ören"
 title: "Merhaba Dünya"
 date: "2008-05-08"
 categories: 
