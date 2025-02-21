@@ -20,7 +20,8 @@ author: mk.pasdo.com
 ###############################################
 
 navbar-links:
-  About Me: "hakkinda"
+  Hakkında: "hakkinda"
+  İletişim: "iletisim"
   Sosyal Medya:
     - YouTube: "https://www.youtube.com/mobilkanal"
     - Instagram: "https://www.instagram.com/mobilkanal"
