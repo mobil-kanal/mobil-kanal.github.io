@@ -12,7 +12,6 @@ share-img: /assets/img/2009/10/renk-yuz-cizim-icsel-kesif-dusunce-bing-image-cre
 thumbnail-img: /assets/img/2009/10/renk-yuz-cizim-icsel-kesif-dusunce-bing-image-creator-1.jpeg
 ---
 
-![](https://holomirror.wordpress.com/wp-content/uploads/2009/10/renk-yuz-cizim-icsel-kesif-dusunce-bing-image-creator-1.jpeg)
 
 Birkaç gün önce otobüste giderken ve kulaklığımı takmış müziğimi dinlerken içimden bir ses bana şöle seslendi.
 
