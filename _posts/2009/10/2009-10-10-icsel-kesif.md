@@ -1,4 +1,5 @@
 ---
+author: "Ömer Serdar Ören"
 title: "İçsel Keşif"
 date: "2009-10-10"
 categories: 
@@ -6,6 +7,9 @@ categories:
 tags: 
   - "dusunce"
   - "yazilar"
+cover-img: /assets/img/2009/10/renk-yuz-cizim-icsel-kesif-dusunce-bing-image-creator-1.jpeg
+share-img: /assets/img/2009/10/renk-yuz-cizim-icsel-kesif-dusunce-bing-image-creator-1.jpeg
+thumbnail-img: /assets/img/2009/10/renk-yuz-cizim-icsel-kesif-dusunce-bing-image-creator-1.jpeg
 ---
 
 ![](https://holomirror.wordpress.com/wp-content/uploads/2009/10/renk-yuz-cizim-icsel-kesif-dusunce-bing-image-creator-1.jpeg)
