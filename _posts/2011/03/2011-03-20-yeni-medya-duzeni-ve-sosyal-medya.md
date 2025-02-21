@@ -1,4 +1,5 @@
 ---
+author: "Ömer Serdar Ören"
 title: "Yeni Medya Düzeni ve Sosyal Medya"
 date: "2011-03-20"
 categories: 
@@ -7,9 +8,11 @@ tags:
   - "internet"
   - "sosyal-medya"
   - "yazilar"
+cover-img: /assets/img/2011/03/dallc2b7e-2023-03-05-14.28.04-effective-use-of-social-media-with-mobile-phones.png
+share-img: /assets/img/2011/03/dallc2b7e-2023-03-05-14.28.04-effective-use-of-social-media-with-mobile-phones.png
+thumbnail-img: /assets/img/2011/03/dallc2b7e-2023-03-05-14.28.04-effective-use-of-social-media-with-mobile-phones.png
 ---
 
-![](https://holomirror.wordpress.com/wp-content/uploads/2011/03/dallc2b7e-2023-03-05-14.28.04-effective-use-of-social-media-with-mobile-phones.png)
 
 **“Yeni Medya Düzeni”** özellikle son zamanlarda oldukça fazla kulak aşinalığı edindiğimiz bir kelime oldu. İnternetin içinde yaşayan gençliğin kelime dağarcığına yerleşti. Haberin kaynağını direkt olarak takip etme imkanı olanlar, kendi internet yayınlama araçları ile anında içerik oluşturabiliyor. **Bloglar, sözlükler ve paylaşım siteleri** (Facebook, twitter) sayesinde kolayca insanlara ulaşıyorlar. Bu araçlar, yeni mecralar açıyor. Mobil iletişim araçlarının yaygınlaşması, kelimenin tam anlamıyla **eş zamanlı olarak paylaşılmasını sağlıyor.** Çoğu zaman yalan, dedikodu ve dezenformasyona maruz kalmasına rağmen tercih edilen bilgi kaynağı olması önlenemeyecek gibi gözüküyor.
 

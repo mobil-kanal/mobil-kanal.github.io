@@ -1,4 +1,5 @@
 ---
+author: "Ömer Serdar Ören"
 title: "Eski Türk Ahlakı"
 date: "2011-10-12"
 categories: 
@@ -9,9 +10,11 @@ tags:
   - "turkiye"
   - "turklerin-yasam-tarzi"
   - "yazilar"
+cover-img: /assets/img/2011/10/ayasofya-yazi-sultan-abdulmecid-tugra-tarihi-camii-1.jpg
+share-img: /assets/img/2011/10/ayasofya-yazi-sultan-abdulmecid-tugra-tarihi-camii-1.jpg
+thumbnail-img: /assets/img/2011/10/ayasofya-yazi-sultan-abdulmecid-tugra-tarihi-camii-1.jpg
 ---
 
-![](https://holomirror.wordpress.com/wp-content/uploads/2011/10/ayasofya-yazi-sultan-abdulmecid-tugra-tarihi-camii-1.jpg)
 
 İnternette karşılaştığım bir yazıda eskiden Türk’lerin yaşam biçimi, ahlakı, hakkında söylenenler ile ilgili çarpıcı bir yazıya denk geldim. Herkesin mutlaka okuması gereken ve ecdadımızın ahlakı ile ilgili önemli detayları paylaşmak istedim.
 

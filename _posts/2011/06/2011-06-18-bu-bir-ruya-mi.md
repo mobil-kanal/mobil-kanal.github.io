@@ -1,4 +1,5 @@
 ---
+author: "Ömer Serdar Ören"
 title: "Bu bir rüya mı?"
 date: "2011-06-18"
 categories: 
@@ -8,9 +9,11 @@ tags:
   - "neler-oluyor"
   - "ruya"
   - "yazilar"
+cover-img: /assets/img/2011/06/ruya-alemi-bing-image-creator-ai-yapay-zeka.jpeg
+share-img: /assets/img/2011/06/ruya-alemi-bing-image-creator-ai-yapay-zeka.jpeg
+thumbnail-img: /assets/img/2011/06/ruya-alemi-bing-image-creator-ai-yapay-zeka.jpeg
 ---
 
-![](https://holomirror.wordpress.com/wp-content/uploads/2011/06/ruya-alemi-bing-image-creator-ai-yapay-zeka.jpeg)
 
 Bazı bakış açılarına göre yaşadığımız hayat bir **rüya** olsa da, hani derler ya: bu kadar da olmaz! dedirten günler yaşıyoruz. Dünya’nın her tarafında tarih yazılıyor. Bölünen, parçalanan, çoğalan ülkeler, internette sosyal medya önünde başlatılan hareketler, ne idüğü belli olmayan uzmanlar ve daha niceleri. Hepsi tam coğrafyamızın göbeğinde cereyan ediyor. Son 1 haftadır gazete ve haberleri ( yerli, yabancı ) ciddi bir şekilde takip ediyorum. Şu an **çıldırmama az kaldı!** Siyasetçiler nasıl dayanıyor hiç anlayamıyorum. Herkes hesaplar peşinde, kafamız da 40 tilki sevişiyor, para, şan şöhret, ev, araba için kıçımızı yırtıyoruz.. ( Ben de dahil tanıdığım herkes ) Nereye gidiyoruz? Eğer bu bir “rüya” ise; uyanmamız gerek ve insanlığın içinde bulunduğu ahlaki, vicdani, zihinsel buhranın içinden uyanmalı. Yok… Eğer bu bir rüya değilse; SIÇTIK! Kimin **“AK**” kimin “**KARA**” olduğunu anlamamızın mümkün gözükmediği günlerde; Gelmiş en üstün insan **Allah** Resulu **Hz. Muhammed** (S.A.V) kıyamete yaklaştığımız günler için söylemiş olduğu bir söz aklıma geliyor.
 

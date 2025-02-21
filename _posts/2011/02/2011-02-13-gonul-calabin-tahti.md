@@ -1,4 +1,5 @@
 ---
+author: "Ömer Serdar Ören"
 title: "Gönül Calab’ın Tahtı"
 date: "2011-02-13"
 categories: 
@@ -9,9 +10,11 @@ tags:
   - "yunus-emre"
   - "yunus-emre-siirleri"
   - "siir"
+cover-img: /assets/img/2011/02/koltuk-oda-cicek-kita-tuy-kalem-samdan-gonul-taht-siir-bing-image-creator-1.jpeg
+share-img: /assets/img/2011/02/koltuk-oda-cicek-kita-tuy-kalem-samdan-gonul-taht-siir-bing-image-creator-1.jpeg
+thumbnail-img: /assets/img/2011/02/koltuk-oda-cicek-kita-tuy-kalem-samdan-gonul-taht-siir-bing-image-creator-1.jpeg
 ---
 
-![](https://holomirror.wordpress.com/wp-content/uploads/2011/02/koltuk-oda-cicek-kita-tuy-kalem-samdan-gonul-taht-siir-bing-image-creator-1.jpeg)
 
 Bugün beni çok etkileyen bir şiir paylaşmak istedim. Her mısrada, her kıtada ayrı anlam deryaları içeren **Yunus Emre**’nin **“Gönül Calab’ın Tahtı”** şiiri.
 
@@ -42,21 +45,12 @@ GÖNÜL CALAB’IN TAHTI
 > Sinle sırat görmeye, sevdiği didar iseYunus Emre
 
 - **Dem-be-dem**: Zaman zaman
-
 - **Münevver**: Bilgili, aydın
-
 - **Calap**: ALLAH
-
 - **Pir koca**: İhtiyar
-
 - **Bedbaht**: Talihsiz
-
 - **Sin**: Mezar
-
 - **Sırat**: Cennet yolu
-
 - **Didar**: Allaha kavusma, hakkın yüzü
-
 - **Ayruk**: Başkası
-
 - **Sanmak**: istemek

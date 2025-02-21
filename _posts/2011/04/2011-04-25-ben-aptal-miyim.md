@@ -1,4 +1,5 @@
 ---
+author: "Ömer Serdar Ören"
 title: "Ben Aptal! mıyım?"
 date: "2011-04-25"
 categories: 
@@ -9,9 +10,10 @@ tags:
   - "doga"
   - "savas"
   - "yazilar"
+cover-img: /assets/img/2011/04/bing-ai-dusuncu-aptal-soru-isareti-aptal-adam-erkek.jpeg
+share-img: /assets/img/2011/04/bing-ai-dusuncu-aptal-soru-isareti-aptal-adam-erkek.jpeg
+thumbnail-img: /assets/img/2011/04/bing-ai-dusuncu-aptal-soru-isareti-aptal-adam-erkek.jpeg
 ---
-
-![](https://holomirror.wordpress.com/wp-content/uploads/2011/04/bing-ai-dusuncu-aptal-soru-isareti-aptal-adam-erkek.jpeg)
 
 Zeki olmak bir ayrıcalık mı? Mantık ve akıl bize doğru yolu gösterir mi? Bazen bu soruların cevaplarının “**Hayır**” olması “**Evet**” olmasından daha mantıklı geliyor.
 
@@ -24,9 +26,7 @@ Bu süreçten benim çıkardığım sonuç ise şehirleşmenin bizim kanımıza 
 Normal olan her zaman doğal mıdır? Tereddüt etmeden “**Hayır**” diyebilirim.
 
 - Eşcinsellik normal midir? Günümüzde evet. Doğal mıdır? Hayır.
-
 - Apartmanın otoparkında tavuk kesip yemek yapmak normal midir? Hayır. Doğal mıdır? Evet.
-
 - Solaryuma girmek normal midir? Evet. Doğal mıdır? Hayır.
 
 **Normal** ile **doğal** olan şeyleri karşılaştırabileceğimiz o kadar çok şey var ki… Neresinden bakarsanız bakın, yaşantımızı normal şekilde yaşayarak doğamıza karşı geliyoruz. Kendi doğasını bozan ‘**insan’ olan bizler** ise yaşadığımız Dünyamızı katlediyoruz. **Savaşlar çıkartıyor, kardeşlerimizi öldürüyoruz. Ağaçları kesiyor, kıçımızı siliyoruz. Sonra “DÜNYA BARIŞI” istiyoruz. Herkesin kardeş olduğunu ileri sürüyoruz.**
