@@ -1,5 +1,5 @@
 ---
-author: Ömer Serdar Ören
+author: "Ömer Serdar Ören"
 title: "Gerçek Nedir?"
 date: "2008-06-09"
 categories: 
