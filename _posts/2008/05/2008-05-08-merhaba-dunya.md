@@ -9,7 +9,6 @@ tags:
   - "merhaba"
   - "yazilar"
 ---
-
-![](https://holomirror.wordpress.com/wp-content/uploads/2008/05/bismillah.jpeg?w=869)
+![](/assets/img/2008/05/bismillah.jpeg)
 
 WordPress’e hoş geldiniz. Bu sizin ilk yazınız. Bu yazıyı düzenleyin ya da silin. Sonra yazmaya başlayın!
