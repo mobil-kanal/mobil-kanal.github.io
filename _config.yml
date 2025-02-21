@@ -10,21 +10,22 @@
 ############################
 
 # Name of website
-title: My website
+title: Mobil Kanal
 
 # Your name to show in the footer
-author: Some Person
+author: mk.pasdo.com
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  About Me: "hakkinda"
+  Sosyal Medya:
+    - YouTube: "https://www.youtube.com/mobilkanal"
+    - Instagram: "https://www.instagram.com/mobilkanal"
+    - Twitter: "https://twitter.com/mobil_kanal"
+  pasdo.com: "https://pasdo.com"
 
 ################
 # --- Logo --- #
@@ -50,27 +51,28 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  #email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+#  facebook: pmk
+  github: mobil-kanal
+  twitter: mobil_kanal
+  patreon: mobilkanal
+  youtube: "@mobilkanal"
+#  whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
-#  linkedin: daattali
+  reddit: r/mobilkanal
+#  linkedin: mobilkanal
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
+#  stackoverflow: "3943160/daas"
+#  snapchat: deana
+#  instagram: mobilkanal
 #  spotify: yourname
 #  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
+#  steam: deana
+#  twitch: mobilkanal
 #  yelp: yourname
-#  telegram: yourname
+  telegram: mobilkanal
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  bluesky: yourname
@@ -85,7 +87,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: Hayatın mobil tarafından yansımalar
 
 ###########################
 # --- General options --- #
@@ -100,7 +102,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "mobilkanal.pasdo.com"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -258,11 +260,11 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Europe/Istanbul"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
-paginate: 5
+permalink: /:year/:month/:day/:title/
+paginate: 7
 
 kramdown:
   input: GFM
