@@ -8,7 +8,6 @@ tags:
   - "internet"
   - "medium"
   - "yazilar"
-cover-img: /assets/img/2014/03/medium-anasayfa-homepage.png
 share-img: /assets/img/2014/03/medium-anasayfa-homepage.png
 thumbnail-img: /assets/img/2014/03/medium-anasayfa-homepage.png
 ---
