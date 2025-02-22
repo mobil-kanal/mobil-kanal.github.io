@@ -76,10 +76,10 @@ social-network-links:
   telegram: mobilkanal
 #  calendly: yourname
   mastodon: mastodon.social/@mobilkanal
-#  bluesky: mobilkanal
+  bluesky: mobilkanal
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
-  discord: mobilkanal #"invite_code" or "users/userid" or "invite/invite_code"
+#  discord: mobilkanal #"invite_code" or "users/userid" or "invite/invite_code"
 #  kaggle: yourname
 #  hackerrank: yourname
 #  gitlab: yourname
