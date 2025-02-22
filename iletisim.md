@@ -17,5 +17,5 @@ permalink: /iletisim/
 - **Telegram:** [https://t.me/mobilkanal](https://t.me/mobilkanal)
 - **Reddit:** [https://reddit.com/r/mobilkanal](https://reddit.com/r/mobilkanal)
 - **Twitch:** [https://twitch.tv/mobilkanal](https://twitch.tv/mobilkanal)
-- **Blusky:** [https://bsky.app/profile/mobilkanal.bsky.social](https://bsky.app/profile/mobilkanal.bsky.social)
+- **Bluesky:** [https://bsky.app/profile/mobilkanal.bsky.social](https://bsky.app/profile/mobilkanal.bsky.social)
 - **Linktree:** [https://linktr.ee/mobilkanal](https://linktr.ee/mobilkanal)
