@@ -1,5 +1,4 @@
 ---
-author: "Ömer Serdar Ören"
 title: "Eski Türk Ahlakı"
 date: "2011-10-12"
 categories: 

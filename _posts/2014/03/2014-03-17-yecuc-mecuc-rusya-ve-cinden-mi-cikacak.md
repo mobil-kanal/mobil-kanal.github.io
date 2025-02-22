@@ -1,5 +1,4 @@
 ---
-author: "Ömer Serdar Ören"
 title: "Ye'cüc Me'cüc Rusya ve Çin'den mi Çıkacak?"
 date: "2014-03-17"
 categories: 

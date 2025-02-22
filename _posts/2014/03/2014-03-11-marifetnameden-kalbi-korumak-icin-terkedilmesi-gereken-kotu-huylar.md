@@ -1,5 +1,4 @@
 ---
-author: "Ömer Serdar Ören"
 title: "Marifetname'den Kalbi Korumak için Terkedilmesi Gereken Kötü Huylar"
 date: "2014-03-11"
 categories: 

@@ -1,5 +1,4 @@
 ---
-author: "Ömer Serdar Ören"
 title: "İnsanlar Korkuyor"
 date: "2013-03-13"
 categories: 

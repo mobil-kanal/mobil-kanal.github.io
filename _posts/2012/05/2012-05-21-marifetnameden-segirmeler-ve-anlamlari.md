@@ -1,5 +1,4 @@
 ---
-author: "Ömer Serdar Ören"
 title: "Marifetname’den Seğirmeler ve Anlamları"
 date: "2012-05-21"
 categories: 
