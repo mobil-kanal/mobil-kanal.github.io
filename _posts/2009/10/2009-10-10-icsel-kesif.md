@@ -13,7 +13,7 @@ thumbnail-img: /assets/img/2009/10/renk-yuz-cizim-icsel-kesif-dusunce-bing-image
 ---
 
 
-Birkaç gün önce otobüste giderken ve kulaklığımı takmış müziğimi dinlerken içimden bir ses bana şöle seslendi.
+Birkaç gün önce otobüste giderken ve kulaklığımı takmış müziğimi dinlerken içimden bir ses bana şöyle seslendi.
 
 Akıl der ki: Eğer şuna da sahip olursan senin için çok iyi olacak. Evet haklıydı…  
 Akıl der ki: Eğer şurada olsan daha rahat olacaksın. Evet haklıydı.  
