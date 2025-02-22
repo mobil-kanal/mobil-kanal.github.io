@@ -37,9 +37,7 @@ Burada öncelikle insanları okumak için gerekli bir bilgiden yani “**Beden D
 Sosyal Psikolog Prof. [Albert Mehrabian](http://en.wikipedia.org/wiki/Albert_Mehrabian) 1971′de yapmış olduğu çalışmalardan (ki bu konuda yapılan ilk bilimsel çalışmalar olarak kabul edilir.) herkesin kabul ettiği 55/38/7 kuralı çıkmıştır. Karşılıklı iletişimin üç unsuru:
 
 - %55 görsel (jestler, duruş, mimikler –[non verbal](http://en.wikipedia.org/wiki/Nonverbal_communication)\-)
-
 - %38 ses ( sesin tonu, değişimi, şiddeti -vocal-)
-
 - %7 sözel (kullanılan kelimeler -verbal-)
 
 Yukarıdaki bilgiler gösteriyor ki ne kadar düzgün bir dil kullanırsanız kullanın, uygun görsel veya işitsel mesajlar gönderilmediğinde konuşmanız anlamını yitirebilir. Uygun görsel veya işitsel mesajları özellikle belirtmek istiyorum çünkü karşılıklı iletişimimizde sahip olduğumuz enstrümanlar bunlar. Aslında kaderin cilvesi olsa gerek sorun da burada başlıyor. Çünkü bedende binlerce kas var. Genel olarak elimize kolumuza sahip çıkabilsekte duyguların oluşturduğu istemsiz kasılmaları -mikro ifadeleri- bilinçli olarak kontrol edilmesi imkansızdır. Mesela hoşlandığınız birisini görünce göz bebekleriniz büyür ve bunu kontrol etmeniz imkansızdır. Dolayısıyla beden dilini kullanarak yalan söylemek kolay değildir. Bir kafeye ya da bara gittiğinizde hangi kızla konuşursanız çıkma şansınızın daha fazla olacağına sadece tekila içip içmediğine göre değil, beden diline de dikkat etmeniz sonuca ulaşmada yararı dokunabilir.☺Bir satıcı iseniz karşınızdaki insanın ellerine bakarak sonucun nereye varacağını öngörmek çok zor değil.
@@ -69,21 +67,13 @@ Mesela bir satıcı iseniz ve karşınızdakinin üstüne düşmeye değer mi yo
 **Eller demişken bir kaç ipucu daha verelim;**
 
 - Dürüst insanlar daha sık avuçlarını gösterir.
-
 - Çocuklar yalan söylerken ellerini saklarlar.
-
 - İnsanlar gerçekçi nedenler anlatırken avuç içlerini gösterirler
-
 - Elleri cepte olan insanlar sohbet etmeye açık değildir.
-
 - Ellerini göğüsünün üstüne getiren insanlar savunma psikolojisine geçmiş demektir.
-
 - Avuç içi yukarıda -> Tehditkar değil
-
 - Avuç içi aşağıda -> Otoriter (Hitler’i hatırlayın)
-
 - Yumruğunu sıkmak -> Direnç göstergesi
-
 - Parmakla işaret etmek karşı taraf için sinir bozucu jestlerden biridir. Konuşurken karşınızdaki rahatsız etmemek için parmakları birleştirmeyi ya da avuç içlerinizi aşağı yukarı hareket ettirmeyi kullanabilirsiniz.
 
 Gördüğünüz gibi aslında hep hayatımızın içinde olan şeyler. Farkında olalım ya da olmayalım her bir jest/mimik/duruş bizim için bir mesaj içeriyor. Amerikan başkanı’nın konuşmalarını lacivert bir fonun önünde yapması sadece tesadüf eseri mi? Yoksa bilinçaltımıza gönderilen gizli bir mesaj mı içeriyor?
@@ -92,9 +82,9 @@ Henüz komplo teorilerine girmeye niyetim yok. Basit ve günlük mimiklerle baş
 
 En çok kullandığımız yüz ifadelerin başında: mutluluk, korku, öfke, şaşkınlık, hor görme, üzüntü ve tiksinti gelmekte. Basit bir kaç detaya dikkat ederek karşımızdaki insanın bize rol yapıp yapmadığını anlamak çok kolay. Örneğin, yaptığımız espriye gülen kişinin, göz etrafında kaz ayakları denen kırışıklıklar oluşmuyorsa, sadece bizi kırmamak için sırıttığını anlayabiliriz. Çünkü oradaki kaslar sadece gerçek bir gülümsemede kasılabiliyor. Neyse sözü fazla uzatmadan yüz ifadeleri ile ilgili görsellere geçelim.
 
-https://imgur.com/a/gsOv9
+`https://imgur.com/a/gsOv9`
 
-https://imgur.com/a/bjjtUrG
+`https://imgur.com/a/bjjtUrG`
 
 Tabiki çok daha fazla bilgiyi internette bulabilmek mümkün. Ama burada yüz ifadeleri hakkında kabaca bir bilgimiz olduğuna göre; arkadaşlarınızda, internette, ailenizde karşılaştığınız yüz ifadelerine daha dikkatli bakmayı deneyebilirsiniz. Dikkatlice gözlem yaparsak öğrendiklerimizi pratikleştirmiş oluruz ve aradaki küçük ayrıntıları daha çok fark etmeye başlarız.
 
@@ -152,7 +142,7 @@ Son olarak bir konuya odaklanınca o konu hakkında kaynak toplamak zaman aldı�
 
 **Güncelleme (29.11.2018):** Ben bu yazıları yazdığımda beden dili ve sözsüz iletişim hakkında bilgilendirici youtube kanalları yoktu. Son günlerde bir kanal gözüme çarptı ve paylaşmak istedim. Konu hakkında bilgilendiri kaynak ve youtube kanallarını vakit buldukça paylaşacağım. Sizin de yararlandığınız kaynaklar varsa aşağıdaki yorum bölümünde belirtirseniz yazıya eklerim.
 
-https://www.youtube.com/channel/UCv1n\_Pu4RY9XOdRc0116dBg
+`https://www.youtube.com/channel/UCv1n_Pu4RY9XOdRc0116dBg`
 
 * * *
 

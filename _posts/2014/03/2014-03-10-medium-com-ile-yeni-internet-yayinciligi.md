@@ -13,10 +13,11 @@ share-img: /assets/img/2014/03/medium-anasayfa-homepage.png
 thumbnail-img: /assets/img/2014/03/medium-anasayfa-homepage.png
 ---
 
-
 Son yıllarda blog dünyasındaki gelişmeler sunulan servisleri geliştirmekten ibaretti. Bloggerlar için bir sonraki büyük şeyin ne olabileceği merak konusu iken karşıma Medium çıktı. Biraz tanıdıkça “**Medium** ile yeni bir yayıncılık veya blogculuk dönemi başlayabilir mi?” sorusunu kendime sormadan edemedim ve bazı cevaplar aradım.
 
 Ağustos 2012’de [Medium](http://medium.com/) (türkçe anlamı mecra) twitter kurucuları [Evan Williams](http://en.wikipedia.org/wiki/Evan_Williams_%28entrepreneur%29) ve [Biz Stone](http://tr.wikipedia.org/wiki/Biz_Stone) önderliğinde açıldı. Amacı, twitter’ın 140 karakterlik sınırını eleştirenlere bir cevap niteliğindeydi. Yazımı rahat, sinir bozucu şeylerden uzak saf bir blog platformu olmaktan öte birşeyler olabileceğini daha önce fark etmemiştim. Özellikleri geliştikçe (_mobil cihaz desteği, yazılarınızı başkalarıyla beraber düzenleme, yazı koleksiyonlarında geliştirmeler ve yakında gelecek iPhone uygulaması._) bir blog platformu olmaktan öteye bir yayıncılık kültürü halini alabileceğini düşünmeye başladım. Bu düşüncemde **Matter** adlı girişimin etkisi oldukça fazla. ReadMatter adlı [Kickstarter](https://www.kickstarter.com/projects/readmatter/matter) kampanyası başarıya ulaşarak bağımsız, özgün, kaliteli yazıların ve gazeteciliğin kapıları aralanmış oldu. [ReadMatter](http://medium.com/matter) medium sayfasını açın ve eğer İngilizceniz varsa bir yazıyı okumaya başlayın. Eğer isterseniz anasayfada en çok okunan yazılardan da başlayabilirsiniz. Okumayı seven bir kişiyseniz pişman olacağınızı zannetmiyorum.
+
+![](/assets/img/2014/03/medium-anasayfa-homepage.png)
 
 Reklamsız, yanan sönen afilli şeyler olmadan emek verilmiş saf bilgi içeren bir yazıyı okumak onu yazmaktan daha zevkli benim için. Merak ettiğiniz bir yazıyı okumak için ekranın başına oturduğunuzda sizi rahatsız edecek hiç bir şey yok. Bu konuyu özellikle belirtmek istiyorum çünkü Türkiye’nin en çok okunan online gazetelerini halini gördükçe içim acıyor. Her yer reklam ve her şey ilginizi çekerek kendini tıklatmak için ortalıkta cirit atıyor. Daha da kötüsü kimse buna **DUR** demiyor. Bende kendimce bir tepki koyuyor ve mecbur olmadıkça o sitelere girmiyorum. Hatta aynı nedenlerden **ekşisözlük**’ü kullanmayı bile bıraktım.
 

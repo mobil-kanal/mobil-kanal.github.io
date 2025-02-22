@@ -10,9 +10,9 @@ tags:
   - "sosyal-medya"
   - "yalan"
   - "yazilar"
-cover-img: /assets/img/2014/03/ozgurluk-kandirmacasi-guvercin-gunes-bulut-kafes-bing-image-creator-ai.jpeg)
-share-img: /assets/img/2014/03/ozgurluk-kandirmacasi-guvercin-gunes-bulut-kafes-bing-image-creator-ai.jpeg)
-thumbnail-img: /assets/img/2014/03/ozgurluk-kandirmacasi-guvercin-gunes-bulut-kafes-bing-image-creator-ai.jpeg)
+cover-img: /assets/img/2014/03/ozgurluk-kandirmacasi-guvercin-gunes-bulut-kafes-bing-image-creator-ai.jpeg
+share-img: /assets/img/2014/03/ozgurluk-kandirmacasi-guvercin-gunes-bulut-kafes-bing-image-creator-ai.jpeg
+thumbnail-img: /assets/img/2014/03/ozgurluk-kandirmacasi-guvercin-gunes-bulut-kafes-bing-image-creator-ai.jpeg
 ---
 
 
