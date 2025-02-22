@@ -7,7 +7,7 @@ permalink: /iletisim/
 
 İletişim için en iyi seçenek aşağıdaki e-posta adresim ama vakit buldukça sosyal medya hesaplarına da bakıyorum.
 
-- **E-mail:** [mobilkanal@pasdo.com](mailto:mobilkanal@pasdo.com)
+- **E-mail:** [mobilkanal@protonmail.com](mailto:mobilkanal@protonmail.com)
 - **Instagram:** [https://instagram.com/mobilkanal](https://instagram.com/mobilkanal)
 - **YouTube:** [https://youtube.com/mobilkanal](https://youtube.com/mobilkanal)
 - **TikTok:** [https://tiktok.com/@mobilkanal](https://tiktok.com/@mobilkanal)
