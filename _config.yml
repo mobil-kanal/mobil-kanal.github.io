@@ -63,23 +63,23 @@ social-network-links:
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
   reddit: r/mobilkanal
-#  linkedin: mobilkanal
+  linkedin: mobilkanal
 #  xing: yourname
 #  stackoverflow: "3943160/daas"
-#  snapchat: deana
-#  instagram: mobilkanal
+  snapchat: mobilkanal
+  instagram: mobilkanal
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deana
-#  twitch: mobilkanal
+  twitch: mobilkanal
 #  yelp: yourname
   telegram: mobilkanal
 #  calendly: yourname
-#  mastodon: instance.url/@username
-#  bluesky: yourname
+  mastodon: mastodon.social/@mobilkanal
+#  bluesky: mobilkanal
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
-#  discord: "invite_code" or "users/userid" or "invite/invite_code"
+  discord: mobilkanal #"invite_code" or "users/userid" or "invite/invite_code"
 #  kaggle: yourname
 #  hackerrank: yourname
 #  gitlab: yourname
