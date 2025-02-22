@@ -13,7 +13,7 @@ language: tr
 title: Mobil Kanal
 
 # Your name to show in the footer
-author: mk.pasdo.com
+author: mobilkanal.org
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -26,7 +26,7 @@ navbar-links:
   #  - YouTube: "https://www.youtube.com/mobilkanal"
   #  - Instagram: "https://www.instagram.com/mobilkanal"
   #  - Twitter: "https://twitter.com/mobil_kanal"
-  pasdo.com: "https://pasdo.com"
+  #mobilkanal.org: "https://www.mobilkanal.org"
 
 ################
 # --- Logo --- #
@@ -103,7 +103,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "mobilkanal.pasdo.com"
+url-pretty: "www.mobilkanal.org"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
