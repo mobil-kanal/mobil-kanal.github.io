@@ -20,8 +20,8 @@ thumbnail-img: /assets/img/2014/05/sangay-shanghai-nehir-sehir-binalar-gokdelen-
 
 Bloggerların en büyük dertlerinden biri, özene bezene hazırladığı yazıya uygun ve bedava fotoğraf bulabilmek. Hepimiz biliyoruz ki ne kadar güzel bir yazı yazarsanız yazın; görsellerle desteklenmediği sürece okuyucu için kaçış nedeni olarak görülüyor.
 
-{: .box-note}
-**ÖNEMLİ NOT:** Ben bu yazıyı yazdığımda *2014* yılındaydım. Okuduğunuz tarihte sitelerin isimleri, lisanslar veya işlevleri değişmiş olabilir. Hatta kapanmış bile olabilir. Lütfen güncel bilgiler için internette araştırma yapınız
+
+<ins>**ÖNEMLİ NOT:** Ben bu yazıyı yazdığımda *2014* yılındaydım. Okuduğunuz tarihte sitelerin isimleri, lisanslar veya işlevleri değişmiş olabilir. Hatta kapanmış bile olabilir. Lütfen güncel bilgiler için internette araştırma yapınız.</ins>
 
 Çoğumuz (kendi ve başkalarının ürettiklerine saygı duyan) için işkenceye dönüşen bu arayış benim için de geçerli. İnternette kaba bir araştırma ile bedava yüksek kaliteli fotoğraf indirmenizi ve istediğiniz (ticari veya kişisel) gibi kullanmanıza olanak veren siteleri buldum. Aşağıya ekledim.
 

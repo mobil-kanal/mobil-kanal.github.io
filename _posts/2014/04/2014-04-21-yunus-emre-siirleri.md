@@ -25,17 +25,17 @@ Ben yürürem yane yane, Aşk boyadi beni kane
 Ne akilem ne Divane, Gel gör beni aşk neyledi  
 Gah eserem yeller gibi, Gah tozaram yollar gibi  
 Gah akaram seller gibi, gel gör beni aşk neyledi  
-\*\\_\* \*\*_  
+
 Akan sulayın çağlaram, Dertli cigerem dağlaram  
 Şeyhim anuban ağlaram, gel gör beni aşk neyledi  
 Ya elim al kaldır beni, ya vaslına erdir beni  
 Çok ağladım güldür beni, gel gör beni aşk neyledi  
-\*\\_\* \*\*_  
+
 Mecnun oluban yürürem, ol yari düşte görürem  
 Uyanıp melul oluram, gel gör beni aşk neyledi  
 Miskin Yunus biçareyem, baştan aşağı yareyem  
 Dost ilinden avareyem, gel gör beni aşk neyledi  
-\*\\_\* \*\*_  
+
 Akıl : Akıllı  
 Divane : Deli, Meczup  
 Melül : Elem
@@ -48,12 +48,12 @@ Hak cihana doludur, kimseler Hakkı bilmez
 Onu sen senden iste, o senden ayrı olmaz  
 Dünyaya gelen geçer, bir bir şerbetin içer  
 Bu bir köprüdür geçer, Cahiller onu bilmez  
-\*\\_\* \*\*_  
+
 Gelin tanış olalım, işin kolayın tutalım  
 Sevelim sevilelim, dünya kimseye kalmaz  
 Yunus sözün anlar isen, mani’sini dinler isen  
 Sana iyi dirlik gerek, bunda kimseler kalmaz  
-\*\\_\* \*\*_  
+
 Mani : Anlam
 
 * * *
@@ -64,12 +64,12 @@ Benim bunda kararım yok, bunda gitmeye geldim
 Bezirganım mataım çok, alana satmağa geldim.  
 Ben gelmedim da’vi için benim işim sevi için  
 Dostun evi gönüllerdir, gönüller yapmağa geldim  
-\*\\_\* \*\*_  
+
 Dost eşruğu deliliğim, aşıklar bilir neliğim  
 Devşuruben ikiliğim, birliğe bitmeye geldim  
 [Yunus Emre](https://en.wikipedia.org/wiki/Yunus_Emre) aşık olmuş, ma’şuka derdinden olmuş  
 Gerçek erin kapısında ömrüm harcamaya geldim  
-\*\\_\* \*\*_  
+
 bezirgan: Tüccar  
 mata : Mal,erzak  
 dav’i : Dava peşinde koşmak,kavga,dava.  
@@ -87,12 +87,12 @@ Dilsizler haberin kulaksız dinleyesi
 Dilsiz kulaksız sözü, can gerek anlayaşı  
 Dinlemeden anladık, anlamadan eyledik  
 Gerçek erin bu yolda yokluktur sermayesi  
-\*\\_\* \*\*_  
+
 Biz sevdik aşık olduk, sevildik maşuk olduk  
 Her dem yeni dirlikte, bizden kim usanası  
 Miskin Yunus ol veli, yerde gökte dopdolu  
 Her taş altında gizli, bin imran oğlu MUSİ  
-\*\\_\* \*\*_  
+
 di˜rlik: Hayat  
 imran oğlu MUSİ : MUSA peygamber
 
@@ -104,17 +104,17 @@ Söylememek harcısı, söylemeğin hasıdır
 Söylemeğin harcısı, gönüllerin pasıdır  
 Cümle yaratılmışa bir göz ile bakmayan  
 Halka müderris ise, hakikatte asidir  
-\*\\_\* \*\*_  
+
 Şeriat haberini şerh ile eydem işit  
 Şeriat bir gemidir, hakikat deryasıdır  
 Ol geminin tahtası her nice muhkem ise  
 Deniz mevci kat olsa, tahta uşanasıdır  
-\*\\_\* \*\*_  
+
 Bundan içeri haber işit, eydeyin ey yar  
 Hakikatin kafiri, şer’in evliyasıdır  
 Biz talib-i ilimleriz, aşk kitabın okuruz  
 Calap müderris bize, aşk hod medresedir  
-\*\\_\* \*\*_  
+
 Harcısı : Uygunu  
 Has : Güzel  
 Şeriat : Kuranın Dışsal, açık anlamı  
@@ -139,12 +139,12 @@ Nice bir besleyesin, bu kadd ile kameti
 Düştün dünya zevkine unuttun kıyameti  
 Dürüs, kazan, ye yedir, bir gönül ele getir  
 Yüz KABEden yiğrektir, bir gönül ziyareti  
-\*\\_\* \*\*_  
+
 Uslu değil delidir Halka Salusluk satan  
 Nefsin müslüman etsin var ise kerameti  
 Yunus imdi sen dahi, gerçeklerden olagör  
 Gerçek erenler imiş, cümlenin ziyareti  
-\*\\_\* \*\*_  
+
 Kadd : Boy,pos  
 Kamet : Boy  
 Dürüs : Toplayıp biraraya getirme  
@@ -160,12 +160,12 @@ Bu bir acaip haldir bu hale kimse ermez
 Alimle davi kılar, Veli değme göz görmez  
 İlm ile hikmet ile, kimse ermez bu sırra  
 Bu bir acaib sırdır, ilme kitaba sığmaz  
-\*\\_\* \*\*_  
+
 Alem ilmi okuyan, dört mezhep sırrın duyan  
 Aciz kaldı bu yolda, bu aşka el uramaz  
 Yunus canını terk et, bildiklerini terk et  
 Fena olmayan suret, şahına vasıl olmaz  
-\*\\_\* \*\*_  
+
 Davi : Savunulan sey  
 Veli : Amma lakin  
 Fena : Benliği terkedip yokluk halinde olma
@@ -178,14 +178,14 @@ Aşk makamı al˜ ır, aşk kadim ezelidir
 Aşk sözünü söyleyen, cümle kudret dilidir  
 Diyen o, işiten o, gösteren o  
 Her sözü söyleyen o, suret can menzilidir  
-\*\\_\* \*\*_  
+
 Suret söz kanda buldu, söz sahibi kaçan oldu  
 Surete kendi geldi, dil hikmetin yoludur  
 Bu bizim işretimiz, oldur bu lezzetimiz  
 İçip esridiğimiz, aşk şerbeti gölüdür  
 Yunus sözünde yalan, görmedi mumin olan  
 Ömrün zülmete salan, marifet yoksuludur  
-\*\\_\* \*\*_  
+
 Ali : Yüksek,yüce  
 Menzil : Ulaşılacak yer  
 İşret : Eğlence  
@@ -201,17 +201,17 @@ Hak bir gönül verdi bana, ha demeden hayran olur
 Bir dem gelir şadan olur, bir dem gelir giryan olur  
 Bir dem gelir söyleyemez, bir sözü şerh eyleyemez  
 Bir dem cehalette kalır, nesne bilmez nadan olur  
-\*\\_\* \*\*_  
+
 Bir dem dev olur ya peri, viraneler olur yeri  
 Bir dem uçar BELKIS ile sultan-ı ins u can olur  
 Bir dem varır mescitlere, yüz sürer anda yerlere  
 Bir dem varır deyre girer, incil okur ruhban olur  
-\*\\_\* \*\*_  
+
 Bir dem gelir İSA gibi ölmüşleri diri kılar  
 Bir dem girer kibr evine, Firavn ile Haman olur  
 Bir dem döner CEBRAİLE rahmet saçar her mahfile  
 Bir dem gelir gümrah olur, miskin Yunus hayran olur  
-\*\\_\* \*\*_  
+
 Hayran : Şaşkın  
 Şadan : Sevinçli  
 Giryan : Ağlayan  
@@ -231,22 +231,22 @@ Aşkın aldı benden beni, bana seni gerek seni
 Ben yanarım dün ü günü, bana seni gerek seni  
 Ne varlığa sevinirim, ne yokluğa yerinirim  
 Aşkın ile avunurum bana seni gerek seni  
-\*\\_\* \*\*_  
+
 Aşkın aşıklar öldürür,Aşk denizine daldırır  
 Tecelli ile doldurur,bana seni gerek seni  
 Aşkın şarabından içem,Mecnun olup yola düşem  
 Sensin dün ü gün endişem, Bana seni gerek seni  
-\*\\_\* \*\*_  
+
 Sufilere sohbet gerek, Ahilere ahret gerek  
 Mecnunlara Leyla gerek, bana seni gerek seni  
 Eğer beni öldüreler, külüm göğe savuralar  
 Toprağım anda çağırır, bana seni gerek seni  
-\*\\_\* \*\*_  
+
 Cennet dedikleri ne ki, bir kaç köşkle birkaç huri  
 İsteyene ver onları, bana seni gerek seni  
 Yunus-durur benim adım, gün geçtikce artar ödüm  
 İki cihanda maksudum, bana seni gerek seni  
-\*\\_\* \*\*_  
+
 Tecelli: Allah eserlerinin mevcut olanda görünmesi  
 [Sufi](https://en.wikipedia.org/wiki/Sufism) : Derviş  
 Maksud : Amaç
@@ -259,7 +259,7 @@ Bir kez gönül yıktın ise
 Bu kıldığın namaz değil  
 Yetmişiki millet dahi  
 Elin yüzün yumaz değil  
-\*\\_\* \*\*_  
+
 Yol odur ki, doğru vara  
 Göz odur ki, Hakkı göre  
 Er odur ki alçak dura  
@@ -273,17 +273,17 @@ Yüceden bakan göz değil
 Sen kendini bilmezsin, ya nice okumaktır  
 Okumaktan mani ne, kişi Hakkı bilmektir  
 Çün okudun bilemedin, ha bir kuru emektir  
-\*\\_\* \*\*_  
+
 Okudum bildim deme, çok taat kıldım deme  
 Eri hak bilmez isen, abes yere yelmektir  
 Dört kitabın manisi, bellidir bir elif te  
 Sen elif dersin hoca, manisi ne demektir  
-\*\\_\* \*\*_  
+
 Yunus der ki Ey hoca  
 Gerekse var bin Hacca  
 Hepisinden iyice  
 Bir gönüle girmektir  
-\*\\_\* \*\*_  
+
 Taat : İbadet  
 Abes : Boş yere, boşuna  
 Yelmek : Ardından gitmek  
@@ -297,19 +297,19 @@ Ey beni ayıplayan, gel beni aşktan kurtar
 Elinden gelmez ise, söyleme fasid haber  
 Hiç kimsene kendinden, halden hale gelmedi  
 Cümlemizin halini, maşuk eder mukarrer  
-\*\\_\* \*\*_  
+
 Aşıkların her hali, Maşuk katında biter  
 Sözün var ona söyle, benim elimde ne var  
 Her kim aşk kadehinden,içti ise bir cura  
 Ona ne yad ne biliş, ona nesrik ne humar  
-\*\\_\* \*\*_  
+
 Dost yüzünden nikabı, her kim giderdi ise  
 Hicap kalmadı ona, ayruk ne hayr u ne şer  
 Şeriat edebinden korkaram söylemeye  
 Yokise eydeyidim daha ayrıksı haber  
 Dost kılıçından Yunus ölürse gam değil  
 Dost göğünden uyanan, Maşuk burcundan doğar  
-\*\\_\* \*\*_  
+
 Fasid : Bozucu, fesat  
 Mukarrer : Kararlaştırılmış  
 Cur’a : Yudum  
@@ -328,12 +328,12 @@ Haber eylen aşıklara, Aşka gönül veren benem
 Aşk bahrisi oluban denizlere dalan benem  
 Gördüm göğün meleklerin, her biri bir işteymis  
 Hak Calabın zikrin eden İNCİL benem KURAN benem  
-\*\\_\* \*\*_  
+
 Gördüm diyen değil, gören  
 Bildim diyen değil, bilen  
 Bilen O’dur, gösteren O,  
 Aşka esir olan benem  
-\*\\_\* \*\*_  
+
 Deli oldum adım Yunus  
 Aşk oldu bana kılavuz  
 Hazrete değin yalınız  
@@ -347,12 +347,12 @@ Müslümanlar zamane yatlı oldu
 Helal yenmez, haram kıymetli oldu  
 Fakirler miskinlikten çekti elin  
 Gönüller yıkıben heybetli oldu  
-\*\\_\* \*\*_  
+
 Peygamber yerine geçen hocalar  
 Bu halkın başına zahmetli oldu  
 Yunus gel aşık isen tevbe eyle  
 Nasuh’a tevbe ucu kutlu oldu  
-\*\\_\* \*\*_  
+
 Nasuh tevbesi : Bir daha bozmamak üzere edilen tevbe
 
 * * *
@@ -363,17 +363,16 @@ Ya rab bu ne derttir derman bulunmaz
 Benim garip gönlüm aşktan usanmaz  
 Aşık ki cana kaldı aşık olmaz  
 Canın terketmeyen, ma’şukun bulmaz  
-\*\\_\* \*\*_  
+
 Aşk pazarıdır bu canlar satılır  
 Satarım canımı kimseler almaz  
 Aşık, bir kişidir, Bu dünya malın  
 Ahiret korkusun bir pula saymaz  
-\*\\_\* \*\*_  
+
 Bu dünya ol ahiretten içeri  
 Aşıkın yeri var kimseler bilmez  
 Yunus öldü diye sela verirler  
 Ölen hayvan imiş, AŞIKLAR ÖLMEZ  
-\*\\_\* \*\*_
 
 * * *
 
@@ -383,22 +382,22 @@ Miskinlikte buldular, kimde erlik var ise
 Merdivenden ittiler, yüksekten bakar ise  
 Gönül yüksekte gezer, dem-be-dem yoldan azar  
 Dış yüzüne o sızar içinde ne var ise  
-\*\\_\* \*\*_  
+
 Ak sakallı pir hoca, bilemez hali nice  
 Emek vermesin hacca, bir gönül yıkar ise  
 Sağır işitmez sözü, gece sanar gündüzü  
 Kördür münkirin gözü, alem münevver ise  
-\*\\_\* \*\*_  
+
 Gönül Calabın tahtı, CALAP gönüle baktı  
 İki cihan bedbahtı, kim gönül yıkar ise  
 Sen sana ne sanırsan ayrugada onu san  
 Dört kitabın manası budur eğer var ise  
-\*\\_\* \*\*_  
+
 Bildik gelenler geçmiş, konanlar geri göçmüş  
 Aşk şarabından içmiş, kim mana duyar ise  
 Yunus yoldan azuban, yüksek yerde durmasın  
 Sinle sırat görmeye, sevdiği didar ise  
-\*\\_\* \*\*_  
+
 Dem-be-dem : Zaman zaman  
 Münevver : Bilgili, aydın  
 Calap : ALLAH  
@@ -416,12 +415,12 @@ Kime gönül verir isem, benim ile yar olmadı
 Halim bilip derdim sorup bana vefadar olmadı  
 Haktan meğer takdir idi, Aşık oldu gönlüm sana  
 Hiç kimseler bencileyin, aşka giriftar olmadı  
-\*\\_\* \*\*_  
+
 İbrahime Nemrud odunu, aşktır gülistan eden  
 Aşktan nazar ericeğiz, gülzar oldu nar olmadı  
 Aşkta kahırlar çok olur, Aşıklara gayret gerek  
 Yunus aşık oldun ise, aşıklarda ar olmadı  
-\*\\_\* \*\*_  
+
 Giriftar : Tutkun olmak, tutulmak  
 Gülistan,gülzar : Gül bahcesi  
 Nar : Ateş  
@@ -435,12 +434,12 @@ Ar : Utanma
 Yavı kılayım ben beni, isteyiben bulmayayım  
 Al gider benden benliği, doldur içime şenliği  
 Diriliğimde öldür beni, varıp orda ölmeyeyim  
-\*\\_\* \*\*_  
+
 Bülbül olup öteyim, dost bahçesinde yatayım  
 Gül oluben açılayım, ayruk dahi solmayayım  
 Aşkdır derdin dermanı, aşk yoluna koydum canı  
 Yunus Emre eydur bunu, bir dem aşksız olmayayım.  
-\*\\_\* \*\*_  
+
 Kanda : Nerede  
 Yavı kılmak: Kaybetmek  
 Ayruk : Artık, baska  
@@ -455,7 +454,7 @@ işitin ey yarenler, kıymetli nesnedir aşk
 Sultanları kul eyler, hikmetli nesnedir aşk  
 Akilleri şaşırır deryalara düşürür  
 Kayaları söyletir, kuvvetli nesnedir aşk  
-\*\\_\* \*\*_  
+
 Aşksızlara verme öğüt, öğüdünden ala değil  
 Aşksız adem hayvan olur, hayvan öğüt bilir değil
 
@@ -467,17 +466,17 @@ Sufiyim halk içinde, tesbih elimden gitmez
 Dilim marifet söyler gönlüm hiç kabul etmez  
 Söylerim marifeti, saluslanırım katı  
 Miskinliğe dönmeye gönlümden kibir gitmez  
-\*\\_\* \*\*_  
+
 Görenler elim öper, tac u hırkaya bakar  
 Söyle sanırlar beni, zerrece günah etmez  
 Dışımda ibadetim sohbetim hoş taatım  
 İç pazara gelince bin yıllık ayyar etmez  
-\*\\_\* \*\*_  
+
 Dışım derviş içim boş, dilim tatlı sözüm hoş  
 Amma ettiğim işi dinin değişen etmez  
 Yunus eksikliğini Allah’ına arz eyle  
 Onun keremi çoktur sen ettiğin o etmez  
-\*\\_\* \*\*_  
+
 Saluslanmak : Hilekarlık, düzenbazlık.
 
 * * *
@@ -499,7 +498,7 @@ Bir kimsenin devletine, ta’nediben biz gülmeyiz
 Ne munkiriz alimlere, ne tersanın Hacındayız  
 Yunus eydur hey sultanım, özge şahım vardır benim  
 Ko dünya altın gümüşün, ne bakır-u tacındayız  
-\*\\_\* \*\*_  
+
 Bay : Zengin  
 Ta’netmek : Yermek, kınamak  
 Özge : Başka  
@@ -514,7 +513,7 @@ Canım erenler yolu inceden ince imiş
 Süleymana yol kesen şol bir karınca imiş  
 Eydürler idi bana aşık avare olur,  
 Geldi başıma gördüm, ol söz yerince imiş  
-\*\\_\* \*\*_  
+
 Dört kitabın manisin okudum hasıl ettim  
 Aşka gelicek gördüm, bir uzun hece imiş  
 İki kişi söyleşir Yunus’u görsem diye  
@@ -528,12 +527,12 @@ Ab-I hayatın çeşmesi aşıkların visalidir
 Sohbeti aşk ile eder, susamışları yakmaya  
 Aşk mı derim ben ona Tanrının uçmağın seve  
 Uçmak hod bir tuzaktır eblehler canın tutmağa  
-\*\\_\* \*\*_  
+
 Aşık olan miskin olur  
 Hak yoluna teslim olur  
 Her ne dersen boyun tutar  
 Çare yok gönül yıkmaya  
-\*\\_\* \*\*_  
+
 Ab-ı hayat : Ölümsüzlük suyu. Ledun ilmi, Hakka kavuşma.  
 Visal : Kavuşma  
 Uçmak : Cennet  
@@ -550,17 +549,17 @@ Boyun tutmak: Teslim olmak
 Aşk bir güneşe benzer  
 Aşk olmayan gönül  
 Misal-i taşa benzer  
-\*\\_\* \*\*_  
+
 Taş gönülde ne biter  
 Dilinde agu tüter  
 Nice yumusak söylese  
 Sözü savaşa benzer  
-\*\\_\* \*\*_  
+
 Geç Yunus endişeden  
 Gerekse bu bişeden  
 Ere aşk gerek evvel  
 Ondan dervişe benzer  
-\*\\_\* \*\*_  
+
 Yaren : Dost  
 Agu : Zehir  
 Bişe : Orman
@@ -573,17 +572,17 @@ Sensin kerim sensin rahim, Allah sana sundum elim
 Senden artuk yoktur emim, Allah sana sundum elim  
 Ecel geldi vade erdi, Bu ömrüm kadehi doldu  
 Kimdir ki içmeden kaldı, Allah sana sundum elim  
-\*\\_\* \*\*_  
+
 Gözlerim göğe süzüldü, canım göğüsten üzüldü  
 Dilim tetiği bozuldu, Allah sana sundum elim  
 Geldim salacam sarılır, Dört yana sela verilir  
 El namazıma derilir, Allah sana sundum elim  
-\*\\_\* \*\*_  
+
 Cun cenazeden şeştiler, üstüme toprak saçtılar  
 Hep koyubeni kaçtılar, Allah sana sundum elim  
 Yunus tap uzattın sözü, Allah’ına tutgil yüzü  
 Didardan ayırma bizi, Allah sana sundum elim  
-\*\\_\* \*\*_  
+
 Emim : İlacım  
 Salaca: Tabut taşıyan tahta  
 Sela : Ölüm haberinin duyurulması  
@@ -599,17 +598,17 @@ Dağlar ile taşlar ile çağırayım mevlam seni
 Seherlerde kuşlar ile çağırayım mevlam seni  
 Sular dibinde mahi ile, sahralarda ahu ile  
 Abdal olup ya hu diye çağırayım mevlam seni  
-\*\\_\* \*\*_  
+
 Gökyüzünde İSA ile Tur dağında MUSA ile  
 Elindeki asa ile çağırayım mevlam seni  
 Derdi okus EYYÜP ile, gözü yaşlı YAKUP ile  
 Ol MUHAMMED mahbub ile çağırayım mevlam seni  
-\*\\_\* \*\*_  
+
 Hamd u şükrullah ile, vasf-ı kulhuvallah ile  
 Daim zikrullah ile çağırayım mevlam seni  
 Yunus okur diller ile, ol kumru bülbüller ile  
 Hakkı seven kullar ile çağırayım mevlam seni  
-\*\\_\* \*\*_  
+
 Mahi : Balık  
 Ahu : Ceylan  
 Abdal : Derviş  
@@ -625,17 +624,17 @@ Dolap niçin inilersin, Derdim vardır inilerim
 Ben Mevlaya Aşık oldum, Onun için inilerim  
 Benim adım dertli dolap, suyum akar yalap yalap  
 Böyle emreyledi CALAP, Derdim vardır inilerim  
-\*\\_\* \*\*_  
+
 Beni bir dağda buldular, Kolum kanadım kırdılar  
 Dolaba layık gördüler, derdim vardır inilerim  
 Ben bir dağın ağacıyım, Ne tatlıyım ne Acıyım  
 Ben Mevlaya duacıyım, Derdim vardır inilerim  
-\*\\_\* \*\*_  
+
 Şol dülgerler beni yondu, her azam yerine kondu  
 Bu iniltim Haktan geldi, Derdim vardır inilerim  
 Yunus burda gelen gülmez, Kişi muradına ermez  
 Bu fanide kimse kalmaz, Derdim vardır inilerim.  
-\*\\_\* \*\*_  
+
 CALAP : Allah
 
 * * *
@@ -646,17 +645,17 @@ La şerike okursun, sonra şerik katarsın
 Bire iki demegil, fitne kimden tutarsın  
 Cun KURAN gökten indi, Onu Allah buyurdu  
 Ondan haber ver bana, ha kitaptan ötersin  
-\*\\_\* \*\*_  
+
 İlim okumaktan gerek kendözünü bilmektir  
 Kendözünü bilmezsen bir hayvandan betersin  
 Kılarsın riya namaz, günahın çok hayrın az  
 Dinle neye varır söz, Cehennemde bitersin  
-\*\\_\* \*\*_  
+
 Halka fetva verirsin, Ne için sen tutmazsın  
 İhlas ile gelirsen bizden nesne utarsın  
 Sen fakihsin ben fakir, sana hiç tan’umuz yok  
 İlmin var amelin yok, günahlara batarsın  
-\*\\_\* \*\*_  
+
 Utarsın : Kazanırsın  
 Tan : Kınama
 
@@ -668,27 +667,27 @@ Canım kurban olsun senin yoluna
 Adı güzel kendi güzel Muhammed  
 Şefaat eyle bu kemter kuluna  
 Adı güzel kendi güzel Muhammed  
-\*\\_\* \*\*_  
+
 Mu’min olanların çoktur cefası  
 Ahirette olur zevk u sefası  
 Onsekiz bir alemin Mustafa’sı  
 Adı güzel kendi güzel Muhammed  
-\*\\_\* \*\*_  
+
 Yedi gökleri seyran eyleyen  
 Kürsi’nin üstünde cevlan eyleyen  
 Mi’racda ümmetini dileyen  
 Adı güzel kendi güzel Muhammed  
-\*\\_\* \*\*_  
+
 Dört caryar anun gökçek yaridur  
 Anı seven günahlardan beridur  
 On sekiz bin alemin sultanıdur  
 Adı güzel kendi güzel Muhammed  
-\*\\_\* \*\*_  
+
 Aşık Yunus nider dünyayı sensiz  
 Sen hak Peygambersin şeksiz şüphesiz  
 Sana uymayanlar gider imansız  
 Adı güzel kendi güzel Muhammed  
-\*\\_\* \*\*_  
+
 Kemter : Değersiz  
 Cevlan : Dolaşma  
 Şek : Şüphe  
@@ -702,22 +701,22 @@ Canlar canını buldum bu canım yağma olsun
 Assı ziyandan geçtim dükkanım yağma olsun  
 Ben benliğimden geçtim gözüm hicabın açtım  
 Dost vaslına eriştim gumanım yağma olsun  
-\*\\_\* \*\*_  
+
 Benden benliğim gitti hep mülkümü dost yuttu  
 La-mekana kavm oldum mekanım yağma olsun  
 Taalluktan üzüştüm ol dosttan yana uçtum  
 Aşk divanına düştüm divanım yağma olsun  
-\*\\_\* \*\*_  
+
 İkilikten usandım birlik hanına kandım  
 Derd-i şarabın içtim dermanım yağma olsun  
 Varlık cun sefer kıldı dost andan bize geldi  
 Viran gönül nur doldu cihanım yağma olsun  
-\*\\_\* \*\*_  
+
 Geçtim bitmez sağınçtan usandim yaz u kıştan  
 Bostanlar başın buldum bostanım yağma olsun  
 Yunus ne hoş demişsin bal u şeker yemişsin  
 Ballar balını buldum kovanım yağma olsun  
-\*\\_\* \*\*_  
+
 Assı : Kar, kazanç  
 Hicab : Perde, örtü, utanç  
 Vasl : Kavuşma  
@@ -736,20 +735,20 @@ Dervişlik der ki bana sen derviş olamazsın
 Gel ne diyeyim sana sen derviş olamazsın  
 Derviş bağrı taş gerek gözü dolu yaş gerek  
 Koyundan yavaş gerek sen derviş olamazsın  
-\*\\_\* \*\*_  
+
 Döğene elsiz gerek söğene dilsiz gerek  
 Derviş gönülsüz gerek sen derviş olamazsın  
 Dilin ile şakırsın çok maniler dokursun  
 Vara yoğa kakırsın sen derviş olamazsın  
-\*\\_\* \*\*_  
+
 Kakımak varmışsa ger Muhammed de kakırdı  
 Bu kakımak sende var sen derviş olamazsın  
 Doğruya varmayınca Murşide ermeyince  
 Hak nasib etmeyince sen derviş olamazsın  
-\*\\_\* \*\*_  
+
 Derviş Yunus gel imdi ummanlara dal imdi  
 Ummana dalmayınca sen derviş olamazsın  
-\*\\_\* \*\*_  
+
 Kakımak : Kızmak, öfkelenmek  
 Umman : Büyük deniz, okyanus
 
@@ -761,20 +760,20 @@ Taştın yine deli gönül sular gibi çağlar mısın
 Aktın yine kanlı yaşım yollarımı bağlar mısın  
 Nidem elim ermez yare bulunmaz derdime çare  
 Oldum ilimden avare beni bunda eğler misin  
-\*\\_\* \*\*_  
+
 Yavı kıldım ben yoldası onulmaz bağrımın başı  
 Gözlerimin kanlı yaşı ırmak olup çağlar mısın  
 Ben toprak oldum yoluna sen aşırı gözetirsin  
 Şu karşıma göğüs geren taş bağırlı dağlar mısın  
-\*\\_\* \*\*_  
+
 Harami gibi yoluma arkuri inen karlı dağ  
 Ben yarimden ayrı düştüm sen yolumu bağlar mısın  
 Karlı dağların başında salkım salkım olan bulut  
 Saçın çözüp benim için yaşın yaşın ağlar mısın  
-\*\\_\* \*\*_  
+
 Esridi Yunusun canı yoldayım illerim kanı  
 Yunus düşte gördü seni sayru mısın sağlar mısın  
-\*\\_\* \*\*_  
+
 Yavı kılmak : Kaybetmek  
 Yaşın yaşın : Gözyaşları döke döke  
 Sayru, sayrı : Hasta
@@ -787,17 +786,17 @@ Acep şu yerde varmola şöyle garip bencileyin
 Bağrı baslı gözü yaşlı şöyle garip bencileyin  
 Gezerim rum ile şamı, yukarı illeri kamu  
 Çok istedim bulamadım, şöyle garip bencileyin  
-\*\\_\* \*\*_  
+
 Söyler dilim ağlar gözüm, gariplere göynür özüm  
 Meğerki gökte yıldızım, şöyle garip bencileyin  
 Nice bu dert ile yanam, ecel ere bir gün ölem  
 Meğer ki sinim de bulam, şöyle garip bencileyin  
-\*\\_\* \*\*_  
+
 Bir garip olmuş diyeler, üç günden sonra duyalar  
 Soğuk su ile yuyalar, şöyle garip bencileyin  
 Hey Emrem Yunus biçare, bulunmaz derdine çare  
 Var imdi gez şardan şare, şöyle garip bencileyin  
-\*\\_\* \*\*_  
+
 Bencileyin : Benim gibi  
 Bağrı başlı : Gönlü yaralı  
 Göynümek : İçten yanmak  
@@ -812,15 +811,15 @@ Azrail alır canımız, kurur damarda kanımız
 Yuyıcağız kefenimiz, saranlara selam olsun  
 Gider olduk dostumuza, eremedik kastımıza  
 Namaz için üstümüze, duranlara selam olsun  
-\*\\_\* \*\*_  
+
 Sözdür söylenir araya, kimse değmez bu yaraya  
 İltup bizi makbereye, koyanlara selam olsun  
 AŞIK oldur HAKKI seve, HAK derdine kıla deva  
 Bizim için hayır dua edenlere selam olsun  
-\*\\_\* \*\*_  
+
 Aşık Yunus söyler sözü, Kan yaş ile doldu gözü  
 Bilmeyenler bilsin bizi, Bilenlere selam olsun  
-\*\\_\* \*\*_  
+
 Makbere : Kabir  
 İltmek : İletmek, götürmek
 
@@ -832,17 +831,17 @@ Bu dervişlik yoluna, aşk ile gelen gelsin
 Ya dervişlik neydiğin, bir zerre duyan gelsin  
 Hele biz iş bu yola, gelmedik riya ile  
 Bu melametlik donun, bizimle giyen gelsin  
-\*\\_\* \*\*_  
+
 Gözüyle gördüğünü, örte eteği ile  
 Bu yol çok ince yoldur, yüreği duyan gelsin  
 Her kim sever Allahı, rahmet kılar vallahi  
 Dil sevgisiyle olmaz, Aşk ile yanan gelsin  
-\*\\_\* \*\*_  
+
 İşbu sözü diyenden, bize nişan gerektir  
 Sözün kısası budur, canına kıyan gelsin  
 Yunus söz ile kimse, kabliyete geçmedi  
 Bud u vücud dermiyan ortaya koyan gelsin  
-\*\\_\* \*\*_  
+
 Melamet : Kınanma  
 Kabliyet : Öne geçmek  
 Bud u vücud dermiyan : Varlığını vücudunu aradan çıkaran
@@ -855,27 +854,27 @@ Bud u vücud dermiyan : Varlığını vücudunu aradan çıkaran
 Çıkmış islam bülbülleri öter Allah deyu deyu  
 Salınır tuba dalları, Kuran okur hem dilleri  
 Cennet bağının gülleri, kokar Allah deyu deyu  
-\*\\_\* \*\*_  
+
 Kimi yiyip kimi içer, hep melekler rahmet saçar  
 İdris nebi hulle biçer, biçer Allah deyu deyu  
 Altındandır direkleri, Gümüştendir yaprakları  
 Uzandıkca dudakları, biter Allah deyu deyu  
-\*\\_\* \*\*_  
+
 Aydan arıdır yüzleri, misk-i amberdir sözleri  
 Cennette Huri kızları, gezer Allah deyu deyu  
 Hakka aşık olan kişi, akar gözlerinin yaşı  
 Pür nur olur içi dışı, söyler Allah deyu deyu  
-\*\\_\* \*\*_  
+
 Ne dilersen Haktan dile, Kılavuzla gir bu yola  
 Bülbül aşık olmuş güle, öter Allah deyu deyu  
 Açıldı gökler kapısı, rahmetle doldu hepisi  
 Sekiz cennetin kapısı, açar Allah deyu deyu  
-\*\\_\* \*\*_  
+
 Rıdvan-durur kapı açan, idris-durur hulle biçen  
 Kevser şarabını içen, kanar Allah deyu deyu  
 Miskin Yunus var yarına, koma bugünü yarına  
 Yarın Hakkın divanına, varam Allah deyu deyu  
-\*\\_\* \*\*_  
+
 Tuba : Cennet Ağacı  
 Hulle : Elbise  
 Nebi : Peygamber  
@@ -889,22 +888,22 @@ Haktan gelen şerbeti içtik elhamdulillah
 Şol kudret denizini geçtik elhamdulillah  
 Şol karşıki dağları, meşeleri bağları  
 Sağlık safalık ile aştık elhamdulillah  
-\*\\_\* \*\*_  
+
 Kuru idik yaş olduk, kanatlandık kuş olduk  
 Birbirmize eş olduk, uçtuk elhamdulillah  
 Vardığımız illere şol safa gönüllere  
 Halka tapduk manisin saçtık elhamdulillah  
-\*\\_\* \*\*_  
+
 Beri gel barışalım, yad isen bilişelim  
 Atımız eğerlendi estik elhamdulillah  
 İndik Rum’u kışladık, çok hayır şer işledik  
 Uş bahar geldi geri göçtük elhamdulillah  
-\*\\_\* \*\*_  
+
 Dirildik pınar olduk, irkildik ırmak olduk  
 Artık denize dolduk, taştık elhamdulillah  
 Taptuğun tapusuna, kul olduk kapusuna  
 Yunus miskin çiğ idik, piştik elhamdulillah  
-\*\\_\* \*\*_
+
 
 * * *
 
@@ -914,15 +913,15 @@ Baştan ayağa değin, Haktır ki seni tutmuş
 Haktan ayrı ne vardır, Kalma guman içinde  
 Bir isen birliğe gel, ikiyi bırak elden  
 Bütün mana bulasın, sıdk u iman içinde  
-\*\\_\* \*\*_  
+
 Girdim gönül şehrine, daldım onun bahrine  
 AŞK ile gider iken, iz buldum can içinde  
 Bu izimi izledim, sağım solum gözledim  
 Çok acaibler gördüm, yoktur cihan içinde  
-\*\\_\* \*\*_  
+
 Yunus senin sözlerin, manadır bilenlere  
 Söylenecek sözlerin devr-i zaman içinde  
-\*\\_\* \*\*_  
+
 Guman : Şüphe  
 Bahri : Deniz
 
@@ -934,15 +933,15 @@ Can olgil can içinde, kalma guman içinde
 İstediğin bulasın, yakın zaman içinde  
 Rüku secde de kalma, Ameline dayanma  
 İlm u amel gark olur, naz u niyaz içinde  
-\*\\_\* \*\*_  
+
 İkiligi terketgil birlik makamın tutgil  
 Canlar canın bulasın, işbu dirlik içinde  
 Şeriat korucudur, hakikat ordusunda  
 Senin için korunur, hasıl ordu içinde  
-\*\\_\* \*\*_  
+
 Aynel-yakin görüptür, Yunus mecnun oluptur  
 Bir ile bir oluptur, Hakkel-yakin içinde  
-\*\\_\* \*\*_  
+
 Aynel-yakin : Hakka Aşık olanların ulaştığı mertebe  
 Hakkel-yakin : Aşkın artıp, HAK ile BiR olma, (ayrılığın kalkması)
 
@@ -954,12 +953,12 @@ Onsekizbin alemin cümlesi BiR içinde
 Kimse yok BiR den ayruk, söylenir BiR içinde  
 Cümle BiR onu BiRler, cümle ona giderler  
 Cümle dil onu söyler, her BiR tebdil içinde  
-\*\\_\* \*\*_  
+
 Kim gördü onu ayan, ne nakşu ne hod nişan  
 Söz “len terani” dir, Musa’ya Tur içinde  
 Yunus sen ne dilersin, dostu görem der isen  
 Ayandır görenlere, ol gönüller içinde  
-\*\\_\* \*\*_  
+
 Tebdil : Değişik görünmek, değişik  
 ayruk : Başka  
 Len terani : Allahın, Musa Peygambere “Beni göremezsin” hitabı  
@@ -973,17 +972,17 @@ Ol calabımın aşkı bağrımı baş eyledi
 Aldı benim gönlümü, sırrımı faş eyledi  
 Hergiz gitmez gönülden hiç eksik olmaz dilden  
 Calab kendi nurunu gözüme tuş eyledi  
-\*\\_\* \*\*_  
+
 Can gözü onu gördü, dil ondan haber verdi  
 Can içinde oturdu, gönlümü arş eyledi  
 Bir kadeh sundu cana, can içti kana kana  
 Dolu geldi peymane, canı sarhoş eyledi  
-\*\\_\* \*\*_  
+
 Esruk oldu canımız, dur döker lisanımız  
 Ol calabımın aşkı, beni sarhoş eyledi  
 Yunus imdi avunur, dostu gördü sevinir  
 Erenler mahfilinde aşka cünbüş eyledi  
-\*\\_\* \*\*_  
+
 Faş : Gizliyi açıklama  
 Tuş etmek : Yönelmek, yöneltmek  
 Peymane : Büyük Kadeh  
@@ -997,17 +996,17 @@ Doldur bize sun kadehi, Aşk şarabından ey saki
 Ol denizden içir bize, k’andan içer seyh u faki  
 Kim ki bir dem sohbet ola, mufti müderris mat ola  
 Bir ilahi devlet ola, ondan içen oldu baki  
-\*\\_\* \*\*_  
+
 Okudun yedi mushafı, ha taat gösterir safi  
 Çünki amel eylemedin, gerekse var yüzyıl oku  
 Bin kez hacca vardın ise, Bin kez gaza kıldın ise  
 Bir kez gönül kırdı, ise gerekse var yollar doku  
-\*\\_\* \*\*_  
+
 Gönül mü yeğ, Kabe mi yeğ, eyit bana aklı eren  
 Gönlü yeğ-durur zira kim gönüldedir dost durağı  
 Yunus işin budur, hemen tutgil gönüller eteğin  
 Dilersen baki olasın, gönüller oldu baki  
-\*\\_\* \*\*_  
+
 K’andan : ki ondan  
 faki : FIKIH alimi
 
@@ -1019,17 +1018,17 @@ Arayı arayı bulsam izini
 İzinin tozuna sürsem yüzümü  
 Hak nasip eylese görsem yüzünü  
 Ya Muhammed canım arzular seni  
-\*\\_\* \*\*_  
+
 Bir mübarek sefer olsa da gitsem  
 Kabe yollarında kumlara batsam  
 Hub cemalin bir kez düşte seyretsem  
 Ya Muhammed canım arzular seni  
-\*\\_\* \*\*_  
+
 Yunus metheyledi seni dillerde  
 Sevilirsin bütün bu gönüllerde  
 Ağlayı ağlayı gürbet ellerde  
 Ya Muhammed canım arzular seni  
-\*\\_\* \*\*_
+
 
 * * *
 
@@ -1039,14 +1038,14 @@ Geldi geçti ömrüm benim, şol yel esip geçmiş gibi
 Hele bana şöyle geldi, şol göz yumup açmış gibi  
 İşbu söze hak tanıktır, Bu can gövdeye konuktur  
 Bir gün ola çıka gide, kafesten kuş uçmuş gibi  
-\*\\_\* \*\*_  
+
 Bir hastaya vardın ise, bir içim su verdin ise  
 Yarın anda karşı gele, Hak şarabın içmiş gibi  
 Bir miskini gördün ise, bir eskice verdin ise,  
 Yarın anda karşı gele, Hak libasın biçmiş gibi  
 Yunus Emre bu dünyada iki kişi kalır derler  
 Meğer HIZIR, İLYAS ola, Ab-ı hayat içmiş gibi  
-\*\\_\* \*\*_
+
 
 * * *
 
@@ -1056,24 +1055,24 @@ Helal kıldı maşuka, Aşık kendi kanını
 Maşuk nakşından okur, Aşk eri kuranını  
 Yardan ayrı olunca, asılıp ölmek yeğdir  
 Aşık kendi bırakır boynuna urganını  
-\*\\_\* \*\*_  
+
 Gitmez aşık gözünden, hergiz maşuk hayali  
 Nitekim ZELHA verir YUSUF un nişanını  
 Dirlik budur maşuka, Aşık yolunda öle  
 Sorarlar ise eydem aşıkın burhanını  
-\*\\_\* \*\*_  
+
 BELKIS ile SÜLEYMAN aşka düştü bir zaman  
 İsteyip bulmadılar bu derdin dermanını  
 Gökteki HARUT MARUT, Aşk için indi yere  
 Zühre yüzün görünce unuttu rahmanını  
-\*\\_\* \*\*_  
+
 FERHAD bu aşk yolunda başın külünge tuttu  
 HÜSREV ŞİRİN derdinden dosta verdi canını  
 LEYLA ile MECNUN işi aceb gelir bu halka  
 Abdurrezzak terketti aşk için imanını  
 Zamane vefaları cefa gelir Yunus’a  
 Bir doğru yar bulunca feda kılar canını  
-\*\\_\* \*\*_  
+
 Burhan : Delil  
 Güzaf : Bos laf  
 Külüng : Kazma
@@ -1086,24 +1085,24 @@ Severem ben seni candan içeri
 Yolum vardır bu erkandan içeri  
 Beni sorma bana benden değilem  
 Suretim boş yürür dondan içeri  
-\*\\_\* \*\*_  
+
 Tecelliden nasib erdi kimine  
 Kiminin maksudu bundan içeri  
 Senin aşkın beni benden alıptır  
 Ne Şirin dert bu dermandan içeri  
-\*\\_\* \*\*_  
+
 Şeriat tarikat yoldur varana  
 Hakikat Marifet andan içeri  
 SÜLEYMAN kuş dili bilir dediler  
 SÜLEYMAN var SÜLEYMAN dan içeri  
-\*\\_\* \*\*_  
+
 Unuttum din diyanet, kaldı benden  
 Bu ne mezheptir, dinden içeri  
 Dinin terk edenin küfürdür işi  
 Bu ne küfürdür imandan içeri  
 Geçer iken Yunus şeş oldu dosta  
 Ki kaldı kapıda andan içeri  
-\*\\_\* \*\*_  
+
 Suret : Yüz, dış görünüş  
 Don : Elbise  
 Tecelli: Görünme, belirme  
@@ -1118,14 +1117,14 @@ Aşk ile ister idik yine bulduk ol canı
 Gömlek edinmiş giyer suret ile bu teni  
 Girmiş surette geçer, cümle işleri düzer  
 Geri kendiye söyler, gevher ile bu kanı  
-\*\\_\* \*\*_  
+
 Bu dünya bir pazardır, suretler dükkan olmuş  
 Bu dükkana giriben, oldur satan bu kanı  
 Bir niceler kayırır, bunca malım kaldı der  
 Veren oldur alan ol, sormaz nedir ziyanı  
 Yunus imdi sen senden, ayrı değilsin candan  
 Sen sende bulmaz isen, nerde bulasın anı  
-\*\\_\* \*\*_  
+
 Suret : Yaratılmış şeyler  
 Kan : Maden
 
@@ -1137,17 +1136,17 @@ Bir sakiden içtik şarap, Arştan yüce meyhanesi
 Ol sakinin mestleriyiz, canlar onun meyhanesi  
 Bir meclistir meclisimiz, anda ciğer kebap olur  
 Bir şemdir burda yanan, güneş onun pervanesi  
-\*\\_\* \*\*_  
+
 Aşk oduna yananların, Kulli vücudu nur olur  
 Ol od bu oda benzemez, hiç belirmez zebanesi  
 Ondaki mest olanların, “Enel hak” tır sözleri  
 Hallac Mansur gibidir en kemine divanesi  
-\*\\_\* \*\*_  
+
 Ol meclisin bekrileri, şol şah-ı Edhem gibidir  
 Belh şehrinde yüzbin ola her guşede viranesi  
 Yunus bu cezbe sözlerin cahillere söylemegil  
 Bilmezmisin cahillerin nice geçer zamanesi  
-\*\\_\* \*\*_  
+
 Saki : İçki dağıtan  
 Mest : Sarhoş  
 Peymane: Kadeh  
@@ -1166,15 +1165,15 @@ Ey yarenler eydemezem, canım neye yandığını
 Dil ile vasfedemem, gönlümü kim aldığını  
 Gönlüm dolu sığmaz dile, Aşıktır ol kim hal bile  
 Aşk niceyi verdi yele, anlayamaz nolduğunu  
-\*\\_\* \*\*_  
+
 Aşktan haber bilenlerin, Aşk derdiyle dolanların  
 Küfrü iman olanların, ayıplaman güldüğünü  
 Ağlamak gülmektir aşıka, dirilmek ölmektir aşığa  
 Kahr ile lütfü bir bilir, bilmez melul olduğunu  
-\*\\_\* \*\*_  
+
 Aşık yunus eyledi lal, Yunus kanı aşka helal  
 Koy verin etsin paymal, görmesin ayrıldığını  
-\*\\_\* \*\*_  
+
 Eydemezem : Söyleyemem  
 Vasfetmek : Tasvir etmek  
 Melul : Üzülen  
@@ -1190,12 +1189,12 @@ Ezeliden var idi, canımda bu aşk odu
 Eşkere etmez idim, bilirdim ki dost koydu  
 Ben razıyam bu yolda, günde bin kez yanarsam  
 Şekerden daha tatlı, şirindir aşkın tadı  
-\*\\_\* \*\*_  
+
 Aşk anadan doğmadı, kimseye kul olmadı  
 Hükmüne kıldı esir, cümle bilişi, yadı  
 Aşka mecnun olanlar, assı ziyandan farig  
 Korkmaz ıssı soğuktan, pes ne biliser odu  
-\*\\_\* \*\*_  
+
 Ezeli : Evveli olmayan  
 Eşkere : Açıklamak  
 Biliş : Tanıdık  
@@ -1212,19 +1211,19 @@ Ben bunda seyr eder iken, aceb sırra erdim ahi
 Bir siz dahi sizde görün, dostu bende gördüm ahi  
 Bende baktım bende gördüm, benim ile BiR olanı  
 Suretime can vereni, Kimduğini bildim ahi  
-\*\\_\* \*\*_  
+
 İsteyuben bulamazam, o ben isem ya ben hani  
 Seçemedim ondan beni, bir kez o oldum ahi  
 Maşuk benimledir bile, ayrı değil kıldan kıla  
 Irak sefer bizden kala, dostu yakın gördüm ahi  
-\*\\_\* \*\*_  
+
 Munim oldum yoksul iken, benim oldu kevn-i mekan  
 Yerden göğe magrib meşrik, yere göğe doldum ahi  
 Nitekim ben beni bildim, bu oldu ki HAKKI buldum  
 Korkum onu buluncadı, korkudan kurtuldum ahi  
 Yunus kim öldürür seni, veren alır tatlı canı  
 Bu canlara hükmedenin, kim olduğun buldum ahi  
-\*\\_\* \*\*_  
+
 Acep : Garip  
 Ahi : Kardeş  
 Kimduğini: Kim olduğunu  
@@ -1240,19 +1239,19 @@ Benem ol aşk bahrisi denizler hayran bana
 Derya benim katremdir zerreler umman bana  
 Kafdağı zerrem değil ay u güneş bana  
 Haktır aslım şek değil, Murşittir kuran bana  
-\*\\_\* \*\*_  
+
 Yok iken ol barigah, var idi ol padişah  
 Ah bu aşk elinden ah, dert oldu derman bana  
 ADEM yaratılmadan can kalıba girmeden  
 Şeytan lanet olmadan arş idi seyran bana  
-\*\\_\* \*\*_  
+
 Yaratıldı MUSTAFA, yüzü gül gönlü safa  
 Ol kıldı bize vefa, ondandır ihsan bana  
 Şeriat ehli ırak eremez bu menzile  
 Ben kuş dilin bilirim, söyler SÜLEYMAN bana  
 Yunus bu halk içinde eksikliktir HAK bilir  
 Divane olmuş çağırır, dervişlik buhtan bana  
-\*\\_\* \*\*_  
+
 Bahri : Bir cins deniz ördeği, deniz  
 Derya : Deniz  
 Katre : Damla  
@@ -1276,19 +1275,19 @@ Niteliğim soran işit hikayet
 Su vu toprak od u yel oldu suret  
 Dört muhalif nesneden dört duvarın  
 Sazıkar eyledi verdi keramet  
-\*\\_\* \*\*_  
+
 Yel ile toprağı kıldı muallak  
 Su içinde odu tuttu selamet  
 Rızkı ömrü tamam eyledi henüz  
 Şeş cihet olmadan tuttugu kisvet  
-\*\\_\* \*\*_  
+
 Baki tertiplerimi şerh edeyim  
 İnayet mevcudu sem’u basaret  
 Aklımın haberi bugünkü değil  
 Onu er derisen evvelki ayet  
 Yunus ile bu ne denli nasibim  
 Gönül dost durağı, dilim şehadet  
-\*\\_\* \*\*_  
+
 Sazıkar : Uygun  
 Muallak : Asılı, havada duran  
 Şerh : Açıklama  
@@ -1304,29 +1303,29 @@ Aşk imamdır bize, gönül cemaat
 Kıblemiz dost yüzü daimdir salat  
 Dost yüzün göricek, şirk yağmalandı  
 Anıncun kapıda kaldı şeriat  
-\*\\_\* \*\*_  
+
 Gönül secde kılar, dost mihrabında  
 Yüzün yere vurup kılar münacat  
 Münacat gibi vakt olmaz arada  
 Kim ola dost ile bu demde halvet  
-\*\\_\* \*\*_  
+
 Şeriat eydur, sakın şartı bırakma  
 Şart ol kişiye kim ede hiyanet  
 Erenler nefesi devletli rumuz  
 Onunla fitneden olduk selamet  
 “Beli” kavlin dedik evvelki demde  
 Henuz bir demdir, ol vakt u bu saat  
-\*\\_\* \*\*_  
+
 Derildi beşimiz, bir vakte geldi  
 Beşi bir eyleyip, kim kıla taat  
 Biz kimse dinine hilaf demeziz  
 Din tamam olucak doğar muhabbet  
-\*\\_\* \*\*_  
+
 Doğruluk bekleyen dost kapısında  
 Gümansız ol bulur ilahi devlet  
 Yunus ol kapıda kemine kuldur  
 Ezelden ebede dektir bu izzet  
-\*\\_\* \*\*_  
+
 Şirk : Allaha ortak koşma  
 Mihrab : Kıbleyi gosteren yer  
 Münacat : Yalvarma  
@@ -1349,22 +1348,22 @@ Din umillet sorar isen, aşıklara din ne hacet
 Aşık kişi harab olur, harab bilmez din diyanet  
 Aşıkların gönlü gözü maşuk diye gitmiş olur  
 Ayruk surette ne kalır kim kılısar zühd u taat  
-\*\\_\* \*\*_  
+
 Taat kılan uçmağ için din tutmayan tamu için  
 Ol ikiden farig olur, neye benzer bu işaret  
 Her kim dostu sever ise, dosttan yana gitmek gerek  
 İşi gücü dost olucak, cümle işten olur azat  
-\*\\_\* \*\*_  
+
 Onun gibi maşukanın haberini kim getirir  
 CEBRAİL-İ MURSEL sığmaz, böyle olundu işaret  
 Soru hesap olmayısar, dünya ahret kovana  
 MUNKER u NEKiR ne sorar terkolucak cümle murad  
 Havf u reca gelmez onda varlık yokluk bırakana  
 İlm u amel sığmaz onda ne terazi var ne sırat  
-\*\\_\* \*\*_  
+
 Ol kıyamet pazarında her bir kula BAŞ kaygısı  
 Yunus sen aşıklar ile hiç görmeyesin kıyamet  
-\*\\_\* \*\*_  
+
 Hacet : İhtiyaç  
 Di˜anet : Dini kurallar, yordamlar  
 Farig : Vazgecmek  
@@ -1378,32 +1377,32 @@ Havf u reca : Korku ve ümit
 Boştan ıssı kakıyıp, der ne yersin kozumu  
 Ağrılık yaptı bana, buhtan eyledim ona  
 Çerçi de geldi dedi, niye aldın kuzumu  
-\*\\_\* \*\*_  
+
 Kerpiç koydum kazana, poyraz ile kaynattım  
 Nedir diye sorana, bandım verdim özünü  
 İplik verdim çulhaya sarıp yumak etmemiş  
 Becid becid ısmarlar, gelsin alsın bezini  
-\*\\_\* \*\*_  
+
 Bir serçenin kanadın, kırk katıra yüklettim  
 Çift dahi çekemedi, şöyle kaldı kazını  
 Bir sinek bir kartalı salladı urdu yere  
 Yalan değil gerçektir ben de gördüm tozunu  
-\*\\_\* \*\*_  
+
 Bir kut ile güreştim, elsiz ayağım aldı  
 Güreşip basamadım göyündürdü özümü  
 Kaf dağından bir taşı şöyle attılar bana  
 Öylelik yola düştü, bozayazdı yüzümü  
-\*\\_\* \*\*_  
+
 Balık kavaga çıkmış, zift turşusu yemeğe  
 Leylek koduk doğurmuş baka şunun sözünü  
 Gözsüze fısıldadım sağır sözüm işitmiş  
 Dilsiz çağırıp söyler dilimdeki sözümü  
-\*\\_\* \*\*_  
+
 Tosbağaya sataştım, gözsüzsepek yoldaşı  
 Sordum sefer nereye, Kayseri’ye azimli  
 YUNUS BİR SÖZ SÖYLEDİN,HİÇ BİR SÖZE BENZEMEZ  
 MUNAFIKLAR YÜZÜNDEN ÖRTTÜN MANA YÜZÜNÜ  
-\*\\_\* \*\*_  
+
 Issı : Sahibi  
 Kakımak: Kızmak  
 Koz : Ceviz  
@@ -1424,17 +1423,17 @@ Ey sözlerin aslın bilen, gel de bu söz kandan gelir
 Söz aslını anlamayan, sanır bu söz benden gelir  
 Söz karadan aktan değil, yazıp okumaktan değil  
 Bu yürüyen halktan değil, halık avazından gelir  
-\*\\_\* \*\*_  
+
 Ne elif okudum ne cim varlığındandır kelecim  
 Bilmeye yüzbin müneccim, taliim ne ıldızdan gelir  
 Şule bize aydan değil, Aşk eri bu soydan değil  
 Rızkımız bu evden değil, derya-yı ummandan gelir  
-\*\\_\* \*\*_  
+
 Biz bir bahane arada, Ayruk de elden ne gele  
 Hak cun emir eyler, Cana bu keleci andan gelir  
 Yunus bir dert ile ah et, Kahr evinde neyler rahat  
 Bu derde derman keffaret, bir ah ile suzdan gelir  
-\*\\_\* \*\*_  
+
 Kandan : Nereden  
 Halık : Yaratan, Allah  
 Elif, cim : Arap alfabesinden harfler  
@@ -1457,12 +1456,12 @@ Koğıl ölüm endişesin, Aşıklar ölmez bakidir
 Ölüm aşıkın nesidir cun nur-u ilahidir  
 Ölümden ne korkarsın çünkü hakka yararsın  
 Bil ki ebedi varsın, Ölmek fasid işidir  
-\*\\_\* \*\*_  
+
 Kal u bela denmeden, Kadimde bile idik  
 Biz bir uçar kuş idik , vücut can budağıdır  
 Yunus beşaret sana, gel derler dosttan yana  
 Ol kimseye ol ana KULLUN YERCİ aslıdır  
-\*\\_\* \*\*_  
+
 Koğıl : Bırak  
 Fasid : Fesatcı, bozguncu  
 Kal u bela : Yaratanın, Rabliğini ruhlara onaylattığı söz  
@@ -1479,15 +1478,15 @@ Canını aşk yoluna vermeyen aşık mıdır
 Cehdeyleyip ol dosta ermeyen aşık mıdır  
 Dost sevgisin gönülde, can ile berkitmeyen  
 Tul-i emel defterin dürmeyen aşık mıdır  
-\*\\_\* \*\*_  
+
 Nefs arzusundan geçip, aşk kadehinden içip  
 Dost yoluna er gibi, durmayan aşık mıdır  
 Dün ü gün ü riyazetde halvetlerde diz çokup  
 Sohbetlerde baş çatıp, durmayan aşık mıdır  
-\*\\_\* \*\*_  
+
 Yunus imdi ol dostun, cefasına sabreyle  
 Yüreğine aşk odun, Urmayan aşık mıdır  
-\*\\_\* \*\*_  
+
 Cehd : Gayret  
 Berkitmek : Pekiştirmek  
 Tül-i emel : Aşırı isteklerden oluşan emeller  
@@ -1506,15 +1505,15 @@ Hakikatin manisin şerh ile bilmediler
 Erenler bu dirliği, riya dirilmediler  
 Hakikat bir denizdir, şeriattır gemisi  
 Çoklar gemiden çıkıp, denize dalmadılar  
-\*\\_\* \*\*_  
+
 Bunlar gelip kapıya, şeriatta durdular  
 İçeri giribeni ne vardır bilmediler  
 Dört kitabı şerh eden, Asidir Hakikatte  
 Zira tefsir okuyup, Manisin bilmediler  
-\*\\_\* \*\*_  
+
 Yunus adın sadıktır, bu yola geldin ise  
 Adın değşirmeyenler, bu yola gelmediler  
-\*\\_\* \*\*_  
+
 Hakikat : Gerçek, sırların açıldığı makam  
 Şeriat : Din yolunda dışsal emirleri içeren başlangıç aşaması  
 Tefsir : Açıklama
@@ -1527,12 +1526,12 @@ Tefsir : Açıklama
 İçindeki sultanın yüzün göresim gelir  
 İşidirim sözünü, göremezem yüzünü  
 Yüzünü görmekliğe, canım veresim gelir  
-\*\\_\* \*\*_  
+
 Erenlerin sohbeti, arttırır marifeti  
 Bi-dertleri sohbetden, her dem süresim gelir  
 Miskin Yunusun canı, dört tabiat içinde  
 Aşk ile can sırrına pinhan varasım gelir  
-\*\\_\* \*\*_  
+
 pinhan : Gizli
 
 * * *
@@ -1543,12 +1542,12 @@ Aşkın ödü ciğerimi yaka geldi yaka gider
 Garip başım bu sevdayı çeke geldi çeke gider  
 Kar etti firak canıma, Aşık oldum sultanıma  
 Aşk zincirin dost boynuma, taka geldi taka gider  
-\*\\_\* \*\*_  
+
 Arada olmasın naşı, onulmaz bağrımın başı  
 Gözlerimin kanlı yaşı, aka geldi aka gider  
 Aşık Yunusun sözleri efgan eder bülbülleri  
 Dost bahçesinde gülleri, koka geldi koka gider  
-\*\\_\* \*\*_  
+
 Firak : Ayrılık
 
 * * *
@@ -1559,12 +1558,12 @@ Bu sema’a girmeyen sonra peşiman olur
 Erişir bizim ile ser-be-ser düşman olur  
 Dosttur bizi okuyan, üstümüzde şakıyan  
 Şimd’üçbuçuk okuyan derin Danışman olur  
-\*\\_\* \*\*_  
+
 Hey biçare Danışman, Et dervişi dervişhan  
 Dervişlere erişen, işine pişman olur  
 YUNUS eydur MEVLANA, epsem otur yerinde  
 Bu sohbete doymayan sonra sevişken olur  
-\*\\_\* \*\*_  
+
 Epsem : Dilsiz
 
 * * *
@@ -1575,17 +1574,17 @@ Arifler ortasında Sufilik satmayalar
 Cun Sufiye ihlas oldu, Aşka riya katmayalar  
 Ya gel bildiğinden eyit, yahut bilenlerden işit  
 Teslimin ucun tutup, hiç sözü uzatmayalar  
-\*\\_\* \*\*_  
+
 Kuran’ı virip idi, gönüle evim dedi  
 Gönül ev ıssın bilmez ademden tutmayalar  
 Mumsuz baldır şeriat, tortusuz yağdır tarikat  
 Dost için balı yağa ne için katmayalar  
-\*\\_\* \*\*_  
+
 Evvel ADEM yanıldı, uçmakta buğday yedi  
 İşi HAKtan bilenler şeytandan tutmayalar  
 Şirin huylar eyleğil, tatlI sözler söyleğil  
 Sohbetlerde YUNUSu hergiz unutmayalar  
-\*\\_\* \*\*_  
+
 Arif : İ˜lim irfan sahibi  
 Sufi : Derviş, mutasavvıf  
 Uçmak : Cennet  
@@ -1599,17 +1598,17 @@ Ey dünü gün HAK isteyen, bilmezmisin HAK kandadır
 Her kandasam anda hazır, kanda bakarsam andadır  
 İstemegil HAKKI ırak, Gönüldedir HAKKA durak  
 Sen senliğin elden bırak, tenden içeri candadır  
-\*\\_\* \*\*_  
+
 Gir gönüle bul andadır, benliğinin defterin dur  
 Ol has gevher bil andadır sanam kim ol ummandadır  
 Ol ummanda yüzbin gevher bir zerreden oldu kemter  
 Ol cana zeval mi erer, canı ab-ı hayvandadır  
-\*\\_\* \*\*_  
+
 Eyleğil suretin viran, can sırrıdır ona eren  
 Batın gözüdür dost gören zahir gözü yabandadır  
 Kim ki gaflet icre geçer, canı zeval suyun içer  
 Derviş gönlü arşta uçar, çünki mekanı ondadır  
-\*\\_\* \*\*_  
+
 Ab-ı hayvan : Ebedilik veren su  
 Batın : İç, gizli  
 Zahir : Dış, görünen
@@ -1622,17 +1621,17 @@ Yar yüreğim yar, gör ki neler var
 Bu halk içinde bize güler var  
 Ko gülen gülsün, HAK bizim olsun  
 Gafil ne bilir, HAKKI seven var  
-\*\\_\* \*\*_  
+
 Bu yol uzaktır menzili çoktur  
 Geçidi yoktur, derin sular var  
 Girdik bu yola Aşk ile bile  
 Gurbetlik ile bizi salar var  
-\*\\_\* \*\*_  
+
 Her kim merdane, gelsin meydane  
 Kalmasın cana kimde hüner var  
 Yunus sen bunda meydan isteme  
 Meydan içinde merdaneler var  
-\*\\_\* \*\*_
+
 
 * * *
 
@@ -1642,17 +1641,17 @@ Dost senin aşkın oku key katı taştan geçer
 Aşkına düşen kişi can ile baştan geçer  
 Dün ü günü zar olur aşkın ile yar olur  
 Endişesi sen olan, cümle tesvişten geçer  
-\*\\_\* \*\*_  
+
 Aşkına düşenlerin, yüreği yanar olur  
 Kendini sana veren, düğeli işten geçer  
 Dünyanın muhabbeti agülü aşa benzer  
 Ahırın sanan kişi, agülü aştan gecer  
-\*\\_\* \*\*_  
+
 Başında aklı olan, ücrete amel etmez  
 Hurilere aldanmaz, göz ile kaştan geçer  
 Yunusun gönlü gözü, doludur HAK sevgisi  
 Sohbet ihtiyar eden, yad u bilişten geçer  
-\*\\_\* \*\*_  
+
 Key : Pek çok  
 Tesviş : Kargaşa  
 Düğeli : Bütün, hepsi  
@@ -1666,17 +1665,17 @@ Bilirmisiniz ey yarenler, gerçek erenler kandadır
 Kanda baksam anda hazır, Kanda isterem andadır  
 Aşksızlara benim sözüm, benzer kaya yankısına  
 Bir zerre aşkı olmayan, belli bilin yabandadır  
-\*\\_\* \*\*_  
+
 Yalancılık eylemeğil aşka yalan söylemeğil  
 Bunda yalan söyleyenin, anda yeri zindandadır  
 Ey kend’özün bilmeyen söz manisin bulmayan  
 Hak varlığın istersen, Us ilm ile Kurandadır  
-\*\\_\* \*\*_  
+
 Allah benim dediğine, vermiş verir aşk varlığın  
 Kimdeki var bir zerre aşk Calap varlığı ondadır  
 Niceler eydur Yunusa Kocaldın sen aşkı koğıl  
 Bu aşk bize yeni geldi, henuz dahi turfandadır  
-\*\\_\* \*\*_
+
 
 * * *
 
@@ -1686,12 +1685,12 @@ Aşkla gelen erenler içer aguyu nuş eder
 Topuğa çıkmayan sular, deniz ile savaş eder  
 Bu sohbete gelmeyenler, HAK nefesi almayanlar  
 Sürün onu burdan gitsin, Durur ise çok iş eder  
-\*\\_\* \*\*_  
+
 Cahildir mani’den almaz oturur kararı gelmez  
 Öleceğini hiç sanmaz, yüzbin yıllık teşviş eder  
 Dağ ne kadar yüksek ise yol onun üstünden aşar  
 Yunus Emrem yolsuzlara yol gösterdi vu hoş eder  
-\*\\_\* \*\*_  
+
 Nuş etmek : İçmek  
 Man’i : Anlam  
 Tesviş : İşkillenme
@@ -1704,12 +1703,12 @@ Türlü türlü cefanın, adını aşk vermişler
 Bu cefaya katlanan, dosta halvet vermişler  
 Kime ki aşk ulaşa, her dem kaynaya taşa  
 İyi dirlik hem yavuz, dört yanında durmuşlar  
-\*\\_\* \*\*_  
+
 Her kim aşk eri ise, aşka müşteri ise  
 Aşk onun yarı ise, canına öd urmuşlar  
 Miskin Yunusun canı başında serencamı  
 Aşka munkir ademi bu meydandan sürmüşler  
-\*\\_\* \*\*_  
+
 Halvet : Yalnızlık  
 Serencam : Başa gelen  
 Munkir : İnkar eden
@@ -1722,12 +1721,12 @@ Sözü bilen kişinin, yüzünü ak ede bir söz
 Sözü pişirip diyenin işini sağ ede bir söz  
 Söz ola kese savaşı, söz ola bitire başı  
 Söz ola agülü aşı, yağ ile bal ede bir söz  
-\*\\_\* \*\*_  
+
 Kişi bile söz demini, Demeye sözün kemini  
 Bu cihan cehennemini, Sekiz cennet ede bir söz  
 Yunus şimdi söz yatından, söyle sözü gayetinden  
 Pek sakın o sah katından, Seni ırak ede bir söz  
-\*\\_\* \*\*_  
+
 Dem : Etki  
 Kem : Fena, değersiz  
 Yat : Usul, yol yordam
@@ -1740,12 +1739,12 @@ Mani evine daldık, vücuda seyran kıldık
 İki cihan seyrini, cümle vücudda bulduk  
 Yedi gök yedi yeri, dağları denizleri  
 Cenneti cehennemi, cümle vücudda bulduk  
-\*\\_\* \*\*_  
+
 Tevrat ile incili, Furkan ile Zeburu  
 Bunlardan beyanı cümle vücudda bulduk  
 Yunusun sözleri hak, cümlemiz dedik saddak  
 Kanda istersen anda HAK, cümle vücudda bulduk  
-\*\\_\* \*\*_  
+
 Furkan : KURAN  
 Saddak : Doğru
 
@@ -1757,27 +1756,27 @@ Bir nazarda kalmayalım gel dosta gidelim gönül
 Hasret ile ölmeyelim gel dosta gidelim gönül  
 Gel gidelim can durmadan suret terkini urmadan  
 Araya düşman girmeden gel dosta gidelim gönül  
-\*\\_\* \*\*_  
+
 Gel gidelim kalma ırak dost için kılalım yarağ  
 Şeyhin katındadır durak gel dosta gidelim gönül  
 Terk edelim il u şarı dost için kılalım zarı  
 Ele getirelim yarı gel dosta gidelim gönül  
-\*\\_\* \*\*_  
+
 Bu dünyaya kanmayalım fanidir aldanmayalım  
 Bir iken ayrılmayalım gel dosta gidelim gönül  
 Biz bu cihandan göçelim ol dost iline uçalım  
 Arzu hevadan geçelim gel dosta gidelim gönül  
-\*\\_\* \*\*_  
+
 Kılavuz ol sen bana günilelim dosttan yanate  
 Bakmayalım önden sona gel dosta gidelim gönül  
 Bu dünya olmaz payidar aç gözünü canın uyar  
 Olgıl bana yoldaş u yar gel dosta gidelim gönül  
-\*\\_\* \*\*_  
+
 Ölüm haberi gelmeden ecel yakamız almadan  
 Azrail hamle kılmadan gel dosta gidelim gönül  
 Gerçek erene varalım Hakk’ın haberin soralım  
 Yunus Emre’yi bulalım gel dosta gidelim gönül  
-\*\\_\* \*\*_  
+
 Heva : Heves, nefse düşkünlük  
 Günilmek : Yönelmek, kıskanmak  
 Payidar, paydar : Devamlı, sürekli  
@@ -1792,15 +1791,15 @@ Tehi görme kimseyi hiç kimsene boş değil
 Eksiklik ile nazar erenlere hoş değil  
 Gönlünü derviş eyle dost ile biliş eyle  
 Aşk eri şol ma’nide derviş içi boş değil  
-\*\\_\* \*\*_  
+
 Derviş bilir dervişi Hak yoluna durmuşu  
 Dervişler Huma kuşu çaylak u baykuş değil  
 Dervişlik aslı candan geçti iki cihandan  
 Haber verir sultandan bellidir yad kuş değil  
-\*\\_\* \*\*_  
+
 Ey Yunus Hakk’ı bilen söylemez hergiz yalan  
 İkilik ile gelen doğru yol bulmuş değil  
-\*\\_\* \*\*_  
+
 Tehi : Bos, kimsesiz  
 Yad : Yabancı, el kişi  
 Hergiz : Asla
@@ -1813,17 +1812,17 @@ Hak Calabım Hak Calabım sencileyin yok Calabım
 Günahlarımız yarlığa ey rahmeti çok Calabım  
 Ben eydürem kim ey gani nedir bu derdin dermanı  
 Zinhar esirgeme beni aşk oduna yak Calabım  
-\*\\_\* \*\*_  
+
 Kullar senin sen kulların günahları çok bunların  
 Uçmağına koy bunları binsinler Burak Calabım  
 Ne sultan ne baylardasın ne köşk ü saraylardasın  
 Girdin miskinler gönlüne edindin durak Calabım  
-\*\\_\* \*\*_  
+
 Ne ilmim var ne taatım ne gücüm var ne takatım  
 Meğer senin inayetin kıla yüzüm ak Calabım  
 Yarlığağıl sen Yunusu günahlı kulların ile  
 Eğer yarlıgamaz isen key katı firak Calabım  
-\*\\_\* \*\*_  
+
 Calab : Allah  
 Yarlıgamak : Bağışlamak  
 İnayet : Yardım  
@@ -1837,35 +1836,35 @@ Benim canım uyanıktır dost yüzüne bakan benem
 Hem denize karışmağa ırmak olup akan benem  
 Irmak gibi ben çağlaram geh gülerem geh ağlaram  
 Nefsin ciğerin doğraram kibr u kini yıkan benem  
-\*\\_\* \*\*_  
+
 Kırdım bu nefsin çerisin bir itdim burc u barusun  
 Pak eyledim içerisin milketini yuyan benem  
 Ben hazrete tutum yüzüm ol aşk eri açtı gözüm  
 Gösterdi bana kendozum ayet-i kul denen benem  
-\*\\_\* \*\*_  
+
 Şah didarın gördüm ayan hiç gumansuz belli beyan  
 Kafir ola inanmayan ol didara bakan benem  
 Benim durur bu cümle iş hikmetimle yaz u kış  
 Ben bilirim yad u biliş ırılmadan duran benem  
-\*\\_\* \*\*_  
+
 Bu cümle canda oynayan damarlarımda kaynayan  
 Kulli dillerde söyleyen kulli dili diyen benem  
 Nemrud odun ˜brahim’e ben bag u bostan eyledim  
 Küfür yüzünden doğuban gene ödü yakan benem  
-\*\\_\* \*\*_  
+
 Ol Hallac-ı Mansur ile söyler idim enel Hakk’ı  
 Benem gi’nönün boynuna dar urganın takan benem  
 Ol Hak habibi Mustafa mi’raca edicek sefer  
 Ol dem canım hak eyledim ol sırrı duyan benem  
-\*\\_\* \*\*_  
+
 Şimdi adım Yunus durur ol demde İsmail idi  
 Ol dost için Arafat’a kurban olup çıkan benem  
 Cerh benim hükmümdedir her kanda ben oturmusam  
 Mülk benim elimdedir yıkan benem yapan benem  
-\*\\_\* \*\*_  
+
 Sa’d benem said benem Yunus dahi benimledir  
 İlm-i ledundur ustadım ol esrarı duyan benem  
-\*\\_\* \*\*_  
+
 Burcu u baru : Kule ve hisar  
 Milket : Memleket  
 Didar : Yüz, Allah’ın cemali  
@@ -1885,17 +1884,17 @@ Her kacan anarsam seni kararım kalmaz Allahım
 Senden ayrı gözüm yaşın kimseler silmez Allahım  
 Sensin ismi baki olan sensin dillerde okunan  
 Sensin aşkına dokunan kendini bilmez Allahım  
-\*\\_\* \*\*_  
+
 Sen yarattın cism u cani sen yarattın bu cihanı  
 Mülk senindir kerem kkaıl kimsenin olmaz Allahım  
 Okunur dilde destanın açılır bag u bostanın  
 Sen baktığın gülistansın gülleri solmaz Allahım  
-\*\\_\* \*\*_  
+
 Aşk bahrna dalmayan canını feda kılmayan  
 Senin cemalin görmeyen meydana gelmez Allahım  
 Zor olur aşıkın işi durmaz akar gözün yaş  
 Senden ayrı düşen kişi didarın gö”rmez Alahım  
-\*\\_\* \*\*_  
+
 Aşık Yunus seni ister lütf eyle cemalin göster  
 Cemalin gören aşıklar ebedi ölmez Allahım
 
