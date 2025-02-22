@@ -12,4 +12,4 @@ Sevgi ve saygıyla…
 
 Allah’a (Celle Celalühü) emanet olun.
 
-[pasdo.com](https://pasdo.com/) gururla sunar.
+[mobilkanal.org](https://mobilkanal.org/) gururla sunar.
