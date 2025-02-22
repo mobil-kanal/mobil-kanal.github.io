@@ -137,19 +137,33 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
+#chatgpt'den
+page-col: "#1E1E1E"
+text-col: "#E0E0E0"
+link-col: "#4A90E2"
+hover-col: "#357ABD"
+navbar-col: "#2C2C2C"
+navbar-text-col: "#E0E0E0"
+navbar-border-col: "#444444"
+footer-col: "#2C2C2C"
+footer-text-col: "#A0A0A0"
+footer-link-col: "#E0E0E0"
+footer-hover-col: "#357ABD"
 
-page-col: "#F2F3F4"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-navbar-col: "#D5D8DC"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-footer-col: "#D5D8DC"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+#eski site renkleri
+#page-col: "#F2F3F4"
+#text-col: "#404040"
+#link-col: "#008AFF"
+#hover-col: "#0085A1"
+#navbar-col: "#D5D8DC"
+#navbar-text-col: "#404040"
+#navbar-border-col: "#DDDDDD"
+#footer-col: "#D5D8DC"
+#footer-text-col: "#777777"
+#footer-link-col: "#404040"
+#footer-hover-col: "#0085A1"
 
+#orjinal renkler
 #page-col: "#FFFFFF"
 #text-col: "#404040"
 #link-col: "#008AFF"
