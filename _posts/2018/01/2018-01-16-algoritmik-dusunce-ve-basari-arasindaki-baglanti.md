@@ -38,12 +38,12 @@ Bunu anlamamız için ilk önce **ALGORİTMİK düşünce sistemi** nedir onu an
 
 Kısaca algoritmik düşünce şunları içeriyordu ki kim bunları yaparsa başarı oranı yükseliyordu.
 
-1 – **Neyi yapacağına karar ver.**  
-2 – **Nasıl yapacağına karar ver.**  
+1. **Neyi yapacağına karar ver.**  
+2. **Nasıl yapacağına karar ver.**  
   - *Süreci doğru yerlerden kır.*
   - *Kırılan aşamaları doğru sırala.*
   - *Aşamaların sürecini belirle.*
-3 – **Harekete Geç.**
+3. **Harekete Geç.**
 
 (Bunu doğru olarak kim uygularsa başarıyı mutlaka yakalıyor.)
 
