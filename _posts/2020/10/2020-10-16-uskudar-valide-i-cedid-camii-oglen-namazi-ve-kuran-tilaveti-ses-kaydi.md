@@ -23,6 +23,6 @@ thumbnail-img: /assets/img/2022/07/cami-isik-avize-golge-aydinlik-1024x683-1.jpg
 
 Üsküdar Valide-i Cedid Camii’nde öğlen namazı ve Kuran tilaveti yüksek kaliteli ses kaydı ve fotoğraflar. Kulaklıkla dinlemenizi tavsiye ederim.
 
-![Ses Dosyası](/assets/sounds/2020/10/uskudar-valide-i-cedid-camii-oglen-namazi-ve-kuran-tilaveti-ses-kaydi.mp3)
+[Ses Dosyası](/assets/sounds/2020/10/uskudar-valide-i-cedid-camii-oglen-namazi-ve-kuran-tilaveti-ses-kaydi.mp3)
 
 <https://www.youtube.com/watch?v=oUveWYPA-l4>
