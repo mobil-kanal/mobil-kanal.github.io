@@ -11,6 +11,7 @@ tags:
   - "su"
   - "su-sesi"
   - "video"
+  - "sesler"
 cover-img: /assets/img/2022/03/foto-2020-9-27-yuksek-kaliteli-su-kaynama-sesi-1.png
 share-img: /assets/img/2022/03/foto-2020-9-27-yuksek-kaliteli-su-kaynama-sesi-1.png
 thumbnail-img: /assets/img/2022/03/foto-2020-9-27-yuksek-kaliteli-su-kaynama-sesi-1.png

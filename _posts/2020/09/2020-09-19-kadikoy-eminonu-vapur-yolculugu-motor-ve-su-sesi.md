@@ -18,6 +18,7 @@ tags:
   - "ulasim"
   - "vapur"
   - "video"
+  - "sesler"
 ---
 
 İnsan en çok ne zaman arkasına bakar biliyor musunuz? Deniz seyahati sırasında. Üstelik gittiği yer daha güzel olsa bile. İşte böyle bir zamanda geminin yoğun motor sesi su sesine karışırken cep telefonumu çıkarttım ve kaydettim. Dinlerken kulaklığı takıp arada gözlerinizi kapatmayı unutmayın. Umarım hoşunuza gider…

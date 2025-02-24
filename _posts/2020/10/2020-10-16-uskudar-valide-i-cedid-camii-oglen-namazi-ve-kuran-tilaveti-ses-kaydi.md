@@ -16,6 +16,7 @@ tags:
   - "ses-kaydi"
   - "valide-i-cedid-camii"
   - "video"
+  - "sesler"
 cover-img: /assets/img/2022/07/cami-isik-avize-golge-aydinlik-1024x683-1.jpg
 share-img: /assets/img/2022/07/cami-isik-avize-golge-aydinlik-1024x683-1.jpg
 thumbnail-img: /assets/img/2022/07/cami-isik-avize-golge-aydinlik-1024x683-1.jpg
