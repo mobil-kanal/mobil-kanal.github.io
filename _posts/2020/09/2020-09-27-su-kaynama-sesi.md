@@ -18,6 +18,6 @@ thumbnail-img: /assets/img/2022/03/foto-2020-9-27-yuksek-kaliteli-su-kaynama-ses
 
 Suyum ısınıyor galiba… Videoyla uyumlu olsun diye söylemiyorum. Gerçekten ısınıyor… O kadar hatalar yaptım ki, belki kaynamıştır bile!
 
-![Ses Dosyası](/assets/sounds/2020/09/yuksek-kaliteli-su-kaynama-sesi.mp3)
+[Ses Dosyası](/assets/sounds/2020/09/yuksek-kaliteli-su-kaynama-sesi.mp3)
 
 <https://www.youtube.com/watch?v=peBp2MG9psA>
