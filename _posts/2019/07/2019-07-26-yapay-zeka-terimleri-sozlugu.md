@@ -48,7 +48,7 @@ Eksik, yanlış veya tavsiyelerinizi lütfen yorum bölümünde belirtin.
 - **Derin öğrenme ( deep learning ):** Bilgisayarlara nasıl öğrenileceğini öğreten bir makine öğrenme tekniği (yani sınıflandırma tekniklerini kullanarak, bir insan zihni gibi öğrenmeyi taklit eden makineler)
 - **Çekişmeli üretici ağlar ( GAN — Generative adversarial networks ):** Yüzeysel bir anlatımla insan gözüne gerçek görünüşte fotoğraflar üretebilen bir tür sinir ağı. **GAN** tarafından oluşturulan görüntüler, fotoğraf verilerinin öğelerini alır ve bunları insanların, hayvanların ve yerlerin gerçekçi görüntülerine dönüştürür. Basit girdilerle anlamlı ve karmaşık çıktılar oluşturabiliyor.
 
-https://www.youtube.com/watch?v=p5U4NgVGAwg
+<https://www.youtube.com/watch?v=p5U4NgVGAwg>
 
 - **Genetik algoritma ( Genetic algorithm ):** Zor problemlerin çözümlerini etkili ve hızlı bir şekilde bulmak için kullanılan genetiğin prensiplerine dayanan bir algoritma.
 - **Sezgisel ( Heuristic ):** Hızlı, optimum, çözüme dayalı problem çözme için tasarlanmış bir bilgisayar bilimi tekniği. Diğer kullanımları arasında sezgisel algoritma da vardır.

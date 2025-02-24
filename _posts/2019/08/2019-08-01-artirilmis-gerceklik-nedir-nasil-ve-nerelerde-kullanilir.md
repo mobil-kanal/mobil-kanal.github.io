@@ -66,7 +66,7 @@ Görüntü yansıtıcı artırılmış gerçeklik (outlining AR) uygulamaları i
 
 Hiper gerçeklik henüz konsept aşamasında ve ütopik bir fikir. Bence videoyu izlemek yeterli ve üzerine çok konuşmaya gerek yok.
 
-https://vimeo.com/166807261
+<https://vimeo.com/166807261>
 
 * * *
 

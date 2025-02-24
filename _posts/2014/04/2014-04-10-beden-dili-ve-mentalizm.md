@@ -56,7 +56,8 @@ Bu işe meraklanan bizlerin en büyük yanılgısı karşımızdaki kişide olu�
 
 Gözlem yeteneğinizi test etmek için aşağıdaki videoyu izleyin ve kendinizi değerlendirin.
 
-https://www.youtube.com/watch?v=y2yNMMLcj\_g
+<https://www.youtube.com/watch?v=y2yNMMLcj_g>
+
 
 Evet sandığınız kadar zor olmadığını gördünüz. Hatta hemen şimdi evde ya da yakınınız da bulunan biriyle deneyebilirsiniz. Unutmamamız gereken önemli bir noktada şu ki: bedenin, jestlerin veya mimiklerin oluşması gelişigüzel değildir. Bir sır saklayan insanın sizle konuşurken ağzını sıkıca kapalı tutması, çocukların yaptığı gibi yalan söylediğinde ellerini arkalarına saklamalarına, sevdiğiniz birisini gördüğünüzde kollarınızı açmanız ve gözbebeklerinizin büyümesi sadece tesadüf eseri oluşmamaktadır. Kavgaya giren insanları izlediniz mi hiç. Omuzlarını kaldırarak baş bölgesini korurlar ya da güvensiz bir ortamda olduğunuzda özellikle köşede durarak arkanızı bir bakıma sağlama almak ve görüş alanınızı olabildiğince genişletmek istememize ne demeli.
 

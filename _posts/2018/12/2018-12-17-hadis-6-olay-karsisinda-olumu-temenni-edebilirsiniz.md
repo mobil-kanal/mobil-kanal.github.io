@@ -22,6 +22,6 @@ thumbnail-img: /assets/img/2018/12/kabe-mekke-camii-islam-hac-umre-cemaat.jpg
 5. Akrabalık bağları koptuğu zaman
 6. Müslümanlar arasından öyle bir grup türeyecek ki Kuran-ı Kerim’i şarkı gibi dinleyip ondan zevk alacak. Bilgisi çok olanı değil sesi güzel olanı öne çıkaracaklar.
 
-https://www.youtube.com/watch?v=ZpUCW-y2l7g
+<https://www.youtube.com/watch?v=ZpUCW-y2l7g>
 
 Mahmud Esad Coşan Hoca Efendi’nin 1992 yılında yaptığı [sohbetten](https://www.youtube.com/watch?v=ST-EwuyE0-Y) alıntıdır.

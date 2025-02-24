@@ -16,4 +16,4 @@ thumbnail-img: /assets/img/2016/12/fatiha-suresi-kuran-1024x681-1.jpg
 
 Hz. Ali r.a efendimize şifa niyetiyle gelen kişiye tavsiyesi. Bahsedilen yağmur suyu Nisan ayında yağan olursa daha iyi olabilir sanırım.
 
-https://vimeo.com/193745019
+<https://vimeo.com/193745019>
