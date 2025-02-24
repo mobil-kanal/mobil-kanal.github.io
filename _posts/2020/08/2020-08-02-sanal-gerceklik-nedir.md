@@ -62,7 +62,7 @@ Sanal öğrenme ortamları, turizm amaçlı sanal tur, VR oyun, sanal toplantıl
 
 **HR** – Hyper Reality – **Hiper gerçeklik nedir:** Henüz konsept aşamasında olan bu teknoloji rüya aleminden hallice duruyor 🙂
 
-https://vimeo.com/166807261
+<https://vimeo.com/166807261>
 
 * * *
 

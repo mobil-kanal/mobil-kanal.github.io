@@ -10,7 +10,6 @@ tags:
   - "sozluk"
   - "sosyal-medya"
   - "yazilar"
-cover-img: /assets/img/2020/06/screenshot_20240529_201330_sosyal-medya-app-uygulama-1024x831-1.jpg
 share-img: /assets/img/2020/06/screenshot_20240529_201330_sosyal-medya-app-uygulama-1024x831-1.jpg
 thumbnail-img: /assets/img/2020/06/screenshot_20240529_201330_sosyal-medya-app-uygulama-1024x831-1.jpg
 ---

@@ -8,7 +8,6 @@ tags:
   - "nasil-yapilir"
   - "telegram"
   - "video"
-cover-img: /assets/img/2020/08/telegram_logo.png
 share-img: /assets/img/2020/08/telegram_logo.png
 thumbnail-img: /assets/img/2020/08/telegram_logo.png
 ---

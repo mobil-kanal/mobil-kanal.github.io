@@ -10,7 +10,7 @@ tags:
   - "film-isimleri"
   - "film-siteleri"
   - "yazilar"
-cover-img: /assets/img/2020/05/contv-free-online-movie-bedava-film-dizi.png
+cover-img: /assets/img/2020/05/popcornflix-free-online-movie-bedava-film-dizi-1024x531-1.png
 share-img: /assets/img/2020/05/popcornflix-free-online-movie-bedava-film-dizi-1024x531-1.png
 thumbnail-img: /assets/img/2020/05/vudu-free-online-movie-bedava-film-dizi.png
 ---

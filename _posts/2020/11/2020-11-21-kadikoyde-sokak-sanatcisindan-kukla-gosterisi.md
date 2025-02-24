@@ -22,7 +22,7 @@ Telefon arşivimi karıştırırken bulduğum bu video beni geçmişe götürdü
 
 Kadıköy’de bir sokak sanatçısının kukla gösterisinden bir bölüm. Bizim kültürümüzde de ‘Hacivat ve Karagöz’ gibi benzer bir kültür var. Kukla ve gösteri sanatlarına herkesin bakış açısı farklı. Bence bir çok katmandan oluşan bu gibi gösteriler için bazen kuklaya değil kuklacıya bakmak lazım. Bazen kuklacıya değil söylediklerini dinlemek lazım. Bazen de söylenenlere değil, kuklacıyı konuşturana bakmak lazım diye düşünüyorum. Umarım beğenirsiniz.
 
-![Ses Dosyası](/assets/sounds/2020/11/kadikoyde-sokak-sanatcisindan-kukla-gosterisi-sesi.mp3)
+[Ses Dosyası](/assets/sounds/2020/11/kadikoyde-sokak-sanatcisindan-kukla-gosterisi-sesi.mp3)
 
 <https://www.youtube.com/watch?v=ECLi8Gq9nPU>
 
