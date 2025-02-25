@@ -11,6 +11,7 @@ tags:
   - "hiss1"
   - "ortam-sesleri"
   - "video"
+  - "ses"
 cover-img: /assets/img/2021/04/hiss-1-metro-yansima-tunel-ray-tren.jpg
 share-img: /assets/img/2021/04/hiss-1-metro-yansima-tunel-ray-tren.jpg
 thumbnail-img: /assets/img/2021/04/hiss-1-metro-yansima-tunel-ray-tren.jpg

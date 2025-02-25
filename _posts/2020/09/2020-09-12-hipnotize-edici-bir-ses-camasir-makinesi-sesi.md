@@ -11,7 +11,7 @@ tags:
   - "makine-sesleri"
   - "ses-kaydi"
   - "video"
-  - "sesler"
+  - "ses"
 thumbnail-img: /assets/img/2022/03/foto-2020-9-12-camasir-makinesi-sesi-1024x576-1.jpeg
 share-img: /assets/img/2022/03/foto-2020-9-12-camasir-makinesi-sesi-1024x576-1.jpeg
 ---

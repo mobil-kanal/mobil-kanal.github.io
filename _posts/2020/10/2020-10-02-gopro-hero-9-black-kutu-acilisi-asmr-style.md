@@ -13,7 +13,7 @@ tags:
   - "kamera"
   - "ses-kaydi"
   - "video"
-  - "sesler"
+  - "ses"
 cover-img: /assets/img/2021/10/gopro-hero-9-aksiyon-kamera-fotograf.jpg
 share-img: /assets/img/2021/10/gopro-hero-9-aksiyon-kamera-fotograf.jpg
 thumbnail-img: /assets/img/2021/10/gopro-hero-9-aksiyon-kamera-fotograf.jpg
