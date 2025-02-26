@@ -21,4 +21,4 @@ thumbnail-img: /assets/img/2022/03/iett-otobus-toplu-tasima-kadikoy-ulasim.jpeg
 
 İETT otobüse kart basarak binen insanlar ve akbil sesi
 
-[Ses Dosyası](/assets/sounds/2022/03/)
+[Ses Dosyası](/assets/sounds/2022/03/otobuse-kart-basarak-binen-insanlar-ve-akbil-sesi.mp3)
