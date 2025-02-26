@@ -99,7 +99,7 @@ Son olarak bir konuya odaklanınca o konu hakkında kaynak toplamak zaman aldı�
 
 - İnsan ve Davranışı ( Doğan Cüceloğlu )
 - İknanın Psikolojisi ( Ropert B. Cialdini )
-- Marifetname ( Erzurumlu İbrahim Hakkı ) — Bedir Yayınevi
+- Marifetname ( Erzurumlu İbrahim Hakkı ) — Bedir Yayınevi
 
 **Beden dili hakkında kaynaklar:**
 

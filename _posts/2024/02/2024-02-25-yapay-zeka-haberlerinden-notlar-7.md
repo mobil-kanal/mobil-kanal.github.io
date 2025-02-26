@@ -39,29 +39,29 @@ thumbnail-img: /assets/img/2024/02/stable-diffusion-3-subat-2023-stability-ai-ne
 * * *
 
 | ![](/assets/img/2024/02/stable-diffusion-3-subat-2023-stability-ai-news-website-image-1024x585-1.png) |
-|:--:|
-| _Prompt: Epic anime artwork of a wizard atop a mountain at night casting a cosmic spell into the dark sky that says “Stable Diffusion 3” made out of colorful energy_ (image via **stability.ai**) |
+|:---:|
+| *Prompt: Epic anime artwork of a wizard atop a mountain at night casting a cosmic spell into the dark sky that says “Stable Diffusion 3” made out of colorful energy* (image via **stability.ai**) |
 
-- **Stability AI**, **Stable Diffusion 3** adında yeni bir metinden-görüntüye dönüştürme modeli [duyurdu](https://stability.ai/news/stable-diffusion-3). Stable Diffusion 2’nin halefi olan bu model, daha yüksek kaliteli ve daha gerçekçi görüntüler üretme yeteneğine sahip. Model, **1.5 milyardan fazla metin ve görüntü içeren bir veri kümesi üzerinde eğitilmiş. Stable Diffusion 3, kullanıcıların metinsel açıklamaları kullanarak kendi görsellerini oluşturmalarına olanak tanıyor. Ticari ve kişisel kullanım için ücretsiz olarak kullanılabiliyor.** Yeni model kullanıcıların görüntü boyutunu, stilini ve renk paletini özelleştirmelerine olanak tanırken görüntülere metin ve filigran eklemelerine izin veriyor. Stable Diffusion 3 modeli şimdilik sadece geliştiriciler için kullanıma açık. Herkes için yayınlandığında denemek için sabırsızlanıyorum.
+- **Stability AI**, **Stable Diffusion 3** adında yeni bir metinden-görüntüye dönüştürme modeli [duyurdu](https://stability.ai/news/stable-diffusion-3). Stable Diffusion 2’nin halefi olan bu model, daha yüksek kaliteli ve daha gerçekçi görüntüler üretme yeteneğine sahip. Model, **1.5 milyardan fazla metin ve görüntü içeren bir veri kümesi üzerinde eğitilmiş. Stable Diffusion 3, kullanıcıların metinsel açıklamaları kullanarak kendi görsellerini oluşturmalarına olanak tanıyor. Ticari ve kişisel kullanım için ücretsiz olarak kullanılabiliyor.** Yeni model kullanıcıların görüntü boyutunu, stilini ve renk paletini özelleştirmelerine olanak tanırken görüntülere metin ve filigran eklemelerine izin veriyor. Stable Diffusion 3 modeli şimdilik sadece geliştiriciler için kullanıma açık. Herkes için yayınlandığında denemek için sabırsızlanıyorum.
 
 * * *
 
-- Adobe, Acrobat PDF’ler için “**Acrobat Assistant**” adında yeni bir yapay zeka (AI) asistanı [tanıttı](https://news.adobe.com/news/news-details/2024/Adobe-Brings-Conversational-AI-to-Trillions-of-PDFs-with-the-New-AI-Assistant-in-Reader-and-Acrobat/default.aspx). Bu AI asistanı, PDF’leri otomatik olarak 13 farklı dilde özetleyebiliyor, anahtar noktaları çıkarabiliyor ve belirli bilgileri arayabiliyor. **Acrobat Assistant**, şu anda Adobe Acrobat Pro DC ve Acrobat Pro DC aboneliklerinin bir parçası olarak kullanılabiliyor. Kullanıcılar, yapay zeka asistana metin veya sesli komutlar verebiliyor. Kullanıcılar, AI asistana “**Belgenin ana noktalarını özetle**” veya “**John Smith’in iletişim bilgilerini bul**” gibi komutlar verebiliyormuş. Ayrıca PDF’lerdeki tabloları ve grafikleri de özetleyebiliyormuş. Daha ne olsun!
+- Adobe, Acrobat PDF’ler için “**Acrobat Assistant**” adında yeni bir yapay zeka (AI) asistanı [tanıttı](https://news.adobe.com/news/news-details/2024/Adobe-Brings-Conversational-AI-to-Trillions-of-PDFs-with-the-New-AI-Assistant-in-Reader-and-Acrobat/default.aspx). Bu AI asistanı, PDF’leri otomatik olarak 13 farklı dilde özetleyebiliyor, anahtar noktaları çıkarabiliyor ve belirli bilgileri arayabiliyor. **Acrobat Assistant**, şu anda Adobe Acrobat Pro DC ve Acrobat Pro DC aboneliklerinin bir parçası olarak kullanılabiliyor. Kullanıcılar, yapay zeka asistana metin veya sesli komutlar verebiliyor. Kullanıcılar, AI asistana “**Belgenin ana noktalarını özetle**” veya “**John Smith’in iletişim bilgilerini bul**” gibi komutlar verebiliyormuş. Ayrıca PDF’lerdeki tabloları ve grafikleri de özetleyebiliyormuş. Daha ne olsun!
 
 * * *
 | ![](/assets/img/2024/02/windows-fotograflar-yapay-zeka-subat-2024-2_photo_generase_marketingblog_01-1024x645-1.gif) |
 |:--:|
 | image credit [Windows Blog](https://blogs.windows.com/windows-insider/2024/02/22/windows-photos-gets-generative-erase-and-recent-ai-editing-features-now-available-on-arm64-devices-and-windows-10/) |
 
-- Yapay zekanın bence en güzel kullanımı donanımdan bağımsız olarak herkesin kolayca ulaşabileceği türde olanlarıdır. İşte bunlara bir örnek **Microsoft**‘tan geldi. **Windows Fotoğraflar** uygulamasına yapay zeka destekli akıllı silgi gibi yeni özellikler geldi. Windows Insider’ların test ettiği akıllı araçların önümüzdeki aylarda Windows 10/11 kullanan tüm kullanıcılara açılması bekleniyor. Yeni özelliklerden bazıları;
-    - **Generative Erase:** Fotoğraflardan istenmeyen nesneleri otomatik olarak kaldırır.
-    - **AI-powered editing:** Fotoğrafları otomatik olarak optimize eder ve renkleri, aydınlatmayı ve kontrastı iyileştirir.
-    - **AI-powered creative tools:** Fotoğraflara efektler, filtreler ve çerçeveler eklemenizi sağlar.
+- Yapay zekanın bence en güzel kullanımı donanımdan bağımsız olarak herkesin kolayca ulaşabileceği türde olanlarıdır. İşte bunlara bir örnek **Microsoft**‘tan geldi. **Windows Fotoğraflar** uygulamasına yapay zeka destekli akıllı silgi gibi yeni özellikler geldi. Windows Insider’ların test ettiği akıllı araçların önümüzdeki aylarda Windows 10/11 kullanan tüm kullanıcılara açılması bekleniyor. Yeni özelliklerden bazıları;
+    - **Generative Erase:** Fotoğraflardan istenmeyen nesneleri otomatik olarak kaldırır.
+    - **AI-powered editing:** Fotoğrafları otomatik olarak optimize eder ve renkleri, aydınlatmayı ve kontrastı iyileştirir.
+    - **AI-powered creative tools:** Fotoğraflara efektler, filtreler ve çerçeveler eklemenizi sağlar.
 
 * * *
 | ![](/assets/img/2024/02/google-gemma-subat-2024-karsilastirma-benchmark_chart_new.width-1000.format-1.jpeg) |
 |:--:|
-| image credit [Google](https://blog.google/technology/developers/gemma-open-models/) |
+| image credit [Google](https://blog.google/technology/developers/gemma-open-models/) |
 
 - **Google, Gemma adında hafif bir açık kaynak yapay zeka modeli [tanıttı](https://blog.google/technology/developers/gemma-open-models/)**. Model, metin oluşturma, çeviri ve soru cevaplama gibi çeşitli görevlerde kullanılabiliyor. Gemma, diğer açık kaynak modellerden daha az kaynak kullanıyor ve bu da onu daha geniş bir kullanıcı yelpazesi için erişilebilir hale getirdiği söyleniyor. Ayrıca Gemma, Google Cloud’da veya yerel olarak da çalıştırılabiliyormuş.
 

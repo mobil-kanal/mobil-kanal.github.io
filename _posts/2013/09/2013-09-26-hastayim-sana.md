@@ -13,7 +13,6 @@ share-img: /assets/img/2013/09/acil-servis-hastane-saglik-ilk-yardim-bina.jpeg
 thumbnail-img: /assets/img/2013/09/acil-servis-hastane-saglik-ilk-yardim-bina.jpeg
 ---
 
-
 Ne gariptir ki, insan kaybettikten sonra biliyor kıymetini her şeyin. Hastalıktan önce sağlığın, fakirlikten önce zenginliğin, işsizlikten önce çalışmanın kıymetini bilmek an’ın kıymetini bilmeyen benim gibi insanlar için gerçekten çok zor. Evet bugün hastayım ve sırf can sıkıntısından bu yazıyı yazıyorum. Herkes bir yol tutturmuş gidiyorken öylece bakakalmak hayata… Biraz düşünmeye, biraz üzülmeye birazda dinlenmeye yarıyor hastalık…
 
 Hastalık derken; öyle kolum bacağım koptu, duyu organlarımdan birini kaybettim falan değil… Altı-üstü nezle/grip karışımı bir sarhoşluk benimki…

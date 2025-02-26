@@ -13,7 +13,6 @@ share-img: /assets/img/2013/12/uskudar-turk-bayragi-1-1024x841-1.jpg
 thumbnail-img: /assets/img/2013/12/uskudar-turk-bayragi-1-1024x841-1.jpg
 ---
 
-
 Seksenleri ve doksanları yaşayan birisi olarak, politikacılar ya da siyaset işiyle uğraşanlar bana hep yalan söylüyor gibi geliyor. Asıl amaçlarını bilmediğimiz sır kutuları gibi. İyi ya da kötü emellerine ulaşabilmek için değişik yöntemlerle insanları yönlendiren ve kullanan kişiler. Benim siyasete ve siyasetçiye bakış açım bu!
 
 Bu yazıyı yazma sebebim siyasetçiler değil, halkın durumu. **Benim güzel ülkem** de milletim belirli saflara bölünmüş, karşı tarafların açığını kollarken, fırsatını bulduğunda tüm zehrini kusmaya hazır yılanlara dönmüş. Evet **binlerce yıllık Türk medeniyetinin** devamı olan bizler tam olarak bu haldeyiz. Kimimiz bunu karikatürlerle, kimimiz duvar yazıları, kimimiz sokak hareketleri, kimimiz sosyal medya aracılığı ile yapıyoruz. Nefret söylemlerini (ben de sütten çıkmış ak kaşık değilim) dile getirenler biziz.

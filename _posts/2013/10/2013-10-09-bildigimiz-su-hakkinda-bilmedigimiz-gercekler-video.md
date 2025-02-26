@@ -14,7 +14,6 @@ share-img: /assets/img/2013/10/damacana-su-bidon.jpg
 thumbnail-img: /assets/img/2013/10/damacana-su-bidon.jpg
 ---
 
-
 Açıkçası suya karşı özel bir ilgim var. Güneş, ay ve yükselen burçlarımın hepsi su grubu burçlar. Üniversitede denizcilik üzerine eğitim aldım ve senelerim deniz üzerinde geçti. Her ne kadar bu bir kaç seneden sonra denize karadan bakmayı sevdiğimi anlasamda, denizin bende ayrı bir yeri var.
 
 _Güncelleme_: Maalesef video ([https://vimeo.com/76283661](https://vimeo.com/76283661)) silinmiş. Neyse ki yazıda belgeselden aldığım notlar mevcut.

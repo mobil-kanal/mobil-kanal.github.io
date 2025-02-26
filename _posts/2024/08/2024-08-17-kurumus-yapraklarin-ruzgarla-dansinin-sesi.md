@@ -14,7 +14,7 @@ share-img: /assets/img/2022/10/cimen-yaprak-toprak-doga-park-1024x683-1.jpg
 thumbnail-img: /assets/img/2022/10/cimen-yaprak-toprak-doga-park-1024x683-1.jpg
 ---
 
-Bu sese bayılıyorum dediğim seslerden biri. Kurumuş yaprakların rüzgarla dansının çıkardığı ses sizi de rahatlatmıyor mu? 
+Bu sese bayılıyorum dediğim seslerden biri. Kurumuş yaprakların rüzgarla dansının çıkardığı ses sizi de rahatlatmıyor mu?
 
 Bir sonrakine daha uzun ve yüksek kaliteli şekilde kaydetmek için yapılacaklar listesine ekledim.
 

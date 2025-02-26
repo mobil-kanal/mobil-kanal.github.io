@@ -23,19 +23,19 @@ Kırım’ı on gün içinde oldu bittiye getirip sınırlarına katan Rusya dil
 
 **Yazıya geçmeden önce Kur’an-ı Kerim Kehf Süresi 93–99 numaralı ayetleri bir hatırlayalım (Mealen):**
 
-**93** - Nihayet iki dağ arasına ulaştığında, onların önünde, hemen hemen hiç söz anlamayan bir millet buldu.
-**94** - “Ey Zülkarneyn!” dediler, “Ye’cüc ve Me’cüc bu ülkede bozgunculuk yapıyorlar. Bizimle onlar arasında bir sed yapman için sana bir vergi vermeyi teklif ediyoruz, ne dersin?
-**95**–  O da şöyle cevap verdi: “Rabbimin bana verdiği imkânlar, sizin vereceğinizden daha hayırlıdır. Siz bana beden gücüyle yardımcı olun da sizinle onlar arasında sağlam bir sed yapayım.”
-**96** - “Demir kütleleri getirin bana!” Zülkarneyn iki dağın arasını demir kütleleriyle doldurtup dağlarla aynı seviyeye getirince: “Körükleyin!” dedi. Tam onu bir ateş haline getirince, “Bana erimiş bakır getirin de üzerine dökeyim.” dedi.
-**97**–  Artık o Ye’cüc ve Me’cüc’ün, ne seddi aşmaya, ne de onda delik açmaya güçleri yetmedi.
-**98**–  Zülkarneyn: “Bu, Rabbimden bir rahmettir, bir lütuftur, dedi. Rabbimin tayin ettiği vakit gelince, bunu yerle bir eder. Rabbimin vâdi mutlaka gerçekleşir.”
-**99** - O gün, yani kıyamet günü onlar deniz dalgaları gibi birbirine çarparak çalkalanırlar. Sûr’a da üfürülür, insanların hepsini bir araya toplarız.
+**93** - Nihayet iki dağ arasına ulaştığında, onların önünde, hemen hemen hiç söz anlamayan bir millet buldu.
+**94** - “Ey Zülkarneyn!” dediler, “Ye’cüc ve Me’cüc bu ülkede bozgunculuk yapıyorlar. Bizimle onlar arasında bir sed yapman için sana bir vergi vermeyi teklif ediyoruz, ne dersin?
+**95** – O da şöyle cevap verdi: “Rabbimin bana verdiği imkânlar, sizin vereceğinizden daha hayırlıdır. Siz bana beden gücüyle yardımcı olun da sizinle onlar arasında sağlam bir sed yapayım.”
+**96** - “Demir kütleleri getirin bana!” Zülkarneyn iki dağın arasını demir kütleleriyle doldurtup dağlarla aynı seviyeye getirince: “Körükleyin!” dedi. Tam onu bir ateş haline getirince, “Bana erimiş bakır getirin de üzerine dökeyim.” dedi.
+**97** – Artık o Ye’cüc ve Me’cüc’ün, ne seddi aşmaya, ne de onda delik açmaya güçleri yetmedi.
+**98** – Zülkarneyn: “Bu, Rabbimden bir rahmettir, bir lütuftur, dedi. Rabbimin tayin ettiği vakit gelince, bunu yerle bir eder. Rabbimin vâdi mutlaka gerçekleşir.”
+**99** - O gün, yani kıyamet günü onlar deniz dalgaları gibi birbirine çarparak çalkalanırlar. Sûr’a da üfürülür, insanların hepsini bir araya toplarız.
 
 **Enbiya Suresi 96.-97. ayetlerde seddin yıkılması şöyle anlatılır:** “Nihayet Ye’cüc ve Me’cüc’ün sedleri açılıp her tepeden dünyaya akın etmeye başladıkları, doğru vaadin vaktinin yaklaştığı sıra, işte o zaman, kâfirlerin gözleri birden donakalır. “Eyvah, bizlere! Biz bundan tam bir gaflet içinde idik, daha doğrusu kendimize zulmettik!” diyecekler.”
 
 [Ahmed Hulusi](http://twitter.com/AhmedHulusi)‘nin kaleminden son gelişmelerle ilgili değerlendirme:
 
-Konu ile ilgili: [Yazı 1](http://okyanusum.com/haber/rusyadan-bir-iddia/) — [Yazı 2](http://okyanusum.com/ah/yazilar/hatirlamakta-fayda-var/)
+Konu ile ilgili: [Yazı 1](http://okyanusum.com/haber/rusyadan-bir-iddia/) — [Yazı 2](http://okyanusum.com/ah/yazilar/hatirlamakta-fayda-var/)
 
 **Ortalık iyi değil şu anda, bayağı karışacak gibi görünüyor!.**
 **Daha önceleri söylemiştim, bazı arkadaşlar bilirler;**

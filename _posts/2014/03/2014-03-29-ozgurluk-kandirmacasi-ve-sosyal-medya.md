@@ -88,13 +88,13 @@ Yukarıdaki kısa yazıdan ne anladınız bilemiyorum ama temel olarak benim anl
 
 Sanırım özgürlük bu! Özgürlük Allah’a tam teslimiyetten geçiyor. Peygamber efendimiz Hz.Muhammed (s.a.v)’in sünnetine uymaktan geçiyor. Eğer her şeyi yaratan “O” ise aksine inanmak delilik olmaz mı?
 
-**“Bana baş kaldırmayın, teslimiyet gösterip bana gelin**, diye (yazmaktadır)”. **NEML Sûresi** — 31. Âyet- Diyanet Açıklamalı Meali.
+**“Bana baş kaldırmayın, teslimiyet gösterip bana gelin**, diye (yazmaktadır)”. **NEML Sûresi** — 31. Âyet- Diyanet Açıklamalı Meali.
 
 **“Muhakkak ki Allah ve Melâikesi Peygambere hep salât ile tekrim ederler, ey o bütün iyman edenler! haydinona teslimiyyetle salât-ü selâm getirin.”**  
-**AHZÂB Sûresi** — 56. Âyet- Elmalılı (Orijinal) Meal.
+**AHZÂB Sûresi** — 56. Âyet- Elmalılı (Orijinal) Meal.
 
 **“Öyle ya, (Allah’a) teslimiyet gösterenleri, (o) günahkârlar gibi tutar mıyız hiç?”**  
-**KALEM Sûresi** — 35. Âyet- Diyanet Açıklamalı Meali.
+**KALEM Sûresi** — 35. Âyet- Diyanet Açıklamalı Meali.
 
 **“Her nefis ölümü tadıcıdır. Biz sizi, şerle de, hayırla da deneyerek imtihan ediyoruz ve siz Bize döndürüleceksiniz.”** (Enbiya Suresi, 35)
 

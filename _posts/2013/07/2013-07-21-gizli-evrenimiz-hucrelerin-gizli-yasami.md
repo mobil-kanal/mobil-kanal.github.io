@@ -22,7 +22,7 @@ Bu hücrenin hikayesi yenilenmenin hikayesidir, hücredeki evrenin hikayesidir.
 
 ## Videodan Notlar:
 
-_**(Maalesef belgeselin yayınlandığı link patlamış)**_
+**(Maalesef belgeselin yayınlandığı link patlamış)**
 
 - Biz farkında olsak da, olmasak da virüslerle olan savaş 7 milyar bedende her saniye devam ediyor.  
 - Bu savaşla birbirimizi değiştiriyor, geliştiriyoruz.  
