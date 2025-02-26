@@ -38,7 +38,7 @@ Yıllarca emek verip **donanım, yazılım ve teknoloji birikimlerini yayınlaya
 
 | ![](/assets/img/2023/03/openai-chatgpt-gpt4-yapayzeka-meslekleri-ekranresmi-2023-03-18-11.57.04-1024x985-1.png) | ![](/assets/img/2023/03/openai-chatgpt-gpt4-yapayzeka-meslekleri-ekranresmi-2023-03-18-11.57.59-1024x735-1.png) |
 | ![](/assets/img/2023/03/openai-chatgpt-gpt4-yapayzeka-meslekleri-ekranresmi-2023-03-18-12.01.39-1007x1024-1.png) | ![](/assets/img/2023/03/openai-chatgpt-gpt4-yapayzeka-meslekleri-ekranresmi-2023-03-18-12.01.52-1024x938-1.png) |
-|:---:|:---:|
+|:---:|
 | Bu görsellerde ise; genel olarak insanların yerine yapabileceği meslekleri sıraladı. 70'den sonra daha sormadım. |
 
 
