@@ -37,9 +37,9 @@ Peki bundan sonra cazibe merkezi nereye kayacak. Bir sonraki ‘**büyük şey**
 Yıllarca emek verip **donanım, yazılım ve teknoloji birikimlerini yayınlayanların dataları** internet üzerinde botlar tarafından toplandı. **Bu datalar yapay zekalar ve makineler tarafından yağmalandı** ve yağmalanmaya devam ediyor. Üstelik bu durum sadece yayıncılar için değil. **Fotoğrafçılar, ressamlar, yazarlar, haberciler, yazılımcılar, tasarımcılar, şoförler, doktorlar, avukatlar, tezgahtarlar, vs.** gibi bir çok kişiyi etkiliyor.
 
 | ![](/assets/img/2023/03/openai-chatgpt-gpt4-yapayzeka-meslekleri-ekranresmi-2023-03-18-11.57.04-1024x985-1.png) | ![](/assets/img/2023/03/openai-chatgpt-gpt4-yapayzeka-meslekleri-ekranresmi-2023-03-18-11.57.59-1024x735-1.png) |
-|:---:|:---:|
 | ![](/assets/img/2023/03/openai-chatgpt-gpt4-yapayzeka-meslekleri-ekranresmi-2023-03-18-12.01.39-1007x1024-1.png) | ![](/assets/img/2023/03/openai-chatgpt-gpt4-yapayzeka-meslekleri-ekranresmi-2023-03-18-12.01.52-1024x938-1.png) |
-Bu görsellerde ise; genel olarak insanların yerine yapabileceği meslekleri sıraladı. 70'den sonra daha sormadım.
+|:---:|:---:|
+|Bu görsellerde ise; genel olarak insanların yerine yapabileceği meslekleri sıraladı. | 70'den sonra daha sormadım. |
 
 
 İşin bir diğer yönü ise daha can sıkıcı. Artık bir çok devletten bile kasasında daha çok parası olan **Apple, Microsoft, Tesla, Google, Adobe** vs gibi teknoloji şirketleri, bazı devletlerden bile daha güçlü hale geldi. _Bu devlerin satın alamayacağı bir hükümet var mı?_ Kapalı kutu Çin’in yapay zekaya oldukça fazla yatırım yaptığını da göz ardı etmemek lazım.
