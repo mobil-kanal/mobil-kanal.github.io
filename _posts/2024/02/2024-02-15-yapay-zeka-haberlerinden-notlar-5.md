@@ -29,9 +29,9 @@ tags:
   - "yapay-zeka-haberleri"
   - "yapay-zeka-notlari"
   - "yazilar"
-cover-img: 2024/02/gemini_1.5_blog_social_share_subat-2024-1.png
-share-img: 2024/02/gemini_1.5_blog_social_share_subat-2024-1.png
-thumbnail-img: 2024/02/gemini_1.5_blog_social_share_subat-2024-1.png
+cover-img: /assets/img/2024/02/gemini_1.5_blog_social_share_subat-2024-1.png
+share-img: /assets/img/2024/02/gemini_1.5_blog_social_share_subat-2024-1.png
+thumbnail-img: /assets/img/2024/02/gemini_1.5_blog_social_share_subat-2024-1.png
 ---
 
 6 Şubat – 15 Şubat tarihleri arasında yapay zeka haberlerinden gözüme çarpanlardan çıkardığım notlar.
