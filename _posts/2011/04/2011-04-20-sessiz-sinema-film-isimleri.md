@@ -61,7 +61,7 @@ Her ne kadar bu sene mayıstan önce güneşin yüzünü göremeyeceğimizi söy
 - beyazlar beceremez-en
 - döngel karhanesi-tr
 - baba bizi eversene-tr
-- kınalı yapıncak( 1. Soğuk havada, açıkta bırakılan atlara örtülen uzun tüylü kebe — 2.Seyrek taneli, kırmızı benekli bir tür üzüm, kınalı yapıncak )
+- kınalı yapıncak( 1. Soğuk havada, açıkta bırakılan atlara örtülen uzun tüylü kebe — 2.Seyrek taneli, kırmızı benekli bir tür üzüm, kınalı yapıncak )
 - beynelminel-tr
 - balalayka-tr (Üç köşeli, üç teli olan Rus çalgısı)
 - tesadüfün böylesi-en
