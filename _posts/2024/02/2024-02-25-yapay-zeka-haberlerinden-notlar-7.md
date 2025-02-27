@@ -49,6 +49,7 @@ thumbnail-img: /assets/img/2024/02/stable-diffusion-3-subat-2023-stability-ai-ne
 - Adobe, Acrobat PDF’ler için “**Acrobat Assistant**” adında yeni bir yapay zeka (AI) asistanı [tanıttı](https://news.adobe.com/news/news-details/2024/Adobe-Brings-Conversational-AI-to-Trillions-of-PDFs-with-the-New-AI-Assistant-in-Reader-and-Acrobat/default.aspx). Bu AI asistanı, PDF’leri otomatik olarak 13 farklı dilde özetleyebiliyor, anahtar noktaları çıkarabiliyor ve belirli bilgileri arayabiliyor. **Acrobat Assistant**, şu anda Adobe Acrobat Pro DC ve Acrobat Pro DC aboneliklerinin bir parçası olarak kullanılabiliyor. Kullanıcılar, yapay zeka asistana metin veya sesli komutlar verebiliyor. Kullanıcılar, AI asistana “**Belgenin ana noktalarını özetle**” veya “**John Smith’in iletişim bilgilerini bul**” gibi komutlar verebiliyormuş. Ayrıca PDF’lerdeki tabloları ve grafikleri de özetleyebiliyormuş. Daha ne olsun!
 
 * * *
+
 | ![](/assets/img/2024/02/windows-fotograflar-yapay-zeka-subat-2024-2_photo_generase_marketingblog_01-1024x645-1.gif) |
 |:---:|
 | image credit [Windows Blog](https://blogs.windows.com/windows-insider/2024/02/22/windows-photos-gets-generative-erase-and-recent-ai-editing-features-now-available-on-arm64-devices-and-windows-10/) |
@@ -59,6 +60,7 @@ thumbnail-img: /assets/img/2024/02/stable-diffusion-3-subat-2023-stability-ai-ne
     - **AI-powered creative tools:** Fotoğraflara efektler, filtreler ve çerçeveler eklemenizi sağlar.
 
 * * *
+
 | ![](/assets/img/2024/02/google-gemma-subat-2024-karsilastirma-benchmark_chart_new.width-1000.format-1.jpeg) |
 |:---:|
 | image credit [Google](https://blog.google/technology/developers/gemma-open-models/) |
