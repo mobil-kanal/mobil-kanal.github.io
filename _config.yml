@@ -150,6 +150,20 @@ navbar-var-length: false
 #footer-link-col: "#E0E0E0"
 #footer-hover-col: "#357ABD"
 
+#chatgpt'den açık
+page-col: "#2B1B17"
+text-col: "#F5E6CC"
+link-col: "#FF8C42"
+hover-col: "#E76F51"
+navbar-col: "#5A3E36"
+navbar-text-col: "#F5E6CC"
+navbar-border-col: "#8C5A4B"
+footer-col: "#5A3E36"
+footer-text-col: "#C7B299"
+footer-link-col: "#FF8C42"
+footer-hover-col: "#E76F51"
+
+
 #eski site renkleri
 #page-col: "#F2F3F4"
 #text-col: "#404040"
@@ -164,17 +178,17 @@ navbar-var-length: false
 #footer-hover-col: "#0085A1"
 
 #orjinal renkler
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+#page-col: "#FFFFFF"
+#text-col: "#404040"
+#link-col: "#008AFF"
+#hover-col: "#0085A1"
+#navbar-col: "#EAEAEA"
+#navbar-text-col: "#404040"
+#navbar-border-col: "#DDDDDD"
+#footer-col: "#EAEAEA"
+#footer-text-col: "#777777"
+#footer-link-col: "#404040"
+#footer-hover-col: "#0085A1"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
