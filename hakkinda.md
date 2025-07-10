@@ -10,7 +10,7 @@ Hayatın içinden fotoğraflar, videolar, sesleri kaydetmeyi ve yazmayı seviyor
 
 Son yıllarda artan `AI` çılgınlığının tersine bu sitenin en büyük özelliği yapay zeka ile üretilen içeriklerin kullanılmaması. Yapay zekaya karşı olduğum için değil, `insanca` `kusurlu` ve bazen `aptalca` içeriklerin beni daha iyi yansıttığını düşündüğüm için. Bu arada sitenin acemice ve gereksiz gibi göründüğünün farkındayım. Genel olarak amatörce cep telefonundan üretilen içerikler bulunmaktadır. Eğlence, arşiv ve boş zamanlarda can sıkıntısını gidermek için yapılan aktivite gibi bir şey.
 
-İçeriklerin tamamı (aşağıdakiler hariç) benim tarafımdan üretildiği için tüm hakları saklıdır ve bana aittir. 
+İçeriklerin tamamı benim tarafımdan üretildiği için tüm hakları saklıdır ve bana aittir. 
 
 Tüm bunların dışında çokta büyütülecek bir şey yok...
 
