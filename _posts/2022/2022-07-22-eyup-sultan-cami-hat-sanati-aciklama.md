@@ -3,20 +3,16 @@
 title: "Eyup Sultan Cami Hat Sanatı ve Açıklması"
 date: "2022-07-03"
 categories: 
-  - "sesler"
-  - "videolar"
+  - "fotograflar"
 tags: 
-  - "uskudar"
-  - "deniz-sesi"
-  - "insanlar"
+  - "eyup-sultan"
+  - "sanat"
+  - "cami"
   - "istanbul"
-  - "kiz-kulesi"
-  - "sahil"
-  - "salacak"
-  - "ses-kaydi"
-  - "su-sesi"
-  - "ses"
-  - "video"
+  - "hattat"
+  - "gorsel"
+  - "fotograf"
+  - "eyup-sultan-cami"
 #cover-img: 
 share-img: /assets/img/2022/07/eyup-sultan-hat-sanat-huvel-hayyul-kayyum.jpg
 thumbnail-img: /assets/img/2022/07/eyup-sultan-hat-sanat-huvel-hayyul-kayyum.jpg
