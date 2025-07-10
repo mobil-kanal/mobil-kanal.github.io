@@ -9,6 +9,7 @@ tags:
   - "apartman"
   - "bina"
   - "ses-kaydi"
+  - "ortam-sesleri"
   - "yapilar"
   - "yurume"
   - "yerler"

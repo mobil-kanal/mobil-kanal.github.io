@@ -7,6 +7,7 @@ categories:
   - "videolar"
 tags: 
   - "kaynama-sesi"
+  - "evsel"
   - "ses-kaydi"
   - "su"
   - "su-sesi"

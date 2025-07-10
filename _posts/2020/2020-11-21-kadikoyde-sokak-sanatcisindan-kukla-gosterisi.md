@@ -7,7 +7,6 @@ categories:
   - "videolar"
 tags: 
   - "etkinlik"
-  - "gezi"
   - "istanbul"
   - "kadikoy"
   - "kukla"

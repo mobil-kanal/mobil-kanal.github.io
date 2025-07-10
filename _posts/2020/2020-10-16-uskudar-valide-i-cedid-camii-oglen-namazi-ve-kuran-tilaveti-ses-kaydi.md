@@ -12,7 +12,7 @@ tags:
   - "kuran"
   - "kuran-tilaveti"
   - "namaz"
-  - "ortam-sesi"
+  - "ortam-sesleri"
   - "ses-kaydi"
   - "valide-i-cedid-camii"
   - "video"

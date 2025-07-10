@@ -9,6 +9,7 @@ tags:
   - "gurultu"
   - "korna"
   - "ses-kaydi"
+  - "ortam-sesleri"
   - "tasit"
   - "trafik"
   - "ulasim"

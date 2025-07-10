@@ -9,6 +9,7 @@ tags:
   - "ses"
   - "video"
   - "yaprak"
+  - "ortam-sesleri"
   - "ses-kaydi"
 cover-img: /assets/img/2024/08/cimen-yaprak-toprak-doga-park-1024x683-1.jpg
 share-img: /assets/img/2024/08/cimen-yaprak-toprak-doga-park-1024x683-1.jpg

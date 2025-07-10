@@ -9,7 +9,7 @@ tags:
   - "hayat"
   - "hiss"
   - "hiss-1"
-  - "ortam-sesi"
+  - "ortam-sesleri"
   - "video"
   - "ses"
   - "ses-kaydi"

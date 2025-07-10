@@ -11,6 +11,7 @@ tags:
   - "insanlar"
   - "istanbul"
   - "kiz-kulesi"
+  - "ortam-sesleri"
   - "sahil"
   - "salacak"
   - "ses-kaydi"

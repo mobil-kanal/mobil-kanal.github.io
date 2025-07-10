@@ -10,6 +10,7 @@ tags:
   - "bina"
   - "merdiven"
   - "ses-kaydi"
+  - "ortam-sesleri"
   - "yapilar"
   - "yurume"
   - "yerler"

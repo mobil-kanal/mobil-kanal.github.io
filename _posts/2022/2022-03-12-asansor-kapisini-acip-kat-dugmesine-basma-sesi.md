@@ -9,7 +9,7 @@ tags:
   - "apartman"
   - "asansor"
   - "bina"
-  - "evsel"
+  - "ortam-sesleri"
   - "makine"
   - "ses-kaydi"
   - "ses"

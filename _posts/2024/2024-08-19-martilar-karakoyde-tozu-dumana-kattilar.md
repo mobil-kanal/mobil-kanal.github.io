@@ -10,6 +10,7 @@ tags:
   - "marti"
   - "ses"
   - "video"
+  - "ortam-sesleri"
   - "ses-kaydi"
 cover-img: /assets/img/2024/08/marti-gokyuzu-mavi-kus-3.JPG
 share-img: /assets/img/2024/08/marti-gokyuzu-mavi-kus-3.JPG

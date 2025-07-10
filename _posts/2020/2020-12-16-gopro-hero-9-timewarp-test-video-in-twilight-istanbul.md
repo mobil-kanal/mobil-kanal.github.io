@@ -9,9 +9,7 @@ tags:
   - "gezi"
   - "gopro"
   - "gopro-hero-9"
-  - "gopro-hero-9-black"
   - "sultanahmet"
-  - "test-videosu"
   - "timewarp"
   - "video"
 cover-img: /assets/img/2021/10/gopro-hero-9-aksiyon-kamera-fotograf.jpg

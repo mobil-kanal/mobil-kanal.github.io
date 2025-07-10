@@ -9,7 +9,6 @@ tags:
   - "asmr"
   - "gopro"
   - "gopro-hero-9"
-  - "gopro-hero-9-black"
   - "kamera"
   - "ses-kaydi"
   - "video"
