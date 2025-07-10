@@ -1,5 +1,5 @@
 ---
-author: "Ömer Serdar Ören"
+#author: "mobilkanal"
 title: "Martılar Karaköy’de tozu dumana kattılar"
 date: "2024-08-19"
 categories: 

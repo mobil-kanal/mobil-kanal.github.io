@@ -1,5 +1,5 @@
 ---
-author: "Ömer Serdar Ören"
+#author: "mobilkanal"
 title: "Asansör kapısını açıp kat düğmesine basma sesi"
 date: "2022-03-12"
 categories: 

@@ -1,5 +1,5 @@
 ---
-author: "Ömer Serdar Ören"
+#author: "mobilkanal"
 title: "Hayatın İçinden Sesler Serisi 1 📣 (hiss-1)"
 date: "2021-04-16"
 categories: 

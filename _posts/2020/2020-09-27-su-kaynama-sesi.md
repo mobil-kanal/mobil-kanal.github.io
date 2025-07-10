@@ -1,5 +1,5 @@
 ---
-author: "Ömer Serdar Ören"
+#author: "mobilkanal"
 title: "Su 🔥 Kaynama Sesi"
 date: "2020-09-27"
 categories: 

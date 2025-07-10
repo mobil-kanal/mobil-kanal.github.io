@@ -1,5 +1,5 @@
 ---
-author: "Ömer Serdar Ören"
+#author: "mobilkanal"
 title: "Bismillâhirrahmânirrahîm"
 date: "2020-08-08"
 categories: 

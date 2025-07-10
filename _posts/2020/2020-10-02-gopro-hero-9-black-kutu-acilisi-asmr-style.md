@@ -1,5 +1,5 @@
 ---
-author: "Ömer Serdar Ören"
+#author: "mobilkanal"
 title: "GoPro Hero 9 Black Kutu 📦 Açılışı - ASMR style"
 date: "2020-10-02"
 categories: 

@@ -1,5 +1,5 @@
 ---
-author: "Ömer Serdar Ören"
+#author: "mobilkanal"
 title: "Kadıköy'de Sokak Sanatçısından Kukla 🎭 Gösterisi"
 date: "2020-11-21"
 categories: 

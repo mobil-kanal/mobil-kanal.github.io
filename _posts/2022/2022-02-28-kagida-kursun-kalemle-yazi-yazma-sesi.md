@@ -1,5 +1,5 @@
 ---
-author: "Ömer Serdar Ören"
+#author: "mobilkanal"
 title: "Kağıda kurşun kalemle yazı yazma sesi"
 date: "2022-02-28"
 categories: 

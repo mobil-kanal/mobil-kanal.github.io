@@ -1,5 +1,5 @@
 ---
-author: "Ömer Serdar Ören"
+#author: "mobilkanal"
 title: "Telegram'da yazı içine link 🔗 ekleme ve yazı 💬 düzenleme nasıl yapılır?"
 date: "2020-08-20"
 categories: 
@@ -8,8 +8,8 @@ tags:
   - "nasil-yapilir"
   - "telegram"
   - "video"
-share-img: /assets/img/2020/08/telegram_logo.png
-thumbnail-img: /assets/img/2020/08/telegram_logo.png
+#share-img: /assets/img/
+#thumbnail-img: /assets/img/
 ---
 
 Telegram’da yazı içine yani metne direkt link ekleme nasıl yapılır? Bağlantı eklemem gerektiğinde nasıl yapılacağını ilk başta bulamadım. İnternetten aradığımda çok kolay olduğunu gördüm. Belki başkalarının da işine yarar düşüncesiyle ekliyorum. Ayrıca yazdığınız yazıları düzenleme seçeneği de aynı menü yardımıyla oluyor.

@@ -1,5 +1,5 @@
 ---
-author: "Ömer Serdar Ören"
+#author: "mobilkanal"
 title: "Elektrikli zincirli ağaç kesme makinesi ve testere sesi"
 date: "2022-03-10"
 categories: 

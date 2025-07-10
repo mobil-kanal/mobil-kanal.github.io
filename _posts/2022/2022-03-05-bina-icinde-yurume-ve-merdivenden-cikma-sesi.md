@@ -1,5 +1,5 @@
 ---
-author: "Ömer Serdar Ören"
+#author: "mobilkanal"
 title: "Bina içinde yürüme ve merdivenden çıkma sesi"
 date: "2022-03-05"
 categories: 

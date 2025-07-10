@@ -1,5 +1,5 @@
 ---
-author: "Ömer Serdar Ören"
+#author: "mobilkanal"
 title: "Metal çırpıcı ile sulu yemek karıştırma sesi"
 date: "2022-03-15"
 categories: 

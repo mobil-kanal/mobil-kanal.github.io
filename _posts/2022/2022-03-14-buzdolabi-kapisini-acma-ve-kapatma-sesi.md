@@ -1,5 +1,5 @@
 ---
-author: "Ömer Serdar Ören"
+#author: "mobilkanal"
 title: "Buzdolabı kapısını açma ve kapatma sesi"
 date: "2022-03-14"
 categories: 

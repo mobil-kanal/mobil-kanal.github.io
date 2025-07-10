@@ -1,5 +1,5 @@
 ---
-author: "Ömer Serdar Ören"
+#author: "mobilkanal"
 title: "GoPro Hero 9 TimeWarp Test Video in Twilight 🌆 @ Istanbul"
 date: "2020-12-16"
 categories: 

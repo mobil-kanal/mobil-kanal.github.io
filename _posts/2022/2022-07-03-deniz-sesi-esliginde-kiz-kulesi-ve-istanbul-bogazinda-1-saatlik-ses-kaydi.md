@@ -1,5 +1,5 @@
 ---
-author: "Ömer Serdar Ören"
+#author: "mobilkanal"
 title: "Deniz sesi eşliğinde Kız Kulesi ve İstanbul Boğazında 1 Saatlik Ses Kaydı"
 date: "2022-07-03"
 categories: 

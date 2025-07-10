@@ -1,5 +1,5 @@
 ---
-author: "Ömer Serdar Ören"
+#author: "mobilkanal"
 title: "Ağır iş makinesi ve yoğun motor sesleri"
 date: "2022-03-17"
 categories: 

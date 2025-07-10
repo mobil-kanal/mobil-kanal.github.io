@@ -1,5 +1,5 @@
 ---
-author: "Ömer Serdar Ören"
+#author: "mobilkanal"
 title: "Hafif kaynayan su sesi (kettle)"
 date: "2022-03-08"
 categories: 

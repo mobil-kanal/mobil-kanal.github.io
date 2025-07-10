@@ -1,5 +1,5 @@
 ---
-author: "Ömer Serdar Ören"
+#author: "mobilkanal"
 title: "Defter sayfası çevirme ve kâğıt sesi"
 date: "2022-03-06"
 categories: 

@@ -1,5 +1,5 @@
 ---
-author: "Ömer Serdar Ören"
+#author: "mobilkanal"
 title: "Hipnotize 🌀 edici bir ses: Çamaşır Makinesi Sesi"
 date: "2020-09-12"
 categories: 

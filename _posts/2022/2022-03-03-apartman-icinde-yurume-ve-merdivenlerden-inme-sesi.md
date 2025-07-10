@@ -1,5 +1,5 @@
 ---
-author: "Ömer Serdar Ören"
+#author: "mobilkanal"
 title: "Apartman içinde yürüme ve merdivenlerden inme sesi"
 date: "2022-03-03"
 categories: 

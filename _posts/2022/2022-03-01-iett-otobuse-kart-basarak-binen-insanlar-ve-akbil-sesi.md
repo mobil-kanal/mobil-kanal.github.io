@@ -1,5 +1,5 @@
 ---
-author: "Ömer Serdar Ören"
+#author: "mobilkanal"
 title: "İETT otobüse kart basarak binen insanlar ve akbil sesi"
 date: "2022-03-01"
 categories: 

@@ -1,5 +1,5 @@
 ---
-author: "Ömer Serdar Ören"
+#author: "mobilkanal"
 title: "Üsküdar Valide-i Cedid Camii 🕌 Öğlen Namazı ve Kuran Tilaveti Ses Kaydı"
 date: "2020-10-16"
 categories: 

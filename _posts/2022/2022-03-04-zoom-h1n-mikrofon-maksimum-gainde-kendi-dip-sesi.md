@@ -1,5 +1,5 @@
 ---
-author: "Ömer Serdar Ören"
+#author: "mobilkanal"
 title: "Zoom h1n mikrofon maksimum gainde kendi dip sesi"
 date: "2022-03-04"
 categories: 

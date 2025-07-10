@@ -1,5 +1,5 @@
 ---
-author: "Ömer Serdar Ören"
+#author: "mobilkanal"
 title: "Kadıköy ➤ Eminönü Vapur 🚢 Yolculuğu: Motor ve Su 💧 Sesi"
 date: "2020-09-19"
 categories: 

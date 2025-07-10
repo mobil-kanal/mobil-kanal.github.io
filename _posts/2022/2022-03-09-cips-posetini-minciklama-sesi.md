@@ -1,5 +1,5 @@
 ---
-author: "Ömer Serdar Ören"
+#author: "mobilkanal"
 title: "Cips poşetini mıncıklama sesi"
 date: "2022-03-09"
 categories: 

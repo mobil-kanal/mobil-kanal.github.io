@@ -1,5 +1,5 @@
 ---
-author: "Ömer Serdar Ören"
+#author: "mobilkanal"
 title: "Şehir içi yoğun trafik ve korna sesleri"
 date: "2022-03-02"
 categories: 

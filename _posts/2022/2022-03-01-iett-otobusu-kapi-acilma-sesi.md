@@ -1,5 +1,5 @@
 ---
-author: "Ömer Serdar Ören"
+#author: "mobilkanal"
 title: "İETT otobüsü kapı açılma sesi"
 date: "2022-03-01"
 categories: 

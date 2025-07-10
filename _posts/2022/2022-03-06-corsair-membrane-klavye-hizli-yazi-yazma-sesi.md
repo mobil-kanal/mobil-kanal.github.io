@@ -1,5 +1,5 @@
 ---
-author: "Ömer Serdar Ören"
+#author: "mobilkanal"
 title: "Corsair membrane klavye hızlı yazı yazma sesi"
 date: "2022-03-06"
 categories: 

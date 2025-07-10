@@ -1,5 +1,5 @@
 ---
-author: "Ömer Serdar Ören"
+#author: "mobilkanal"
 title: "Yazıcıdan çıktı alma sesi"
 date: "2022-02-28"
 categories: 

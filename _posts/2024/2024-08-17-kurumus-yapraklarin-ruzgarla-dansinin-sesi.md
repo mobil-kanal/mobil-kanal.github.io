@@ -1,5 +1,5 @@
 ---
-author: "Ömer Serdar Ören"
+#author: "mobilkanal"
 title: "Kurumuş yaprakların rüzgarla dansının sesi"
 date: "2024-08-17"
 categories: 

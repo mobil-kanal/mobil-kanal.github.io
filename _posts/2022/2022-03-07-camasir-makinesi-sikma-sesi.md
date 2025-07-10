@@ -1,5 +1,5 @@
 ---
-author: "Ömer Serdar Ören"
+#author: "mobilkanal"
 title: "Çamaşır makinesi sıkma sesi"
 date: "2022-03-07"
 categories: 

@@ -1,5 +1,5 @@
 ---
-author: "Ömer Serdar Ören"
+#author: "mobilkanal"
 title: "Elektrikli süpürge sesi"
 date: "2022-03-29"
 categories: 

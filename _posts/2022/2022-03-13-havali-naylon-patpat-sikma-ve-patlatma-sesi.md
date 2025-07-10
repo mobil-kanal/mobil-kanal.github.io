@@ -1,5 +1,5 @@
 ---
-author: "Ömer Serdar Ören"
+#author: "mobilkanal"
 title: "Havalı naylon (patpat) sıkma ve patlatma sesi"
 date: "2022-03-13"
 categories: 

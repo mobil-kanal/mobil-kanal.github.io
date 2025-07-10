@@ -1,5 +1,5 @@
 ---
-author: "Ömer Serdar Ören"
+#author: "mobilkanal"
 title: "Çemberlitaş'ta sokağın, insanların ve tramvayın sesi"
 date: "2022-04-14"
 categories: 
