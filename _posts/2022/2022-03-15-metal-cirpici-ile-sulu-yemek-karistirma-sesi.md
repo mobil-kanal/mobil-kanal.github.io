@@ -7,7 +7,7 @@ categories:
 tags: 
   - "gida"
   - "metal"
-  - "mutfak-gereci"
+  - "mutfak"
   - "pisirme"
   - "surtunme"
   - "ses-kaydi"

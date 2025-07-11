@@ -1,7 +1,7 @@
 ---
 #author: "mobilkanal"
-title: "Eyup Sultan Cami Hat Sanatı ve Açıklması"
-date: "2022-07-03"
+title: "Eyüp Sultan Cami Hat Sanatı ve Açıklaması"
+date: "2022-07-22"
 categories: 
   - "fotograflar"
 tags: 
@@ -12,7 +12,6 @@ tags:
   - "hattat"
   - "gorsel"
   - "fotograf"
-  - "eyup-sultan-cami"
 #cover-img: 
 share-img: /assets/img/2022/07/eyup-sultan-hat-sanat-huvel-hayyul-kayyum.jpg
 thumbnail-img: /assets/img/2022/07/eyup-sultan-hat-sanat-huvel-hayyul-kayyum.jpg

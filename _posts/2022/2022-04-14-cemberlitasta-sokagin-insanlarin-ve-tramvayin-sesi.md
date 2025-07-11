@@ -5,7 +5,7 @@ date: "2022-04-14"
 categories: 
   - "sesler"
 tags: 
-  - "arac"
+  - "tasit"
   - "insanlar"
   - "istanbul"
   - "ses-kaydi"

@@ -8,7 +8,7 @@ tags:
   - "aletler"
   - "elektrikli-supurge"
   - "evsel"
-  - "makine-sesi"
+  - "makine-sesleri"
   - "ses-kaydi"
   - "temizlik"
   - "ses"
