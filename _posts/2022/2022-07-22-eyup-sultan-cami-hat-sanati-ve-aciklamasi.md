@@ -21,7 +21,7 @@ Eyüp Sultan Cami'nde asılı hat sanatı [örneği.](https://www.instagram.com/
 
 ![](/assets/img/2022/07/eyup-sultan-hat-sanat-huvel-hayyul-kayyum.jpg)
 
-Ne kadar simetrik, doğal ve etkileci. Keşke ne yazdığını anlayabilseydim.
+Ne kadar simetrik, doğal ve etkileyici. Keşke ne yazdığını anlayabilseydim.
 
 Güncelleme: Instagram'da bir kardeşimiz sağolsun gönderiye yorum yaparak ne yazdığını açıklamış. Ben de biri görür anlamını merak eder diye yorumu ekliyorum.
 
