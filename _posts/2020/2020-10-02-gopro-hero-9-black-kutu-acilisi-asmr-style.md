@@ -8,7 +8,6 @@ categories:
 tags: 
   - "asmr"
   - "gopro"
-  - "gopro-hero-9"
   - "kamera"
   - "ses-kaydi"
   - "video"
