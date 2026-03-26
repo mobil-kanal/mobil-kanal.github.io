@@ -202,7 +202,7 @@ footer-hover-col: "#EE7B3C" # Logodaki orta turuncu şerit (Footer linkleri içi
 #################################
 
 # Fill in your Google Analytics tag ID (or "Measurement ID") to track your website usage
-gtag: "G-GP3FS392J8"
+#gtag: "G-GPXXXX"
 
 # Fill in your Cloudflare Analytics beacon token to track your website using Cloudflare Analytics
 #cloudflare_analytics: ""
