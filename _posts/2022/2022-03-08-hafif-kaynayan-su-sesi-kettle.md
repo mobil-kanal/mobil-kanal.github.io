@@ -7,7 +7,7 @@ categories:
 tags: 
   - "aletler"
   - "evsel"
-  - "kaynayan-su"
+  - "kaynama-sesi"
   - "kettle"
   - "ses-kaydi"
   - "su"
