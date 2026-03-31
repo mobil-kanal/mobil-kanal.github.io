@@ -9,7 +9,7 @@ cover-img: /assets/img/2020/11/kadikoy-sahil-iskele-resim-acik-hava-sergi-rihtim
 share-img: /assets/img/2020/11/kadikoy-sahil-iskele-resim-acik-hava-sergi-rihtim.JPG
 thumbnail-img: /assets/img/2020/11/kadikoy-sahil-iskele-resim-acik-hava-sergi-rihtim.JPG
 #https://www.youtube.com/watch?v=ECLi8Gq9nPU
-#/assets/sound/2020/11/kadikoyde-sokak-sanatcisindan-kukla-gosterisi-sesi-mk.mp3
+#/assets/sound/2020/11/kadikoyde-sokak-sanatcisindan-kukla-gosterisi-sesi.mp3
 ---
 
 Telefon arşivimi karıştırırken bulduğum bu video beni geçmişe götürdü. İyi de oldu.
@@ -18,4 +18,4 @@ Kadıköy’de bir sokak sanatçısının kukla gösterisinden bir bölüm. Bizi
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ECLi8Gq9nPU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<audio controls src="/assets/sound/2020/11/kadikoyde-sokak-sanatcisindan-kukla-gosterisi-sesi-mk.mp3"></audio>
+<audio controls src="/assets/sound/2020/11/kadikoyde-sokak-sanatcisindan-kukla-gosterisi-sesi.mp3"></audio>
