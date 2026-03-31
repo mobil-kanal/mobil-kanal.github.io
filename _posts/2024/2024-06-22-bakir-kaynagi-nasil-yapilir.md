@@ -1,19 +1,14 @@
 ---
-#author: "mobilkanal"
+layout: post
 title: "Bakır kaynağı nasıl yapılır?"
-date: "2024-06-22"
-categories: 
-  - "videolar"
-tags: 
-  - "video"
-  - "nasil-yapilir"
-  - "bakir-kaynagi"
-  - "diy"
-  - "kendin-yap"
-  - "aletler"
+date: 2024-06-22T20:00:00+03:00:00
+categories: ["videolar"]
+tags: ["video", "nasil-yapilir", "bakir-kaynagi", "diy", "kendin-yap", "aletler"]
+author: "Ömer"
 #cover-img: /assets/img/
 #share-img: /assets/img/
 #thumbnail-img: /assets/img/
+#https://www.youtube.com/watch?v=9rSRdvrGjAg
 ---
 
 Bakır kaynağı nasıl yapılır?

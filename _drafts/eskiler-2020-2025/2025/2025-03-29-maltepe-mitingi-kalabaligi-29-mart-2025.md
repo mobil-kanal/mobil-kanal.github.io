@@ -1,0 +1,20 @@
+---
+#author: "mobilkanal"
+title: "Maltepe mitingi kalabalığı (29 Mart 2025)"
+date: "2025-03-29"
+categories: 
+  - "videolar"
+tags: 
+  - "video"
+  - "maltepe"
+  - "miting"
+  - "kalabalik"
+  - "insanlar"
+#cover-img: /assets/img/
+#share-img: /assets/img/
+#thumbnail-img: /assets/img/
+---
+
+Bugün Maltepe mitingine giderken öyle bir kalabalık vardı ki daha önce kimse böyle bir şey görmemiştir. Belki benim cahilliğim olabilir ama Bostancı'dan Maltepe'ye kadar insan seli vardı. Çok kalabalık olduğu için miting alanına giremedim ve geri döndüm. Geri dönerken hala gelenler vardı. Böyle bir şey olamaz.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mZL6TRM36dE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -1,17 +1,14 @@
 ---
-#author: "mobilkanal"
+layout: post
 title: "Bazen insan sadece bir düğmeye basarak gitmek istiyor!"
-date: "2023-01-20"
-categories: 
-  - "videolar"
-tags: 
-  - "sikinti"
-  - "video"
-  - "bikkinlik"
-  - "gitmek"
+date: 2023-01-20T20:00:00+03:00:00
+categories: ["videolar"]
+tags: ["sikinti", "video", "bikkinlik", "gitmek"]
+author: "Ömer"
 #cover-img: /assets/img/
 #share-img: /assets/img/
 #thumbnail-img: /assets/img/
+#https://www.youtube.com/watch?v=zB5gSvT_nzM
 ---
 
 Bazen insan istediği yere sadece bir düğmeye basarak s.olup gitmek istiyor!

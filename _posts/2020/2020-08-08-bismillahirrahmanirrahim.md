@@ -1,12 +1,14 @@
 ---
-#author: "mobilkanal"
+layout: post
 title: "Bismillâhirrahmânirrahîm"
-date: "2020-08-08"
-categories: 
-  - "blog"
-tags: 
-  - "merhaba"
-  - "yazi"
+subtitle: "Merhaba Dünya"
+date: 2020-08-08T16:00:00+03:00
+categories: ["blog"]
+tags: ["merhaba", "yazi"]
+author: "Ömer"
+#cover-img: 
+#share-img: /assets/img/
+#thumbnail-img: /assets/img/
 ---
 
 ![](/assets/img/2020/08/bismillah.jpeg)

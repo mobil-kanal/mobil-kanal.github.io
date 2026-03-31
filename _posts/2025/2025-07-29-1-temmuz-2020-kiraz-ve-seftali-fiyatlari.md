@@ -1,14 +1,10 @@
 ---
-#author: "mobilkanal"
+layout: post
 title: "1 Temmuz 2020 Kiraz ve Şeftali Fiyatları"
-date: "2025-07-29"
-categories: 
-  - "fotograflar"
-tags: 
-  - "fiyat"
-  - "fotograf"
-  - "kiraz"
-  - "seftali"
+date: 2025-07-29T20:00:00+03:00:00
+categories: ["fotograflar"]
+tags: ["fiyat", "fotograf", "kiraz", "seftali"]
+author: "Ömer"
 #cover-img: /assets/img/
 share-img: /assets/img/2025/07/migros-kiraz-fiyat-img_20200701_164507.jpg
 thumbnail-img: /assets/img/2025/07/migros-kiraz-fiyat-img_20200701_164507.jpg
