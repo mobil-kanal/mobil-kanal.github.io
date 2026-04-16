@@ -9,7 +9,7 @@ cover-img: /assets/img/2021/10/gopro-hero-9-aksiyon-kamera-fotograf.jpg
 share-img: /assets/img/2021/10/gopro-hero-9-aksiyon-kamera-fotograf.jpg
 thumbnail-img: /assets/img/2021/10/gopro-hero-9-aksiyon-kamera-fotograf.jpg
 #https://www.youtube.com/watch?v=xK1t16W0CZE
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xK1t16W0CZE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#<iframe width="560" height="315" src="https://www.youtube.com/embed/xK1t16W0CZE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
 
 İstanbul'un en güzel mekanlarından olan Sultanahmet ve Eminönü civarında GoPro Hero 9 Black cihazının TimeWarp özelliğini test ettim. Umarım beğenirsiniz.
