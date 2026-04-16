@@ -9,8 +9,10 @@ author: "Ömer"
 #share-img: /assets/img/
 #thumbnail-img: /assets/img/
 #https://www.youtube.com/watch?v=mZL6TRM36dE
+#<iframe width="560" height="315" src="https://www.youtube.com/embed/mZL6TRM36dE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
 
 Bugün Maltepe mitingine giderken öyle bir kalabalık vardı ki daha önce kimse böyle bir şey görmemiştir. Belki benim cahilliğim olabilir ama Bostancı'dan Maltepe'ye kadar insan seli vardı. Çok kalabalık olduğu için miting alanına giremedim ve geri döndüm. Geri dönerken hala gelenler vardı. Böyle bir şey olamaz.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mZL6TRM36dE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<https://www.youtube.com/watch?v=mZL6TRM36dE>
+

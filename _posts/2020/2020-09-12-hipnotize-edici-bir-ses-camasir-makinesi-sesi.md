@@ -10,11 +10,12 @@ thumbnail-img: /assets/img/2022/03/foto-2020-9-12-camasir-makinesi-sesi-1024x576
 share-img: /assets/img/2022/03/foto-2020-9-12-camasir-makinesi-sesi-1024x576-1.jpeg
 #https://www.youtube.com/watch?v=UIxqZEN1PpA
 #/assets/sound/2020/09/camasir-makinesi-sesi.mp3
+#<iframe width="560" height="315" src="https://www.youtube.com/embed/UIxqZEN1PpA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
 
 Çamaşır makinesin sesini günlük hayatın koşuşturmacası haricinde hiç dinleme fırsatınız oldu mu? Biliyorum kulağa saçma geliyor ama bazı sesleri günlük telaşlara kapılmadan dikkatle dinlediğimizde ilginç etkiler bırakabiliyor. Çamaşır makinesi de bunlarda biri. Özellikle sıkma bölümünde aşama aşama devir atlatmasının uyandırdığı his oldukça etkili.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UIxqZEN1PpA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<https://www.youtube.com/watch?v=UIxqZEN1PpA>
 
 Yüksek kaliteli olarak kaydettiğimiz bu sesi kulaklıkla dinlemenizi tavsiye ederim.
 

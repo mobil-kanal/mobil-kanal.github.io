@@ -10,10 +10,11 @@ share-img: /assets/img/2022/07/kiz-kulesi-bogaz-salacak.jpg
 thumbnail-img: /assets/img/2022/07/kiz-kulesi-bogaz-salacak.jpg
 #https://www.youtube.com/watch?v=iRTfr0T1HK4
 #/assets/sound/2022/07/uskudar-salacak-sahilde-deniz-ve-insanlarin-sesi-1-saat-2022-7-1.mp3
+#<iframe width="560" height="315" src="https://www.youtube.com/embed/iRTfr0T1HK4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
 
 Deniz sesi eşliğinde Kız Kulesi ve İstanbul Boğazında 1 Saatlik Ses Kaydı
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iRTfr0T1HK4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<https://www.youtube.com/watch?v=iRTfr0T1HK4>
 
 <audio controls src="/assets/sound/2022/07/uskudar-salacak-sahilde-deniz-ve-insanlarin-sesi-1-saat-2022-7-1.mp3"></audio>

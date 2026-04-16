@@ -10,14 +10,13 @@ share-img: /assets/img/2024/08/cimen-yaprak-toprak-doga-park-1024x683-1.jpg
 thumbnail-img: /assets/img/2024/08/cimen-yaprak-toprak-doga-park-1024x683-1.jpg
 #https://www.youtube.com/watch?v=HxNO_sTULvM
 #/assets/sound/2024/08/kurumus-yapraklarin-sesi.mp3
+#<iframe width="560" height="315" src="https://www.youtube.com/embed/HxNO_sTULvM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
 
 Bu sese bayılıyorum dediğim seslerden biri. Kurumuş yaprakların rüzgarla dansının çıkardığı ses sizi de rahatlatmıyor mu?
 
 Bir sonrakine daha uzun ve yüksek kaliteli şekilde kaydetmek için yapılacaklar listesine ekledim.
 
+<https://www.youtube.com/watch?v=HxNO_sTULvM>
+
 <audio controls src="/assets/sound/2024/08/kurumus-yapraklarin-sesi.mp3"></audio>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HxNO_sTULvM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-

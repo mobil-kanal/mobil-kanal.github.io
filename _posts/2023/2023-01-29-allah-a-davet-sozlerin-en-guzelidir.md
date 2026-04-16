@@ -9,8 +9,9 @@ author: "Ömer"
 #share-img: /assets/img/
 #thumbnail-img: /assets/img/
 ##https://www.youtube.com/watch?v=8Rjv7_mtHSM
+#<iframe width="560" height="315" src="https://www.youtube.com/embed/8Rjv7_mtHSM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
 
 Allah (c.c)‘a davet, sözlerin en güzelidir. Gerçek kurtuluş o sözlerdedir.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Rjv7_mtHSM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<https://www.youtube.com/watch?v=8Rjv7_mtHSM>

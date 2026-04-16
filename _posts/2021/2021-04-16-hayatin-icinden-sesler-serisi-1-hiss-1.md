@@ -10,10 +10,11 @@ share-img: /assets/img/2021/04/hiss-1-metro-yansima-tunel-ray-tren.jpg
 thumbnail-img: /assets/img/2021/04/hiss-1-metro-yansima-tunel-ray-tren.jpg
 #https://www.youtube.com/watch?v=E_0M-GC7DKc
 #/assets/sound/2021/04/hayatin-icinden-sesler-serisi-1-hiss1.mp3
+#<iframe width="560" height="315" src="https://www.youtube.com/embed/E_0M-GC7DKc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
 
 Hayatın içinden sesler serisi adı altında bir diziye başladım. Boş zamanlarda yapılacak boş işler serisi de denebilirdi ama **#hiss** kısaltmasını daha karizmatik buldum 🙂
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E_0M-GC7DKc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<https://www.youtube.com/watch?v=E_0M-GC7DKc>
 
 <audio controls src="/assets/sound/2021/04/hayatin-icinden-sesler-serisi-1-hiss1.mp3"></audio>
