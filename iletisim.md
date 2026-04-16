@@ -15,7 +15,7 @@ Sosyal medyadan takip etmek isterseniz size uygun olanı aşağıdan bulabilirsi
 - **Linktree:** [https://linktr.ee/mobilkanal](https://linktr.ee/mobilkanal)
 - **Instagram:** [https://instagram.com/mobilkanal](https://www.instagram.com/mobilkanal)
 - **YouTube:** [https://youtube.com/mobilkanal](https://www.youtube.com/mobilkanal)
-- **TikTok:** [https://tiktok.com/@mobilkanal](https://wwwçtiktok.com/@mobilkanal)
+- **TikTok:** [https://tiktok.com/@mobilkanal](https://www.tiktok.com/@mobilkanal)
 - **Spotify Podcast:** [https://creators.spotify.com/pod/show/mobilkanal](https://creators.spotify.com/pod/show/mobilkanal)
 - **Twitter:** [https://twitter.com/mobil\_kanal](https://twitter.com/mobil_kanal)
 - **Tumblr:** [https://mobilkanal.tumblr.com/](https://mobilkanal.tumblr.com/)
