@@ -3,7 +3,7 @@ layout: post
 title: "Hayatın İçinden Sesler Serisi 1 📣 (hiss-1)"
 date: 2021-04-16T20:00:00+03:00:00
 categories: ["videolar", "sesler"]
-tags: [ "hayat", "hiss", "hiss-1", "ortam-sesleri", "video", "ses", "ses-kaydi"]
+tags: [ "hiss", "hiss-1", "ortam-sesleri", "video", "ses", "ses-kaydi"]
 author: "Ömer"
 cover-img: /assets/img/2021/04/hiss-1-metro-yansima-tunel-ray-tren.jpg
 share-img: /assets/img/2021/04/hiss-1-metro-yansima-tunel-ray-tren.jpg
