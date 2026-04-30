@@ -1,4 +1,5 @@
 ---
+draft: false
 layout: post
 title: "Duvarların Dilinde: KAN (Grafiti)"
 #subtitle: ""
