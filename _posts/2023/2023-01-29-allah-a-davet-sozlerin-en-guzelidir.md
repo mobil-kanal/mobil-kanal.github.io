@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Allah‘a davet, sözlerin en güzelidir"
-date: 2023-01-29T20:00:00+03:00:00
+date: 2023-01-29T19:00:00+03:00:00
 categories: ["videolar"]
 tags: ["video", "ezan", "sultanahmet", "istanbul", "ayasofya", "cami", "islam"]
 author: "Ömer"
