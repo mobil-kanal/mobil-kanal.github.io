@@ -8,8 +8,8 @@ categories: ["blog"]
 tags: [	"duvar-yazisi", "fotograf", "grafiti", "sokak-sanatcisi", "sokak-sanati"]
 author: "Ömer"
 #cover-img: 
-thumbnail-img: "/assets/img/2026/04/kan-grafiti-26-04-23-08-40-56-0163.jpg"
-share-img: "/assets/img/2026/04/kan-grafiti-26-04-23-08-40-56-0163.jpg"
+thumbnail-img: /assets/img/2026/04/kan-grafiti-26-04-23-08-40-56-0163.jpg
+share-img: /assets/img/2026/04/kan-grafiti-26-04-23-08-40-56-0163.jpg
 ---
 
 ![](/assets/img/2026/04/kan-grafiti-26-04-23-08-40-56-0163.jpg)
