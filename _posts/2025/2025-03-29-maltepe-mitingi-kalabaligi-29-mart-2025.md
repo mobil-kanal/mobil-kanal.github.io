@@ -3,7 +3,7 @@ layout: post
 title: "Maltepe mitingi kalabalığı (29 Mart 2025)"
 date: 2025-03-29T20:00:00+03:00:00
 categories: ["videolar"]
-tags: ["video", "maltepe", "miting", "kalabalik", "insanlar"]
+tags: ["video", "maltepe", "miting", "kalabalik", "insanlar", "protesto"]
 author: "Ömer"
 #cover-img: /assets/img/
 #share-img: /assets/img/
