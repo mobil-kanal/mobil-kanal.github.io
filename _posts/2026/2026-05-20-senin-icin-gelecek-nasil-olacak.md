@@ -5,7 +5,7 @@ title: "Senin için gelecek… nasıl olacak?"
 #subtitle: ""
 date: 2026-05-20T19:00:00+03:00
 categories: ["blog"]
-tags: [	"duvar-yazisi", "fotograf", "kuran", "sokak-fotograflari"]
+tags: ["duvar-yazisi", "fotograf", "kuran", "sokak-fotograflari"]
 author: "Ömer"
 #cover-img: 
 thumbnail-img: /assets/img/2026/05/senin-icin-gelecek-nasil-olacak-duha-4-mayis-2026.jpg
