@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Üsküdar Valide-i Cedid Camii 🕌 Öğlen Namazı ve Kuran Tilaveti Ses Kaydı"
-date: 2020-10-16T20:00:00+03:00:00
+date: 2020-10-16T20:00:00+03:00
 categories: ["sesler", "videolar"]
 tags: ["uskudar", "cami", "istanbul", "kuran", "kuran-tilaveti", "namaz", "ortam-sesleri", "ses-kaydi", "valide-i-cedid-camii", "video", "ses"]
 author: "Ömer"

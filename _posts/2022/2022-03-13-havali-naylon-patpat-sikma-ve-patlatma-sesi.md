@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Havalı naylon (patpat) sıkma ve patlatma sesi"
-date: 2022-03-13T20:00:00+03:00:00
+date: 2022-03-13T20:00:00+03:00
 categories: ["sesler"]
 tags: ["evsel", "naylon", "patlama", "patpat", "ses-kaydi", "ses"]
 author: "Ömer"

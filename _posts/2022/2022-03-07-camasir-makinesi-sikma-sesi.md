@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Çamaşır makinesi sıkma sesi"
-date: 2022-03-07T20:00:00+03:00:00
+date: 2022-03-07T20:00:00+03:00
 categories: ["sesler"]
 tags: ["aletler", "camasir", "camasir-makinesi", "evsel", "ses-kaydi", "sikma", "ses"]
 author: "Ömer"

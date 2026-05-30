@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kadıköy'de Sokak Sanatçısından Kukla 🎭 Gösterisi"
-date: 2020-11-21T20:00:00+03:00:00
+date: 2020-11-21T20:00:00+03:00
 categories: ["sesler", "videolar"]
 tags: [ "etkinlik", "istanbul", "kadikoy", "kukla", "sokak-sanatcisi", "video", "ses", "ses-kaydi"]
 author: "Ömer"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Asansör kapısını açıp kat düğmesine basma sesi"
-date: 2022-03-12T20:00:00+03:00:00
+date: 2022-03-12T20:00:00+03:00
 categories: ["sesler"]
 tags: ["aletler", "apartman", "asansor", "bina", "ortam-sesleri", "makine", "ses-kaydi", "ses"]
 author: "Ömer"

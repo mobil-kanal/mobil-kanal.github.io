@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Martılar Karaköy’de tozu dumana kattılar"
-date: 2024-08-19T20:00:00+03:00:00
+date: 2024-08-19T20:00:00+03:00
 categories: ["sesler", "videolar"]
 tags: ["karakoy", "marti", "ses", "video", "ortam-sesleri", "ses-kaydi"]
 author: "Ömer"

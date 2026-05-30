@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hafif kaynayan su sesi (kettle)"
-date: 2022-03-08T20:00:00+03:00:00
+date: 2022-03-08T20:00:00+03:00
 categories: ["sesler"]
 tags: ["aletler", "evsel", "kaynama-sesi", "kettle", "ses-kaydi", "su", "su-sesi", "ses"]
 author: "Ömer"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Güneş tutulmasını çekmeye çalıştım: Çekemedim!"
-date: 2022-10-25T17:00:00+03:00:00
+date: 2022-10-25T17:00:00+03:00
 categories: ["fotograflar"]
 tags: ["gunes-tutulmasi", "istanbul", "fotograf"]
 author: "Ömer"

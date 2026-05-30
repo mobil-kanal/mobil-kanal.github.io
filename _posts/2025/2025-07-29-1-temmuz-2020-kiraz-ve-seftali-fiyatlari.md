@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "1 Temmuz 2020 Kiraz ve Şeftali Fiyatları"
-date: 2025-07-29T20:00:00+03:00:00
+date: 2025-07-29T20:00:00+03:00
 categories: ["fotograflar"]
 tags: ["fiyat", "fotograf", "kiraz", "seftali", "ekonomi"]
 author: "Ömer"

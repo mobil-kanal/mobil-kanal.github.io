@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fethipaşa Korusundan Yansımalar"
-date: 2022-08-15T18:00:00+03:00:00
+date: 2022-08-15T18:00:00+03:00
 categories: ["fotograflar"]
 tags: ["fethipasa", "uskudar", "fotograf", "sokak-fotograflari"]
 author: "Ömer"

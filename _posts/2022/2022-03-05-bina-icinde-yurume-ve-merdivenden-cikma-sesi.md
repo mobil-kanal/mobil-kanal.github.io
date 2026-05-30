@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bina içinde yürüme ve merdivenden çıkma sesi"
-date: 2022-03-05T20:00:00+03:00:00
+date: 2022-03-05T20:00:00+03:00
 categories: ["sesler"]
 tags: ["adim", "apartman", "bina", "ses-kaydi", "ortam-sesleri", "yapilar", "yurume", "yerler", "ses"]
 author: "Ömer"

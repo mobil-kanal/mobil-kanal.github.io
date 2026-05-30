@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ağır iş makinesi ve yoğun motor sesleri"
-date: 2022-03-17T20:00:00+03:00:00
+date: 2022-03-17T20:00:00+03:00
 categories: ["sesler"]
 tags: ["is-makinesi", "makine", "motor", "ses-kaydi", "tasit", "ses"]
 author: "Ömer"

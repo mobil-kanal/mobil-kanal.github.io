@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Defter sayfası çevirme ve kâğıt sesi"
-date: 2022-03-06T18:00:00+03:00:00
+date: 2022-03-06T18:00:00+03:00
 categories: ["sesler"]
 tags: ["defter", "egitim", "kagit", "sayfa", "ofis", "sayfa-cevirme", "ses-kaydi", "ses"]
 author: "Ömer"

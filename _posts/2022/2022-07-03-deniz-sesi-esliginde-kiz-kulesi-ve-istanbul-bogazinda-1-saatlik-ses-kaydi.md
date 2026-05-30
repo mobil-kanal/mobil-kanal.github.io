@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Deniz sesi eşliğinde Kız Kulesi ve İstanbul Boğazında 1 Saatlik Ses Kaydı"
-date: 2022-07-03T20:00:00+03:00:00
+date: 2022-07-03T20:00:00+03:00
 categories: ["sesler", "videolar"]
 tags: ["uskudar", "deniz-sesi", "insanlar", "istanbul", "kiz-kulesi", "ortam-sesleri", "sahil", "salacak", "ses-kaydi", "su-sesi", "ses", "video"]
 author: "Ömer"

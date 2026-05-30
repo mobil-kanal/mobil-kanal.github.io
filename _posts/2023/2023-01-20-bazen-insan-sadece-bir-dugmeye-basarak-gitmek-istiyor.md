@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bazen insan sadece bir düğmeye basarak gitmek istiyor!"
-date: 2023-01-20T20:00:00+03:00:00
+date: 2023-01-20T20:00:00+03:00
 categories: ["videolar"]
 tags: ["sikinti", "video", "bikkinlik", "gitmek"]
 author: "Ömer"

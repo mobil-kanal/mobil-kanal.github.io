@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Buzdolabı kapısını açma ve kapatma sesi"
-date: 2022-03-14T20:00:00+03:00:00
+date: 2022-03-14T20:00:00+03:00
 categories: ["sesler"]
 tags: ["aletler", "buzdolabi", "evsel", "kapi", "mutfak", "ses-kaydi", "ses"]
 author: "Ömer"

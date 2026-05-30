@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2023 Mart Ayından Kareler"
-date: 2023-03-30T16:00:00+03:00:00
+date: 2023-03-30T16:00:00+03:00
 categories: ["fotograflar"]
 tags: ["fotograf", "sokak-fotograflari"]
 author: "Ömer"

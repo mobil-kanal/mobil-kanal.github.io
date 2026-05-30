@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nemli, çatlak, kırık, tozlu, puslu"
-date: 2024-08-19T21:00:00+03:00:00
+date: 2024-08-19T21:00:00+03:00
 categories: ["fotograflar"]
 tags: ["fotograf"]
 author: "Ömer"

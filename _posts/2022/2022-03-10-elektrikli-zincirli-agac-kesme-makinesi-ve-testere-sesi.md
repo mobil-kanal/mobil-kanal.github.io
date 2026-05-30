@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Elektrikli zincirli ağaç kesme makinesi ve testere sesi"
-date: 2022-03-10T20:00:00+03:00:00
+date: 2022-03-10T20:00:00+03:00
 categories: ["sesler"]
 tags: ["aletler", "agac", "makine", "ses-kaydi", "testere", "ses"]
 author: "Ömer"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apartman içinde yürüme ve merdivenlerden inme sesi"
-date: 2022-03-03T20:00:00+03:00:00
+date: 2022-03-03T20:00:00+03:00
 categories: ["sesler"]
 tags: ["adim", "apartman", "bina", "merdiven", "ses-kaydi", "ortam-sesleri", "yapilar", "yurume", "yerler", "ses"]
 author: "Ömer"

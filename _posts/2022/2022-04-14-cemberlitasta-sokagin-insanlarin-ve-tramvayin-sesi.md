@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Çemberlitaş'ta sokağın, insanların ve tramvayın sesi"
-date: 2022-04-14T20:00:00+03:00:00
+date: 2022-04-14T20:00:00+03:00
 categories: ["sesler"]
 tags: ["tasit", "insanlar", "istanbul", "ses-kaydi", "sokak", "trafik", "tramvay", "ulasim", "ses"]
 author: "Ömer"

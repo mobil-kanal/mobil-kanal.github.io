@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Less is more (duvar yazısı)"
-date: 2025-11-02T20:00:00+03:00:00
+date: 2025-11-02T20:00:00+03:00
 categories: ["fotograflar"]
 tags: ["less-is-more", "fotograf", "duvar-yazisi"]
 author: "Ömer"

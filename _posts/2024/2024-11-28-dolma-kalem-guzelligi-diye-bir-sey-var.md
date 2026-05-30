@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dolma kalem güzelliği diye bir şey var"
-date: 2024-1-28T13:00:00+03:00:00
+date: 2024-11-28T13:00:00+03:00
 categories: ["fotograflar"]
 tags: ["fotograf", "dolma-kalem", "pelikan"]
 author: "Ömer"

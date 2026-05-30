@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GoPro Hero 9 TimeWarp Test Video in Twilight 🌆 @ Istanbul"
-date: 2020-12-16T19:00:00+03:00:00
+date: 2020-12-16T19:00:00+03:00
 categories: ["videolar"]
 tags: ["eminonu", "gezi", "gopro", "sultanahmet", "timewarp", "video"]
 author: "Ömer"

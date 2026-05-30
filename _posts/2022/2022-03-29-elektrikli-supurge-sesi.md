@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Elektrikli süpürge sesi"
-date: 2022-03-29T20:00:00+03:00:00
+date: 2022-03-29T20:00:00+03:00
 categories: ["sesler"]
 tags: ["aletler", "elektrikli-supurge", "evsel", "makine-sesleri", "ses-kaydi", "temizlik", "ses"]
 author: "Ömer"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kağıda kurşun kalemle yazı yazma sesi"
-date: 2022-02-28T18:00:00+03:00:00
+date: 2022-02-28T18:00:00+03:00
 categories: ["sesler"]
 tags: ["egitim", "kalem", "kagit", "ofis", "ses-kaydi", "yazi-yazma", "ses"]
 author: "Ömer"

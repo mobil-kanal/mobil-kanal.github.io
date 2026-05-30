@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kadıköy'den Gün Batışı"
-date: 2023-04-29T20:00:00+03:00:00
+date: 2023-04-29T20:00:00+03:00
 categories: ["fotograflar"]
 tags: ["fotograf", "kadikoy", "gun-batisi"]
 author: "Ömer"

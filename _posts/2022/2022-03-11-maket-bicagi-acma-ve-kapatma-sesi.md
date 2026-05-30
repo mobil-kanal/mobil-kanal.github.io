@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Maket bıçağı açma ve kapatma sesi"
-date: 2022-03-11T20:00:00+03:00:00
+date: 2022-03-11T20:00:00+03:00
 categories: ["sesler"]
 tags: ["aletler", "bicak", "maket-bicagi", "ofis", "ses-kaydi", "ses"]
 author: "Ömer"

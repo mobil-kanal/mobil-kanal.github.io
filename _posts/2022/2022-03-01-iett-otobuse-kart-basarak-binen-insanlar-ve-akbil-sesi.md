@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "İETT otobüse kart basarak binen insanlar ve akbil sesi"
-date: 2022-03-01T15:00:00+03:00:00
+date: 2022-03-01T15:00:00+03:00
 categories: ["sesler"]
 tags: ["akbil", "iett", "istanbul", "istanbul-kart", "ortam-sesleri", "otobus", "ses-kaydi", "toplu-tasima", "ulasim", "ses"]
 author: "Ömer"

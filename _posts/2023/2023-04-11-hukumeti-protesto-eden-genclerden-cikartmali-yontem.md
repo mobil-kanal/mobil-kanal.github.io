@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hükümeti protesto eden gençlerden çıkartmalı yöntem"
-date: 2023-04-11T20:00:00+03:00:00
+date: 2023-04-11T20:00:00+03:00
 categories: ["fotograflar"]
 tags: ["fotograf", "hukumet", "protesto", "secim"]
 author: "Ömer"

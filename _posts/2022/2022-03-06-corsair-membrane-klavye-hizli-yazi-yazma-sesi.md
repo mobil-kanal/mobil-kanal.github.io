@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Corsair membrane klavye hızlı yazı yazma sesi"
-date: 2022-03-06T16:00:00+03:00:00
+date: 2022-03-06T16:00:00+03:00
 categories: ["sesler"]
 tags: ["aletler", "klavye", "membrane", "ofis", "ses-kaydi", "yazi", "yazi-yazma", "ses"]
 author: "Ömer"

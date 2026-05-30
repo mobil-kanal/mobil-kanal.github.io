@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kurumuş yaprakların rüzgarla dansının sesi"
-date: 2024-08-17T20:00:00+03:00:00
+date: 2024-08-17T20:00:00+03:00
 categories: ["sesler", "videolar"]
 tags: ["ses", "video", "yaprak", "ortam-sesleri", "ses-kaydi"]
 author: "Ömer"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Şehirdeki Olta"
-date: 2022-10-30T17:00:00+03:00:00
+date: 2022-10-30T17:00:00+03:00
 categories: ["fotograflar"]
 tags: ["olta", "uskudar", "istanbul", "fotograf"]
 author: "Ömer"

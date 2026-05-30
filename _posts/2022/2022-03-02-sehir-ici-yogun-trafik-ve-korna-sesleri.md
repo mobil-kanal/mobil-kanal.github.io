@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Şehir içi yoğun trafik ve korna sesleri"
-date: 2022-03-02T20:00:00+03:00:00
+date: 2022-03-02T20:00:00+03:00
 categories: ["sesler"]
 tags: ["araba", "gurultu", "korna", "ses-kaydi", "ortam-sesleri", "tasit", "trafik", "ulasim", "sehir", "ses"]
 author: "Ömer"

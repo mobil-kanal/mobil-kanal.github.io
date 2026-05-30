@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bardağa su doldurma sesi"
-date: 2022-03-06T14:00:00+03:00:00
+date: 2022-03-06T14:00:00+03:00
 categories: ["sesler"]
 tags: ["bardak", "evsel", "ses-kaydi", "su", "su-sesi", "su-doldurma", "ses"]
 author: "Ömer"

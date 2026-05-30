@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bakır kaynağı nasıl yapılır?"
-date: 2024-06-22T20:00:00+03:00:00
+date: 2024-06-22T20:00:00+03:00
 categories: ["videolar"]
 tags: ["video", "nasil-yapilir", "bakir-kaynagi", "diy", "kendin-yap", "aletler"]
 author: "Ömer"

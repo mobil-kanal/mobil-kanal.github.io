@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Yazıcıdan çıktı alma sesi"
-date: 2022-02-28T20:00:00+03:00:00
+date: 2022-02-28T20:00:00+03:00
 categories: ["sesler"]
 tags: ["aletler", "cikti", "kagit", "makine", "ofis", "printer", "ses-kaydi", "ses"]
 author: "Ömer"

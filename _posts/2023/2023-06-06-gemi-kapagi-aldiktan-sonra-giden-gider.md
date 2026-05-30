@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gemi kapağı aldıktan sonra, giden gider…"
-date: 2023-06-06T20:00:00+03:00:00
+date: 2023-06-06T20:00:00+03:00
 categories: ["fotograflar"]
 tags: ["fotograf", "sokak-fotograflari", "arabali-vapur", "deniz", "gemi"]
 author: "Ömer"

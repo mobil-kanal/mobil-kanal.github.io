@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Passiflora caerulea nam-ı diğer Çarkıfelek"
-date: 2023-06-24T20:00:00+03:00:00
+date: 2023-06-24T20:00:00+03:00
 categories: ["fotograflar"]
 tags: ["fotograf", "carkifelek", "cicek", "passiflora"]
 author: "Ömer"

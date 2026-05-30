@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Çanakkale zaferi gösterisi (Üsküdar Meydanı – 2023)"
-date: 2023-03-18T18:00:00+03:00:00
+date: 2023-03-18T18:00:00+03:00
 categories: ["videolar"]
 tags: ["video", "canakkale", "gosteri", "uskudar"]
 author: "Ömer"

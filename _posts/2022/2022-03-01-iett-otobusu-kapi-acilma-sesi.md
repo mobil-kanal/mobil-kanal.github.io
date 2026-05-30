@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "İETT otobüsü kapı açılma sesi"
-date: 2022-03-01T17:00:00+03:00:00
+date: 2022-03-01T17:00:00+03:00
 categories: ["sesler"]
 tags: ["iett", "kapi-sesi", "otobus", "ses-kaydi", "toplu-tasima", "ulasim", "ses"]
 author: "Ömer"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bireysel silahlanmaya bir örnek"
-date: 2023-01-18T16:00:00+03:00:00
+date: 2023-01-18T16:00:00+03:00
 categories: ["fotograflar"]
 tags: ["fotograf", "iett", "otobus", "silah", "sokak-fotograflari"]
 author: "Ömer"

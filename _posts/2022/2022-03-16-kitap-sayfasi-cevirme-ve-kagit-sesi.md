@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kitap sayfası çevirme ve kâğıt sesi"
-date: 2022-03-16T20:00:00+03:00:00
+date: 2022-03-16T20:00:00+03:00
 categories: ["sesler"]
 tags: ["defter", "kagit", "kitap", "ofis", "sayfa", "sayfa-cevirme", "ses-kaydi", "ses"]
 author: "Ömer"

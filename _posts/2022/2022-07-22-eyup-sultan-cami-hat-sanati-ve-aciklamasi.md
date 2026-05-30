@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Eyüp Sultan Cami Hat Sanatı ve Açıklaması"
-date: 2022-07-22T20:00:00+03:00:00
+date: 2022-07-22T20:00:00+03:00
 categories: ["fotograflar"]
 tags: ["eyup-sultan", "sanat", "cami", "istanbul", "hattat", "fotograf"]
 author: "Ömer"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Eyüp Sultan Camii"
-date: 2023-02-05T20:00:00+03:00:00
+date: 2023-02-05T20:00:00+03:00
 categories: ["fotograflar"]
 tags: ["fotograf", "istanbul", "eyup-sultan", "cami", "sokak-fotograflari"]
 author: "Ömer"

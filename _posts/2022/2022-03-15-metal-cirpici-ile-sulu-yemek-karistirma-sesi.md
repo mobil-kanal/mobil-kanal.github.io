@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Metal çırpıcı ile sulu yemek karıştırma sesi"
-date: 2022-03-15T20:00:00+03:00:00
+date: 2022-03-15T20:00:00+03:00
 categories: ["sesler"]
 tags: ["gida", "metal", "mutfak", "pisirme", "surtunme", "ses-kaydi", "yemek", "ses"]
 author: "Ömer"

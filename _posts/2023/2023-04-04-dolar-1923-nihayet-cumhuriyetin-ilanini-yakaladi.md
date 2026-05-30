@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dolar 19,23: Nihayet cumhuriyetin ilanını yakaladı"
-date: 2023-04-04T20:00:00+03:00:00
+date: 2023-04-04T20:00:00+03:00
 categories: ["fotograflar"]
 tags: ["fotograf", "ekran-resmi", "dolar", "ekonomi"]
 author: "Ömer"
